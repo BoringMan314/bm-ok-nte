@@ -1,0 +1,254 @@
+{
+  "_comment": "NTE official terms: JP/KR from nte.perfectworld.com + game8; EN from EN client/wiki.",
+  "characters": {
+    "九原": {
+      "zh_TW": "九原",
+      "zh_CN": "九原",
+      "en_US": "Jiuyuan",
+      "ja_JP": "九原",
+      "ko_KR": "지위안",
+      "es_ES": "Jiuyuan",
+      "pt_BR": "Jiuyuan"
+    },
+    "娜娜莉": {
+      "zh_TW": "娜娜莉",
+      "zh_CN": "娜娜莉",
+      "en_US": "Nanally",
+      "ja_JP": "ナナリ",
+      "ko_KR": "나나리",
+      "es_ES": "Nanally",
+      "pt_BR": "Nanally"
+    },
+    "小吱": {
+      "zh_TW": "小吱",
+      "zh_CN": "小吱",
+      "en_US": "Chiz",
+      "ja_JP": "チズ",
+      "ko_KR": "치즈",
+      "es_ES": "Chiz",
+      "pt_BR": "Chiz"
+    },
+    "早雾": {
+      "zh_TW": "早霧",
+      "zh_CN": "早雾",
+      "en_US": "Sakiri",
+      "ja_JP": "早霧",
+      "ko_KR": "사키리",
+      "es_ES": "Sakiri",
+      "pt_BR": "Sakiri"
+    },
+    "浔": {
+      "zh_TW": "潯",
+      "zh_CN": "浔",
+      "en_US": "Hotori",
+      "ja_JP": "潯",
+      "ko_KR": "호토리",
+      "es_ES": "Hotori",
+      "pt_BR": "Hotori"
+    },
+    "薄荷": {
+      "zh_TW": "薄荷",
+      "zh_CN": "薄荷",
+      "en_US": "Mint",
+      "ja_JP": "ミント",
+      "ko_KR": "민트",
+      "es_ES": "Mint",
+      "pt_BR": "Mint"
+    },
+    "零": {
+      "zh_TW": "零",
+      "zh_CN": "零",
+      "en_US": "Zero",
+      "ja_JP": "零",
+      "ko_KR": "제로",
+      "es_ES": "Zero",
+      "pt_BR": "Zero"
+    }
+  },
+  "terms": {
+    "一咖舍": {
+      "en_US": "Cafe",
+      "ja_JP": "カフェ",
+      "ko_KR": "카페",
+      "es_ES": "café",
+      "pt_BR": "café"
+    },
+    "店长特供": {
+      "en_US": "Owner's Selection",
+      "ja_JP": "オーナーセレクション",
+      "ko_KR": "오너 셀렉션",
+      "es_ES": "Selección del dueño",
+      "pt_BR": "Seleção do dono"
+    },
+    "弧盘": {
+      "en_US": "Arc",
+      "ja_JP": "弧盤",
+      "ko_KR": "아크",
+      "es_ES": "Arc",
+      "pt_BR": "Arc"
+    },
+    "空幕": {
+      "en_US": "Console",
+      "ja_JP": "コンソール",
+      "ko_KR": "콘솔",
+      "es_ES": "Consola",
+      "pt_BR": "Console"
+    },
+    "粉爪": {
+      "en_US": "Pink Paws",
+      "ja_JP": "ピンクポーズ",
+      "ko_KR": "핑크 포즈",
+      "es_ES": "Pink Paws",
+      "pt_BR": "Pink Paws"
+    },
+    "异象界域": {
+      "en_US": "Anomaly Zone",
+      "ja_JP": "アノマリーゾーン",
+      "ko_KR": "아노말리 존",
+      "es_ES": "Zona de anomalías",
+      "pt_BR": "Zona de anomalias"
+    },
+    "环期": {
+      "en_US": "Periodic",
+      "ja_JP": "周期",
+      "ko_KR": "주기",
+      "es_ES": "Periódico",
+      "pt_BR": "Periódico"
+    },
+    "活跃度": {
+      "en_US": "Activity",
+      "ja_JP": "アクティビティ",
+      "ko_KR": "활동도",
+      "es_ES": "Actividad",
+      "pt_BR": "Atividade"
+    }
+  },
+  "entries": {
+    "Arc Key": {
+      "en_US": "Arc Key",
+      "ja_JP": "弧盤キー",
+      "ko_KR": "아크 키",
+      "es_ES": "Tecla Arc",
+      "pt_BR": "Tecla Arc",
+      "zh_CN": "弧盘技快捷键",
+      "zh_TW": "弧盤技快捷鍵"
+    },
+    "弧盘材料序号": {
+      "en_US": "Arc Ascension Index",
+      "ja_JP": "弧盤突破番号",
+      "ko_KR": "아크 어센션 번호",
+      "es_ES": "Índice de ascensión Arc",
+      "pt_BR": "Índice de ascensão Arc",
+      "zh_CN": "弧盘材料序号",
+      "zh_TW": "弧盤材料序號"
+    },
+    "弧盘突破材料": {
+      "en_US": "Arc Ascension",
+      "ja_JP": "弧盤突破",
+      "ko_KR": "아크 어센션",
+      "es_ES": "Ascensión Arc",
+      "pt_BR": "Ascensão Arc",
+      "zh_CN": "弧盘突破材料",
+      "zh_TW": "弧盤突破材料"
+    },
+    "弧盘经验": {
+      "en_US": "Arc Disk Experience",
+      "ja_JP": "弧盤経験値",
+      "ko_KR": "아크 디스크 경험치",
+      "es_ES": "Experiencia de disco Arc",
+      "pt_BR": "Experiência do disco Arc",
+      "zh_CN": "弧盘经验",
+      "zh_TW": "弧盤經驗"
+    },
+    "释放弧盘技能": {
+      "en_US": "Use Arc skill",
+      "ja_JP": "弧盤スキルを発動",
+      "ko_KR": "아크 스킬 사용",
+      "es_ES": "Usar habilidad Arc",
+      "pt_BR": "Usar habilidade Arc",
+      "zh_CN": "释放弧盘技能",
+      "zh_TW": "釋放弧盤技能"
+    },
+    "粉爪大劫案": {
+      "en_US": "Pink Paws Heist",
+      "ja_JP": "ピンクポーズ強盗",
+      "ko_KR": "핑크 포즈 하이스트",
+      "es_ES": "Atraco Pink Paws",
+      "pt_BR": "Assalto Pink Paws",
+      "zh_CN": "粉爪大劫案",
+      "zh_TW": "粉爪大劫案"
+    },
+    "粉爪大劫案便利性功能": {
+      "en_US": "Pink Paws Heist Convenience Features",
+      "ja_JP": "ピンクポーズ強盗の便利機能",
+      "ko_KR": "핑크 포즈 하이스트 편의 기능",
+      "es_ES": "Funciones de conveniencia de Pink Paws Heist",
+      "pt_BR": "Recursos de conveniência do Pink Paws Heist",
+      "zh_CN": "粉爪大劫案便利性功能",
+      "zh_TW": "粉爪大劫案便利性功能"
+    },
+    "空幕": {
+      "en_US": "Console",
+      "ja_JP": "コンソール",
+      "ko_KR": "콘솔",
+      "es_ES": "Consola",
+      "pt_BR": "Console",
+      "zh_CN": "空幕",
+      "zh_TW": "空幕"
+    }
+  },
+  "replace_in_translation": {
+    "ja_JP": {
+      "アークキー": "弧盤キー",
+      "アークスキルを発動": "弧盤スキルを発動",
+      "キュウエン": "九原",
+      "シャオジー": "チズ",
+      "ザオウ": "早霧",
+      "シュン": "潯",
+      "ボヘ": "ミント",
+      "ゼロ": "零",
+      "ピンククロー": "ピンクポーズ"
+    },
+    "ko_KR": {
+      "구원": "지위안",
+      "나날리": "나나리",
+      "샤오즈": "치즈",
+      "자오우": "사키리",
+      "순": "호토리",
+      "보허": "민트",
+      "Nanali": "Nanally",
+      "Xiaozhi": "Chiz",
+      "Zaowu": "Sakiri",
+      "Xun": "Hotori",
+      "Bohe": "Mint"
+    },
+    "en_US": {
+      "Nanali": "Nanally",
+      "Xiaozhi": "Chiz",
+      "Zaowu": "Sakiri",
+      "Xun": "Hotori",
+      "Bohe": "Mint"
+    },
+    "es_ES": {
+      "Nanali": "Nanally",
+      "Xiaozhi": "Chiz",
+      "Zaowu": "Sakiri",
+      "Xun": "Hotori",
+      "Bohe": "Mint",
+      "arco": "Arc",
+      "Arco": "Arc",
+      "disco de arco": "disco Arc",
+      "Disco de Arco": "disco Arc",
+      "Garra Rosa": "Pink Paws"
+    },
+    "pt_BR": {
+      "Nanali": "Nanally",
+      "Xiaozhi": "Chiz",
+      "Zaowu": "Sakiri",
+      "Xun": "Hotori",
+      "Bohe": "Mint",
+      "Disco de Arco": "disco Arc",
+      "Garra Rosa": "Pink Paws"
+    }
+  }
+}

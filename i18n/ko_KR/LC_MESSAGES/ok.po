@@ -1,13 +1,6 @@
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: 1.0\n"
-"Report-Msgid-Bugs-To: you@example.com\n"
-"Last-Translator: you@example.com\n"
-"Language-Team: English\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: you@example.com\nLast-Translator: you@example.com\nLanguage-Team: English\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
 
 msgid "<b style=\"color: #0078d7;\">角色</b> 和 <b style=\"color: #0078d7;\">{combo}</b> 支持输入并创建，也支持选择已有项。"
 msgstr "<b style=\"color: #0078d7;\">캐릭터</b> 및 <b style=\"color: #0078d7;\">{combo}</b>는 직접 입력하여 생성하거나 기존 항목을 선택할 수 있습니다."
@@ -84,12 +77,8 @@ msgstr "{} 번 슬롯"
 msgid "任务跳过对话"
 msgstr "대화 건너뛰기 작업"
 
-msgid ""
-"供非中/英语用户自定义传送文字, 逗号分隔\n"
-"例: Teleport, 传送"
-msgstr ""
-"비중국어/영어 사용자를 위한 사용자 지정 텔포 텍스트, 쉼표로 구분\n"
-"예: Teleport, 传送"
+msgid "供非中/英语用户自定义传送文字, 逗号分隔\n例: Teleport, 传送"
+msgstr "비중국어/영어 사용자를 위한 사용자 지정 텔포 텍스트, 쉼표로 구분\n예: Teleport, 传送"
 
 msgid "保存成功"
 msgstr "저장 성공"
@@ -202,12 +191,8 @@ msgstr "{}의 {combo} 바인딩 해제됨"
 msgid "应用更改"
 msgstr "변경 사항 적용"
 
-msgid ""
-"当前未绑定任何{combo}。\n"
-"遇到此角色将默认使用基础通用脚本(BaseChar)。"
-msgstr ""
-"현재 연결된 {combo}가 없습니다.\n"
-"이 캐릭터는 기본 공용 스크립트(BaseChar)를 사용합니다."
+msgid "当前未绑定任何{combo}。\n遇到此角色将默认使用基础通用脚本(BaseChar)。"
+msgstr "현재 연결된 {combo}가 없습니다.\n이 캐릭터는 기본 공용 스크립트(BaseChar)를 사용합니다."
 
 msgid "循环次数"
 msgstr "반복 횟수"
@@ -251,12 +236,8 @@ msgstr "특징을 가져오지 못했습니다"
 msgid "关联特征"
 msgstr "특징 연결"
 
-msgid ""
-"此为内建 Python 脚本，不可在此修改。\n"
-"请在对应的源文件中直接修改代码。"
-msgstr ""
-"이것은 내장된 Python 스크립트이므로 여기서 수정할 수 없습니다.\n"
-"해당 소스 파일에서 코드를 직접 수정하십시오."
+msgid "此为内建 Python 脚本，不可在此修改。\n请在对应的源文件中直接修改代码。"
+msgstr "이것은 내장된 Python 스크립트이므로 여기서 수정할 수 없습니다.\n해당 소스 파일에서 코드를 직접 수정하십시오."
 
 msgid "没有可用扫描结果"
 msgstr "사용 가능한 스캔 결과 없음"
@@ -333,12 +314,8 @@ msgstr "이름 변경 실패"
 msgid "长按"
 msgstr "길게 누르기"
 
-msgid ""
-"长按：平滑流畅, 易过冲\n"
-"点按: 安全较慢, 防过冲"
-msgstr ""
-"길게 누르기: 부드럽고 매끄러움, 오버슈트 가능성 있음\n"
-"탭: 안전하지만 느림, 오버슈트 방지"
+msgid "长按：平滑流畅, 易过冲\n点按: 安全较慢, 防过冲"
+msgstr "길게 누르기: 부드럽고 매끄러움, 오버슈트 가능성 있음\n탭: 안전하지만 느림, 오버슈트 방지"
 
 msgid "队伍不存在"
 msgstr "팀이 존재하지 않습니다"
@@ -364,12 +341,8 @@ msgstr "ESC 사용"
 msgid "关闭时仅在中键选中敌人且画面识别到 'Lv' 文字时开启战斗"
 msgstr "비활성화 시 중간 클릭으로 적을 선택하고 화면에서 'Lv' 텍스트가 인식될 때만 전투를 시작합니다"
 
-msgid ""
-"开启后优先通过 ESC 键关闭成功界面，避免后台抢占鼠标。\n"
-"若游戏运行不流畅，可能因按键响应延迟导致误退出钓鱼场景"
-msgstr ""
-"활성화 시 ESC 키를 우선 사용하여 성공 화면을 닫고 백그라운드 마우스 점유를 방지합니다.\n"
-"게임 실행이 원활하지 않을 경우 키 응답 지연으로 인해 낚시 장면에서 실수로 나갈 수 있습니다"
+msgid "开启后优先通过 ESC 键关闭成功界面，避免后台抢占鼠标。\n若游戏运行不流畅，可能因按键响应延迟导致误退出钓鱼场景"
+msgstr "활성화 시 ESC 키를 우선 사용하여 성공 화면을 닫고 백그라운드 마우스 점유를 방지합니다.\n게임 실행이 원활하지 않을 경우 키 응답 지연으로 인해 낚시 장면에서 실수로 나갈 수 있습니다"
 
 msgid "Counter Attack Threshold"
 msgstr "반격 임계값"
@@ -521,6 +494,12 @@ msgstr "제한 시간(초)"
 msgid "输出调试日志"
 msgstr "디버그 로그 출력"
 
+msgid "输入或选择绑定的{combo} (可选)"
+msgstr "연결된 {combo} 입력 또는 선택(선택)"
+
+msgid "输入或选择关联的角色名称"
+msgstr "연결된 캐릭터 이름 입력 또는 선택"
+
 msgid "键位"
 msgstr "키 설정"
 
@@ -539,12 +518,8 @@ msgstr "소리 회피 반격"
 msgid "未处于自动战斗时, 响应声音闪避或反击"
 msgstr "자동 전투 중이 아닐 때 소리 회피 또는 반격에 반응"
 
-msgid ""
-"All letter/number keys, including every hotkey above, are replaced by US QWERTY\n"
-"physical positions, not your current layout's printed keys."
-msgstr ""
-"위의 모든 단축키를 포함한 모든 문자/숫자 키는 현재 배열에 인쇄된 키가 아니라\n"
-"미국 QWERTY 물리 위치로 대체됩니다."
+msgid "All letter/number keys, including every hotkey above, are replaced by US QWERTY\nphysical positions, not your current layout's printed keys."
+msgstr "위의 모든 단축키를 포함한 모든 문자/숫자 키는 현재 배열에 인쇄된 키가 아니라\n미국 QWERTY 물리 위치로 대체됩니다."
 
 msgid "Use QWERTY Physical Keys"
 msgstr "QWERTY 물리 키 사용"
@@ -575,12 +550,6 @@ msgstr "일일 작업에서 카페 처리 방식을 선택"
 
 msgid "不执行"
 msgstr "실행하지 않음"
-
-msgid "输入或选择关联的角色名称"
-msgstr "연결된 캐릭터 이름 입력 또는 선택"
-
-msgid "输入或选择绑定的{combo} (可选)"
-msgstr "연결된 {combo} 입력 또는 선택(선택)"
 
 msgid "循环次数(0为无限次)"
 msgstr "반복 횟수(0은 무제한)"
@@ -618,19 +587,11 @@ msgstr "캐릭터를 입력하거나 선택"
 msgid "自动战斗任务不可用"
 msgstr "자동 전투 작업을 사용할 수 없습니다"
 
-msgid ""
-"※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\n"
-"游戏内换人/换队自动适配，无需手动调整"
-msgstr ""
-"※ 캐릭터 특징을 연결하면 소프트웨어가 캐릭터를 자동으로 인식하고 연결된 콤보표를 사용합니다. 연결하지 않은 경우 범용 스크립트를 사용합니다.\n"
-"게임 내 캐릭터/팀 전환은 자동으로 적용되므로 수동 조정이 필요 없습니다"
+msgid "※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\n游戏内换人/换队自动适配，无需手动调整"
+msgstr "※ 캐릭터 특징을 연결하면 소프트웨어가 캐릭터를 자동으로 인식하고 연결된 콤보표를 사용합니다. 연결하지 않은 경우 범용 스크립트를 사용합니다.\n게임 내 캐릭터/팀 전환은 자동으로 적용되므로 수동 조정이 필요 없습니다"
 
-msgid ""
-"※ {fixed_team}会优先使用已填写槽位；未填写的槽位仍会自动识别。\n"
-"如果游戏内切换队伍，已填写槽位需要在软件里手动修改。"
-msgstr ""
-"※ {fixed_team}은 입력된 슬롯을 우선 사용하며, 비어 있는 슬롯은 계속 자동 인식을 사용합니다.\n"
-"게임 내에서 팀을 변경한 경우 입력된 슬롯은 소프트웨어에서 수동으로 수정해야 합니다."
+msgid "※ {fixed_team}会优先使用已填写槽位；未填写的槽位仍会自动识别。\n如果游戏内切换队伍，已填写槽位需要在软件里手动修改。"
+msgstr "※ {fixed_team}은 입력된 슬롯을 우선 사용하며, 비어 있는 슬롯은 계속 자동 인식을 사용합니다.\n게임 내에서 팀을 변경한 경우 입력된 슬롯은 소프트웨어에서 수동으로 수정해야 합니다."
 
 msgid "<span style=\"color: #2ecc71;\">● 自动识别：已启用</span>"
 msgstr "<span style=\"color: #2ecc71;\">● 자동 인식: 활성화됨</span>"
@@ -736,9 +697,6 @@ msgstr "모든 키 테스트"
 
 msgid "自动弹琴"
 msgstr "자동 피아노"
-
-msgid "自动战斗任务不可用"
-msgstr "자동 전투 임무 사용 불가"
 
 msgid "自动音高"
 msgstr "자동 피치"
@@ -900,16 +858,16 @@ msgid "过滤水贴"
 msgstr "스팸 필터링"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "使用任何路径前请先阅读使用说明"
 msgstr "경로를 사용하기 전에 사용 설명서를 읽어주세요"
@@ -956,14 +914,8 @@ msgstr "Shift 길게 누르기 (Hold Shift)"
 msgid "长按攻击"
 msgstr "공격 길게 누르기 (Hold Attack)"
 
-msgid ""
-"No recorded operations were found. Please wait for the recording prompt, then follow the instructions carefully to record your actions.\n"
-"DO NOT manually switch windows!\n"
-"Wait patiently for the software to bring the game window to the foreground."
-msgstr ""
-"기록된 작업을 찾을 수 없습니다. 기록 안내가 표시될 때까지 기다린 뒤, 지시에 따라 신중하게 동작을 기록하세요.\n"
-"창을 수동으로 전환하지 마세요!\n"
-"소프트웨어가 게임 창을 포그라운드로 가져올 때까지 차분히 기다려 주십시오."
+msgid "No recorded operations were found. Please wait for the recording prompt, then follow the instructions carefully to record your actions.\nDO NOT manually switch windows!\nWait patiently for the software to bring the game window to the foreground."
+msgstr "기록된 작업을 찾을 수 없습니다. 기록 안내가 표시될 때까지 기다린 뒤, 지시에 따라 신중하게 동작을 기록하세요.\n창을 수동으로 전환하지 마세요!\n소프트웨어가 게임 창을 포그라운드로 가져올 때까지 차분히 기다려 주십시오."
 
 msgid "影院约会"
 msgstr "영화관 데이트"
@@ -985,7 +937,6 @@ msgstr "아노말리 가구"
 
 msgid "每2小时重新登入"
 msgstr "2시간마다 재로그인"
-
 
 msgid "除了选择内建存在的<b style=\"color: #0078d7;\">{combo}</b>外，您也可以自己输入名称来建立自己的<b style=\"color: #0078d7;\">{combo}</b>。"
 msgstr "내장된 <b style=\"color: #0078d7;\">{combo}</b>를 선택하는 것 외에도, 이름을 입력하여 자신만의 <b style=\"color: #0078d7;\">{combo}</b>를 만들 수도 있습니다."
@@ -1145,3 +1096,2679 @@ msgstr "사용 가능한 게임 화면이 없음"
 
 msgid "请先捕获、选择礼物并启用至少一个角色。"
 msgstr "먼저 캡처하고, 선물을 선택한 후 최소 한 명의 캐릭터를 활성화하세요."
+
+msgid "no_screen"
+msgstr "사용 가능한 게임 화면이 없습니다"
+
+msgid "首次抛竿失败时，补充默认鱼饵并出售鱼获"
+msgstr "첫 낚시대 던지기 실패 시 기본 미끼를 보충하고 어획물을 판매합니다"
+
+msgid "    • 参数: {}\n"
+msgstr "    • 매개변수: {}\n"
+
+msgid "    • 示例: {}\n\n"
+msgstr "    • 예시: {}\n\n"
+
+msgid "    • 说明: {}\n"
+msgstr "    • 설명: {}\n"
+
+msgid " (default: %(default)s)"
+msgstr " (default: %(default)s)"
+
+msgid " folder and remove it from the list, the folder will no "
+msgstr " folder and remove it from the list, the folder will no "
+
+msgid "\""
+msgstr "\""
+
+msgid "%(heading)s:"
+msgstr "%(heading)s:"
+
+msgid "%(prog)s: error: %(message)s\\n"
+msgstr "%(prog)s: error: %(message)s\\n"
+
+msgid "%prog [options]"
+msgstr "%prog [options]"
+
+msgid "%r is not callable"
+msgstr "%r is not callable"
+
+msgid "%s option does not take a value"
+msgstr "%s option does not take a value"
+
+msgid "%s/%s"
+msgstr "%s/%s"
+
+msgid "&"
+msgstr "&"
+
+msgid "'required"
+msgstr "'required"
+
+msgid "(0 = disabled)"
+msgstr "(0 = disabled)"
+
+msgid "*%s"
+msgstr "*%s"
+
+msgid ", the supported min resolution is {min_size}"
+msgstr ", the supported min resolution is {min_size}"
+
+msgid ", the supported ratio is {supported_ratio}"
+msgstr ", the supported ratio is {supported_ratio}"
+
+msgid ".__call__() not defined"
+msgstr ".__call__() not defined"
+
+msgid "1. 确保您已配置好游戏内的挂机流派。\n"
+msgstr "1. 게임 내 방치 빌드를 설정했는지 확인하세요.\n"
+
+msgid "10 秒内未返回选歌界面，停止任务"
+msgstr "10초 이내에 곡 선택 화면으로 돌아가지 못해 태스크를 중지합니다"
+
+msgid "15 秒内未进入音游界面，停止任务"
+msgstr "15초 이내에 리듬 게임 화면에 진입하지 못해 태스크를 중지합니다"
+
+msgid "2. 站在咖啡店可进行 F 交互的位置。\n"
+msgstr "2. 카페에서 F 상호작용이 가능한 위치에 서세요.\n"
+
+msgid "2020-10-10"
+msgstr "2020-10-10"
+
+msgid "2345"
+msgstr "2345"
+
+msgid "24h"
+msgstr "24h"
+
+msgid "3. （可选）若想指定特定关卡，请先手动进入该关卡一次后退出，再启动本脚本即可。"
+msgstr "3. (선택) 특정 스테이지를 지정하려면, 먼저 해당 스테이지에 수동으로 한 번 들어갔다 나온 뒤 이 스크립트를 시작하세요."
+
+msgid "6"
+msgstr "6"
+
+msgid "7.0"
+msgstr "7.0"
+
+msgid ":/qframelesswindow/close.svg"
+msgstr ":/qframelesswindow/close.svg"
+
+msgid "<b style=\"color: #0078d7;\">{fixed_team}</b> 功能。"
+msgstr "<b style=\"color: #0078d7;\">{fixed_team}</b> 기능."
+
+msgid "<b style=\"color: #0078d7;\">角色</b> 和 "
+msgstr "<b style=\"color: #0078d7;\">캐릭터</b> 및 "
+
+msgid "<span style="
+msgstr "<span style="
+
+msgid "ADB"
+msgstr "ADB"
+
+msgid "ADB(Supports Background, Slow, High Compatibility, High Latency)"
+msgstr "ADB(Supports Background, Slow, High Compatibility, High Latency)"
+
+msgid "ADBInteraction"
+msgstr "ADBInteraction"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "About"
+msgstr "About"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add Start Menu Shortcut"
+msgstr "Add Start Menu Shortcut"
+
+msgid "Add folder"
+msgstr "Add folder"
+
+msgid "AddressFamily"
+msgstr "AddressFamily"
+
+msgid "AddressInfo"
+msgstr "AddressInfo"
+
+msgid "Alert"
+msgstr "Alert"
+
+msgid "AlertDescription"
+msgstr "AlertDescription"
+
+msgid "All Files (*)"
+msgstr "All Files (*)"
+
+msgid "All Levels"
+msgstr "All Levels"
+
+msgid "Already exists in "
+msgstr "Already exists in "
+
+msgid "Android"
+msgstr "Android"
+
+msgid "App Config"
+msgstr "App Config"
+
+msgid "AppShow"
+msgstr "AppShow"
+
+msgid "Application Theme"
+msgstr "Application Theme"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "April"
+msgstr "April"
+
+msgid "Are you sure you want to delete "
+msgstr "Are you sure you want to delete "
+
+msgid "Are you sure you want to delete task"
+msgstr "Are you sure you want to delete task"
+
+msgid "Are you sure you want to delete the folder?"
+msgstr "Are you sure you want to delete the folder?"
+
+msgid "Are you sure you want to delete the script "
+msgstr "Are you sure you want to delete the script "
+
+msgid "Are you sure you want to delete {}"
+msgstr "Are you sure you want to delete {}"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "August"
+msgstr "August"
+
+msgid "Auto exit after task done (-e)"
+msgstr "Auto exit after task done (-e)"
+
+msgid "Auto exit because game exited"
+msgstr "게임이 종료되어 자동 종료됨"
+
+msgid "Available Options"
+msgstr "Available Options"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Bounding Box"
+msgstr "Bounding Box"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Browse"
+msgstr "Browse"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Browser Capture"
+msgstr "Browser Capture"
+
+msgid "BrowserInteraction"
+msgstr "BrowserInteraction"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Can"
+msgstr "Can"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Caption"
+msgstr "Caption"
+
+msgid "Capture"
+msgstr "Capture"
+
+msgid "Capture Error"
+msgstr "Capture Error"
+
+msgid "Capture Method"
+msgstr "Capture Method"
+
+msgid "Capture Screenshot"
+msgstr "Capture Screenshot"
+
+msgid "Capture failed, please check game window"
+msgstr "Capture failed, please check game window"
+
+msgid "Category name"
+msgstr "Category name"
+
+msgid "Category:"
+msgstr "Category:"
+
+msgid "Change the appearance of the application"
+msgstr "Change the appearance of the application"
+
+msgid "Check for Update"
+msgstr "Check for Update"
+
+msgid "Check for updates"
+msgstr "Check for updates"
+
+msgid "Checking for Update..."
+msgstr "Checking for Update..."
+
+msgid "Checking for Updates..."
+msgstr "Checking for Updates..."
+
+msgid "Choose "
+msgstr "Choose "
+
+msgid "Choose Interaction"
+msgstr "Choose Interaction"
+
+msgid "Choose Profile:"
+msgstr "Choose Profile:"
+
+msgid "Choose Task:"
+msgstr "Choose Task:"
+
+msgid "Choose Window"
+msgstr "Choose Window"
+
+msgid "Choose color"
+msgstr "Choose color"
+
+msgid "Choose folder"
+msgstr "Choose folder"
+
+msgid "Class Name (English only)"
+msgstr "Class Name (English only)"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Click an option to add it."
+msgstr "Click an option to add it."
+
+msgid "Close Navigation"
+msgstr "Close Navigation"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Configuration takes effect after restart"
+msgstr "Configuration takes effect after restart"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Confirm Delete"
+msgstr "Confirm Delete"
+
+msgid "Connected"
+msgstr "Connected"
+
+msgid "ContextManager({})"
+msgstr "ContextManager({})"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Convert i18n files"
+msgstr "Convert i18n files"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Copy Task"
+msgstr "Copy Task"
+
+msgid "Count"
+msgstr "Count"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Create New Task"
+msgstr "Create New Task"
+
+msgid "Create Schedule Task"
+msgstr "Create Schedule Task"
+
+msgid "Create Task"
+msgstr "Create Task"
+
+msgid "Current Version:"
+msgstr "Current Version:"
+
+msgid "Custom Interval"
+msgstr "Custom Interval"
+
+msgid "Custom color"
+msgstr "Custom color"
+
+msgid "Cut"
+msgstr "Cut"
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Days"
+msgstr "Days"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Debug Overlay"
+msgstr "Debug Overlay"
+
+msgid "Debug Task Function"
+msgstr "Debug Task Function"
+
+msgid "Debug Tool"
+msgstr "Debug Tool"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "December"
+msgstr "December"
+
+msgid "Default Interaction"
+msgstr "Default Interaction"
+
+msgid "Default color"
+msgstr "Default color"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete (D)"
+msgstr "Delete (D)"
+
+msgid "Delete Script"
+msgstr "Delete Script"
+
+msgid "Delete Task"
+msgstr "Delete Task"
+
+msgid "Delete failed: {e}"
+msgstr "Delete failed: {e}"
+
+msgid "Description (Optional)"
+msgstr "Description (Optional)"
+
+msgid "Different persons"
+msgstr "Different persons"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Disable Boxes"
+msgstr "Disable Boxes"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Disconnected"
+msgstr "Disconnected"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Display name for the script"
+msgstr "Display name for the script"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Downgrade"
+msgstr "Downgrade"
+
+msgid "Downgrade success {from_version} -> {to_version}"
+msgstr "Downgrade success {from_version} -> {to_version}"
+
+msgid "Download Dependencies and Start"
+msgstr "Download Dependencies and Start"
+
+msgid "Download update"
+msgstr "Download update"
+
+msgid "Draw (R)"
+msgstr "Draw (R)"
+
+msgid "Drop or Select Screenshot"
+msgstr "Drop or Select Screenshot"
+
+msgid "Dump Threads(HotKey:Ctrl+Alt+D)"
+msgstr "Dump Threads(HotKey:Ctrl+Alt+D)"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit Color"
+msgstr "Edit Color"
+
+msgid "Emulator"
+msgstr "Emulator"
+
+msgid "Emulator is not connected, start the emulator first!"
+msgstr "Emulator is not connected, start the emulator first!"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Enable Boxes"
+msgstr "Enable Boxes"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "English, numbers and valid filename chars only"
+msgstr "English, numbers and valid filename chars only"
+
+msgid "Enter Python code here..."
+msgstr "Enter Python code here..."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Exit After Task"
+msgstr "Exit After Task"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Export Logs"
+msgstr "Export Logs"
+
+msgid "Export Script"
+msgstr "Export Script"
+
+msgid "Export failed"
+msgstr "Export failed"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to capture frame."
+msgstr "Failed to capture frame."
+
+msgid "Failed to create task"
+msgstr "Failed to create task"
+
+msgid "Failed to delete task"
+msgstr "Failed to delete task"
+
+msgid "Failed to load tasks"
+msgstr "Failed to load tasks"
+
+msgid "Failed to modify task"
+msgstr "Failed to modify task"
+
+msgid "Failed to modify task: cannot delete old task"
+msgstr "Failed to modify task: cannot delete old task"
+
+msgid "Failed to open modify dialog"
+msgstr "Failed to open modify dialog"
+
+msgid "Failed to save"
+msgstr "Failed to save"
+
+msgid "Failed to toggle task"
+msgstr "Failed to toggle task"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "February"
+
+msgid "File"
+msgstr "File"
+
+msgid "File Changed Externally"
+msgstr "File Changed Externally"
+
+msgid "File Name:"
+msgstr "File Name:"
+
+msgid "Filter logs..."
+msgstr "Filter logs..."
+
+msgid "FishingTask error"
+msgstr "낚시 작업 오류"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "GPU Driver Warning"
+msgstr "GPU Driver Warning"
+
+msgid "Game Exited"
+msgstr "게임이 종료됨"
+
+msgid "Game Window"
+msgstr "Game Window"
+
+msgid "Game Window Disconnected"
+msgstr "Game Window Disconnected"
+
+msgid "Game path does not exist, Please open game manually!"
+msgstr "Game path does not exist, Please open game manually!"
+
+msgid "Generate i18n files"
+msgstr "Generate i18n files"
+
+msgid "Generate label enum file"
+msgstr "Generate label enum file"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "Go to Config"
+msgstr "Go to Config"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Guide"
+msgstr "Guide"
+
+msgid "Handlers"
+msgstr "Handlers"
+
+msgid "Height:"
+msgstr "Height:"
+
+msgid "Hello World"
+msgstr "Hello World"
+
+msgid "Hide Log on Overlay"
+msgstr "Hide Log on Overlay"
+
+msgid "Hide Overlay"
+msgstr "Hide Overlay"
+
+msgid "Hour"
+msgstr "Hour"
+
+msgid "Hours"
+msgstr "Hours"
+
+msgid "I understand the risks and want to import this script."
+msgstr "I understand the risks and want to import this script."
+
+msgid "If you delete the "
+msgstr "If you delete the "
+
+msgid "Image deleted."
+msgstr "Image deleted."
+
+msgid "Image resource load failed, please try install again.(Don\\"
+msgstr "Image resource load failed, please try install again.(Don\\"
+
+msgid "Import Script"
+msgstr "Import Script"
+
+msgid "Import failed"
+msgstr "Import failed"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Install Folder"
+msgstr "Install Folder"
+
+msgid "Installing {progress} {percent}%"
+msgstr "Installing {progress} {percent}%"
+
+msgid "Instructions"
+msgstr "Instructions"
+
+msgid "Invalid Class Name. Must be English characters only."
+msgstr "Invalid Class Name. Must be English characters only."
+
+msgid "Invalid file name. Use English letters, numbers, underscores, hyphens only."
+msgstr "Invalid file name. Use English letters, numbers, underscores, hyphens only."
+
+msgid "Invalid relative path. Example: ok_tasks/LabelEnum.py"
+msgstr "Invalid relative path. Example: ok_tasks/LabelEnum.py"
+
+msgid "Ipc (MuMuPlayer12 version >= 4.0)"
+msgstr "Ipc (MuMuPlayer12 version >= 4.0)"
+
+msgid "Item"
+msgstr "Item"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "January"
+msgstr "January"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "July"
+msgstr "July"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "June"
+msgstr "June"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Launcher "
+msgstr "Launcher "
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Loading"
+msgstr "Loading"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Log Folder"
+msgstr "Log Folder"
+
+msgid "Logging"
+msgstr "Logging"
+
+msgid "Loop infinitely"
+msgstr "Loop infinitely"
+
+msgid "Loop x times"
+msgstr "Loop x times"
+
+msgid "Make sure that you trust the script publisher, unverified script can and not limited to steal your account/ data money, destroy your data, harm/ controlling your computer."
+msgstr "Make sure that you trust the script publisher, unverified script can and not limited to steal your account/ data money, destroy your data, harm/ controlling your computer."
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "March"
+msgstr "March"
+
+msgid "Markup"
+msgstr "Markup"
+
+msgid "Markup Editor"
+msgstr "Markup Editor"
+
+msgid "Max residual"
+msgstr "Max residual"
+
+msgid "May"
+msgstr "May"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "Mismatched elements: 1 / 1 (100%)\\n"
+msgstr "Mismatched elements: 1 / 1 (100%)\\n"
+
+msgid "Missing required value"
+msgstr "Missing required value"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "Modify (Double Click)"
+msgstr "Modify (Double Click)"
+
+msgid "Modify Schedule Task"
+msgstr "Modify Schedule Task"
+
+msgid "Module(%s)"
+msgstr "Module(%s)"
+
+msgid "Mouse"
+msgstr "Mouse"
+
+msgid "Move Down"
+msgstr "Move Down"
+
+msgid "Move Up"
+msgstr "Move Up"
+
+msgid "MsgFlag"
+msgstr "MsgFlag"
+
+msgid "Mute"
+msgstr "Mute"
+
+msgid "Name required"
+msgstr "Name required"
+
+msgid "New version available: {version}."
+msgstr "New version available: {version}."
+
+msgid "Next Page"
+msgstr "Next Page"
+
+msgid "Next Run"
+msgstr "Next Run"
+
+msgid "No"
+msgstr "No"
+
+msgid "No annotations to save."
+msgstr "No annotations to save."
+
+msgid "No capture method available. Please start capture first."
+msgstr "No capture method available. Please start capture first."
+
+msgid "No game selected!"
+msgstr "No game selected!"
+
+msgid "No loop"
+msgstr "No loop"
+
+msgid "No recorded operations were found. Please wait for the recording prompt, then follow the instructions carefully to record your actions."
+msgstr "기록된 작업을 찾을 수 없습니다. 기록 안내가 표시될 때까지 기다린 뒤, 지시에 따라 신중하게 동작을 기록하세요."
+
+msgid "No tasks available"
+msgstr "No tasks available"
+
+msgid "No tasks to export."
+msgstr "No tasks to export."
+
+msgid "No templates yet"
+msgstr "No templates yet"
+
+msgid "NoUniqueNameType"
+msgstr "NoUniqueNameType"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "November"
+msgstr "November"
+
+msgid "OCR"
+msgstr "OCR"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OKScript Files (*.okscript);;All Files (*)"
+msgstr "OKScript Files (*.okscript);;All Files (*)"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "October"
+msgstr "October"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "On"
+msgstr "On"
+
+msgid "Opacity"
+msgstr "Opacity"
+
+msgid "Open Navigation"
+msgstr "Open Navigation"
+
+msgid "Operation"
+msgstr "Operation"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Other Projects"
+msgstr "Other Projects"
+
+msgid "Output will be shown here..."
+msgstr "Output will be shown here..."
+
+msgid "PATH_INFO"
+msgstr "PATH_INFO"
+
+msgid "PC"
+msgstr "PC"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "ParametrizedType"
+msgstr "ParametrizedType"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Path is relative to the workspace root."
+msgstr "Path is relative to the workspace root."
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Pause All"
+msgstr "Pause All"
+
+msgid "Pause Success."
+msgstr "Pause Success."
+
+msgid "Paused because browser exited"
+msgstr "브라우저가 종료되어 일시 중지됨"
+
+msgid "Paused because game exited"
+msgstr "게임이 종료되어 일시 중지됨"
+
+msgid "Paused because game window is minimized or out of screen!"
+msgstr "게임 창이 최소화되었거나 화면 밖에 있어 일시 중지됨!"
+
+msgid "Paused: PC Game Window Must Be in Front!"
+msgstr "Paused: PC Game Window Must Be in Front!"
+
+msgid "Pick a date"
+msgstr "Pick a date"
+
+msgid "Pin"
+msgstr "Pin"
+
+msgid "Play"
+msgstr "Play"
+
+msgid "Please Start First"
+msgstr "Please Start First"
+
+msgid "Please check whether the game window is selected correctly!"
+msgstr "Please check whether the game window is selected correctly!"
+
+msgid "Please select at least one task to export."
+msgstr "Please select at least one task to export."
+
+msgid "Previous Page"
+msgstr "Previous Page"
+
+msgid "Pseudo-exception to force literal arguments in the dispatcher"
+msgstr "Pseudo-exception to force literal arguments in the dispatcher"
+
+msgid "Record"
+msgstr "Record"
+
+msgid "Record will override the current script logic. Continue?"
+msgstr "Record will override the current script logic. Continue?"
+
+msgid "Recording will start when window "
+msgstr "Recording will start when window "
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Refresh failed"
+msgstr "Refresh failed"
+
+msgid "Refreshing"
+msgstr "Refreshing"
+
+msgid "Relative path, e.g. ok_tasks/LabelEnum.py"
+msgstr "Relative path, e.g. ok_tasks/LabelEnum.py"
+
+msgid "Release"
+msgstr "Release"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Reset Config"
+msgstr "Reset Config"
+
+msgid "Resolution {resolution} check failed, some tasks might not work correctly!"
+msgstr "Resolution {resolution} check failed, some tasks might not work correctly!"
+
+msgid "Resume"
+msgstr "Resume"
+
+msgid "RhythmTask error"
+msgstr "리듬 작업 오류"
+
+msgid "Right click to copy color"
+msgstr "Right click to copy color"
+
+msgid "Run"
+msgstr "Run"
+
+msgid "Run Code"
+msgstr "Run Code"
+
+msgid "Run Python Code"
+msgstr "Run Python Code"
+
+msgid "Running"
+msgstr "Running"
+
+msgid "Running: {}"
+msgstr "실행 중: {}"
+
+msgid "SSLErrorNumber"
+msgstr "SSLErrorNumber"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Same person"
+msgstr "Same person"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Save To"
+msgstr "Save To"
+
+msgid "Save completed successfully to: {}"
+msgstr "Save completed successfully to: {}"
+
+msgid "Save failed: {e}"
+msgstr "Save failed: {e}"
+
+msgid "Schedule"
+msgstr "Schedule"
+
+msgid "Schedule Tasks"
+msgstr "Schedule Tasks"
+
+msgid "Screenshot"
+msgstr "Screenshot"
+
+msgid "Screenshot Folder"
+msgstr "Screenshot Folder"
+
+msgid "Screenshot failed: {e}"
+msgstr "Screenshot failed: {e}"
+
+msgid "Screenshot saved: {}"
+msgstr "Screenshot saved: {}"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Script Name:"
+msgstr "Script Name:"
+
+msgid "Script exported successfully to Downloads folder."
+msgstr "Script exported successfully to Downloads folder."
+
+msgid "Script name is required."
+msgstr "Script name is required."
+
+msgid "Search by name or category..."
+msgstr "Search by name or category..."
+
+msgid "Search templates..."
+msgstr "Search templates..."
+
+msgid "Search title or exe..."
+msgstr "Search title or exe..."
+
+msgid "Select Screenshots"
+msgstr "Select Screenshots"
+
+msgid "Select Script File"
+msgstr "Select Script File"
+
+msgid "Select Task"
+msgstr "Select Task"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Select task to copy..."
+msgstr "Select task to copy..."
+
+msgid "Select tasks to export:"
+msgstr "Select tasks to export:"
+
+msgid "Selected Options"
+msgstr "Selected Options"
+
+msgid "Selected capture method is not supported by the game or your system!"
+msgstr "Selected capture method is not supported by the game or your system!"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "September"
+msgstr "September"
+
+msgid "Set your preferred language"
+msgstr "Set your preferred language"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Share Link copied to clipboard"
+msgstr "Share Link copied to clipboard"
+
+msgid "Show Log on Overlay"
+msgstr "Show Log on Overlay"
+
+msgid "Show Overlay"
+msgstr "Show Overlay"
+
+msgid "Sigmasks"
+msgstr "Sigmasks"
+
+msgid "Signals"
+msgstr "Signals"
+
+msgid "SocketKind"
+msgstr "SocketKind"
+
+msgid "Solved in"
+msgstr "Solved in"
+
+msgid "Sponsor"
+msgstr "Sponsor"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start All"
+msgstr "Start All"
+
+msgid "Start Success."
+msgstr "Start Success."
+
+msgid "Start Time"
+msgstr "Start Time"
+
+msgid "Start game failed, please start game first"
+msgstr "Start game failed, please start game first"
+
+msgid "Start game timeout!"
+msgstr "Start game timeout!"
+
+msgid "Start/Stop"
+msgstr "Start/Stop"
+
+msgid "Starting, timeout after {seconds_left} seconds."
+msgstr "Starting, timeout after {seconds_left} seconds."
+
+msgid "Startup Options"
+msgstr "Startup Options"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stereo/Headphones 输出，避免使用 Hands-Free/AG Audio。"
+msgstr "스테레오/헤드폰 출력을 사용하고 Hands-Free/AG Audio는 피하세요."
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Stopped"
+msgstr "중지됨"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Take Screenshot"
+msgstr "Take Screenshot"
+
+msgid "TargetVersion:"
+msgstr "TargetVersion:"
+
+msgid "Task Index (-t)"
+msgstr "Task Index (-t)"
+
+msgid "Task Name"
+msgstr "Task Name"
+
+msgid "Task Name is required."
+msgstr "Task Name is required."
+
+msgid "Task Schedule"
+msgstr "Task Schedule"
+
+msgid "Task copied successfully."
+msgstr "Task copied successfully."
+
+msgid "Task created successfully"
+msgstr "Task created successfully"
+
+msgid "Task created successfully."
+msgstr "Task created successfully."
+
+msgid "Task deleted successfully"
+msgstr "Task deleted successfully"
+
+msgid "Task deleted successfully."
+msgstr "Task deleted successfully."
+
+msgid "Task disabled"
+msgstr "Task disabled"
+
+msgid "Task enabled"
+msgstr "Task enabled"
+
+msgid "Task file already exists."
+msgstr "Task file already exists."
+
+msgid "Task modified successfully"
+msgstr "Task modified successfully"
+
+msgid "Task not found in cache"
+msgstr "Task not found in cache"
+
+msgid "Task rebuilt successfully."
+msgstr "Task rebuilt successfully."
+
+msgid "Tasks"
+msgstr "Tasks"
+
+msgid "Tasks refreshed"
+msgstr "Tasks refreshed"
+
+msgid "Template Matching"
+msgstr "Template Matching"
+
+msgid "Templates"
+msgstr "Templates"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "The current task has unsaved changes. Do you want to save them?"
+msgstr "The current task has unsaved changes. Do you want to save them?"
+
+msgid "The file was modified externally. Do you want to overwrite your unsaved changes?"
+msgstr "The file was modified externally. Do you want to overwrite your unsaved changes?"
+
+msgid "This is a free software. If you purchased this anywhere, request a refund from the seller."
+msgstr "This is a free software. If you purchased this anywhere, request a refund from the seller."
+
+msgid "This is the newest version"
+msgstr "This is the newest version"
+
+msgid "Time Elapsed"
+msgstr "Time Elapsed"
+
+msgid "Timeout"
+msgstr "Timeout"
+
+msgid "Trigger Interval"
+msgstr "Trigger Interval"
+
+msgid "Trigger Tasks"
+msgstr "Trigger Tasks"
+
+msgid "Trigger Type"
+msgstr "Trigger Type"
+
+msgid "Triggers"
+msgstr "Triggers"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "Type a function or property"
+msgstr "Type a function or property"
+
+msgid "Unmute"
+msgstr "Unmute"
+
+msgid "Unpin"
+msgstr "Unpin"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update Source:"
+msgstr "Update Source:"
+
+msgid "Update success {from_version} -> {to_version}"
+msgstr "Update success {from_version} -> {to_version}"
+
+msgid "Updating"
+msgstr "Updating"
+
+msgid "Usage"
+msgstr "Usage"
+
+msgid "Usage: %s\\n"
+msgstr "Usage: %s\\n"
+
+msgid "Use DirectML"
+msgstr "Use DirectML"
+
+msgid "Use system setting"
+msgstr "Use system setting"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "VerifyFlags"
+msgstr "VerifyFlags"
+
+msgid "VerifyMode"
+msgstr "VerifyMode"
+
+msgid "Version:"
+msgstr "Version:"
+
+msgid "View Log"
+msgstr "View Log"
+
+msgid "Waiting for ok-script.log"
+msgstr "Waiting for ok-script.log"
+
+msgid "Waiting for task to be enabled"
+msgstr "Waiting for task to be enabled"
+
+msgid "Waiting for {task_name} task to be completed"
+msgstr "Waiting for {task_name} task to be completed"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "We"
+msgstr "We"
+
+msgid "Width:"
+msgstr "Width:"
+
+msgid "Window"
+msgstr "Window"
+
+msgid "WindowsInteraction"
+msgstr "WindowsInteraction"
+
+msgid "X"
+msgstr "X"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "[LV-Init] 模板切割失败，仅找到 {} 个轮廓"
+msgstr "[LV-Init] 템플릿 분할 실패, 윤곽 {}개만 발견"
+
+msgid "[{}]流程等待超时，执行恢复操作"
+msgstr "[{}] 워크플로 대기 시간 초과, 복구 실행"
+
+msgid "\\n"
+msgstr "\\n"
+
+msgid "\\u6bd2"
+msgstr "\\u6bd2"
+
+msgid "\\u6f2c"
+msgstr "\\u6f2c"
+
+msgid "_CallbackFileWrapper__fp"
+msgstr "_CallbackFileWrapper__fp"
+
+msgid "_EmptyImplementationEntry({!r})"
+msgstr "_EmptyImplementationEntry({!r})"
+
+msgid "_SSLMethod"
+msgstr "_SSLMethod"
+
+msgid "__all__"
+msgstr "__all__"
+
+msgid "_distutils_hack"
+msgstr "_distutils_hack"
+
+msgid "_first_run_alert"
+msgstr "_first_run_alert"
+
+msgid "a"
+msgstr "a"
+
+msgid "abc"
+msgstr "abc"
+
+msgid "abc\\x00"
+msgstr "abc\\x00"
+
+msgid "about"
+msgstr "about"
+
+msgid "adb"
+msgstr "adb"
+
+msgid "ambiguous option: %(option)s could match %(matches)s"
+msgstr "ambiguous option: %(option)s could match %(matches)s"
+
+msgid "ambiguous option: %s (%s?)"
+msgstr "ambiguous option: %s (%s?)"
+
+msgid "amsterdam"
+msgstr "amsterdam"
+
+msgid "app"
+msgstr "app"
+
+msgid "arg2"
+msgstr "arg2"
+
+msgid "argument "
+msgstr "argument "
+
+msgid "argument %(argument_name)s: %(message)s"
+msgstr "argument %(argument_name)s: %(message)s"
+
+msgid "asdfg"
+msgstr "asdfg"
+
+msgid "assets (standalone app)"
+msgstr "assets (standalone app)"
+
+msgid "auto_simplify"
+msgstr "auto_simplify"
+
+msgid "axis"
+msgstr "axis"
+
+msgid "benign"
+msgstr "benign"
+
+msgid "bernoulli"
+msgstr "bernoulli"
+
+msgid "bg_onnx_ocr"
+msgstr "bg_onnx_ocr"
+
+msgid "blur_area"
+msgstr "blur_area"
+
+msgid "branch"
+msgstr "branch"
+
+msgid "buy bait"
+msgstr "미끼 구매"
+
+msgid "c"
+msgstr "c"
+
+msgid "callable_type_ref"
+msgstr "callable_type_ref"
+
+msgid "callback"
+msgstr "callback"
+
+msgid "can"
+msgstr "can"
+
+msgid "cannot have multiple subparser arguments"
+msgstr "cannot have multiple subparser arguments"
+
+msgid "cannot merge actions - two groups are named %r"
+msgstr "cannot merge actions - two groups are named %r"
+
+msgid "capture_method"
+msgstr "capture_method"
+
+msgid "cast rod"
+msgstr "낚시대 던지기"
+
+msgid "cc"
+msgstr "cc"
+
+msgid "char elements"
+msgstr "char elements"
+
+msgid "chars"
+msgstr "chars"
+
+msgid "check monthly card"
+msgstr "월정액 확인"
+
+msgid "check_hdr"
+msgstr "check_hdr"
+
+msgid "class_0"
+msgstr "class_0"
+
+msgid "class_1"
+msgstr "class_1"
+
+msgid "class_2"
+msgstr "class_2"
+
+msgid "coef_"
+msgstr "coef_"
+
+msgid "complex"
+msgstr "complex"
+
+msgid "comtypes.client"
+msgstr "comtypes.client"
+
+msgid "comtypes.server.inprocserver"
+msgstr "comtypes.server.inprocserver"
+
+msgid "config_folder"
+msgstr "config_folder"
+
+msgid "conflicting subparser alias: %s"
+msgstr "conflicting subparser alias: %s"
+
+msgid "conflicting subparser: %s"
+msgstr "conflicting subparser: %s"
+
+msgid "control bar"
+msgstr "힘 조절 게이지"
+
+msgid "current char"
+msgstr "current char"
+
+msgid "current task"
+msgstr "current task"
+
+msgid "custom_tasks"
+msgstr "custom_tasks"
+
+msgid "daily activity"
+msgstr "daily activity"
+
+msgid "day"
+msgstr "day"
+
+msgid "debug"
+msgstr "debug"
+
+msgid "default"
+msgstr "default"
+
+msgid "dest= is required for options like %r"
+msgstr "dest= is required for options like %r"
+
+msgid "discord"
+msgstr "discord"
+
+msgid "divide by zero"
+msgstr "divide by zero"
+
+msgid "double (double, double, int *, void *)"
+msgstr "double (double, double, int *, void *)"
+
+msgid "encodings."
+msgstr "encodings."
+
+msgid "exe"
+msgstr "exe"
+
+msgid "expected at least one argument"
+msgstr "expected at least one argument"
+
+msgid "expected at most one argument"
+msgstr "expected at most one argument"
+
+msgid "expected one argument"
+msgstr "expected one argument"
+
+msgid "f"
+msgstr "f"
+
+msgid "failed"
+msgstr "failed"
+
+msgid "faq"
+msgstr "faq"
+
+msgid "first"
+msgstr "first"
+
+msgid "floating-point"
+msgstr "floating-point"
+
+msgid "foo"
+msgstr "foo"
+
+msgid "force_no_hdr"
+msgstr "force_no_hdr"
+
+msgid "from_scipy_sparse_array"
+msgstr "from_scipy_sparse_array"
+
+msgid "github"
+msgstr "github"
+
+msgid "global_configs"
+msgstr "global_configs"
+
+msgid "gui_icon"
+msgstr "gui_icon"
+
+msgid "height"
+msgstr "height"
+
+msgid "hello"
+msgstr "hello"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "hours (0 = unlimited)"
+msgstr "hours (0 = unlimited)"
+
+msgid "hwnd_class"
+msgstr "hwnd_class"
+
+msgid "idlelib.run"
+msgstr "idlelib.run"
+
+msgid "ignored explicit argument %r"
+msgstr "ignored explicit argument %r"
+
+msgid "ii->i"
+msgstr "ii->i"
+
+msgid "in _DeleteMemberByDispID_ with"
+msgstr "in _DeleteMemberByDispID_ with"
+
+msgid "in _DeleteMemberByName_ with"
+msgstr "in _DeleteMemberByName_ with"
+
+msgid "in _GetDispID_ with"
+msgstr "in _GetDispID_ with"
+
+msgid "in _GetIDsOfNames_ with "
+msgstr "in _GetIDsOfNames_ with "
+
+msgid "in _GetMemberName_ with"
+msgstr "in _GetMemberName_ with"
+
+msgid "in _GetMemberProperties_ with"
+msgstr "in _GetMemberProperties_ with"
+
+msgid "in _GetNameSpaceParent_"
+msgstr "in _GetNameSpaceParent_"
+
+msgid "in _GetNextDispID_ with"
+msgstr "in _GetNextDispID_ with"
+
+msgid "in _GetTypeInfoCount_\\n"
+msgstr "in _GetTypeInfoCount_\\n"
+
+msgid "in _GetTypeInfo_ with index=%d, lcid=%d\\n"
+msgstr "in _GetTypeInfo_ with index=%d, lcid=%d\\n"
+
+msgid "in _Invoke_ with"
+msgstr "in _Invoke_ with"
+
+msgid "in {!r}._InvokeEx_-{}{!r} [{:x},{},{!r}]"
+msgstr "in {!r}._InvokeEx_-{}{!r} [{:x},{},{!r}]"
+
+msgid "in {!r}._QueryInterface_ with unsupported IID {} ({})"
+msgstr "in {!r}._QueryInterface_ with unsupported IID {} ({})"
+
+msgid "index"
+msgstr "index"
+
+msgid "info"
+msgstr "info"
+
+msgid "info_set"
+msgstr "info_set"
+
+msgid "int64"
+msgstr "int64"
+
+msgid "integer"
+msgstr "integer"
+
+msgid "interaction"
+msgstr "interaction"
+
+msgid "int选项"
+msgstr "정수 옵션"
+
+msgid "invalid %(type)s value: %(value)r"
+msgstr "invalid %(type)s value: %(value)r"
+
+msgid "invalid choice: %(value)r (choose from %(choices)s)"
+msgstr "invalid choice: %(value)r (choose from %(choices)s)"
+
+msgid "invalid conflict_resolution value: %r"
+msgstr "invalid conflict_resolution value: %r"
+
+msgid "invalid option string %(option)r: "
+msgstr "invalid option string %(option)r: "
+
+msgid "invalid value"
+msgstr "invalid value"
+
+msgid "is bite"
+msgstr "물고기 입질"
+
+msgid "is success"
+msgstr "낚시 성공"
+
+msgid "j"
+msgstr "j"
+
+msgid "k-means++"
+msgstr "k-means++"
+
+msgid "ko_KR"
+msgstr "ko_KR"
+
+msgid "lib"
+msgstr "lib"
+
+msgid "links"
+msgstr "links"
+
+msgid "list选项"
+msgstr "목록 옵션"
+
+msgid "malignant"
+msgstr "malignant"
+
+msgid "mat"
+msgstr "mat"
+
+msgid "match"
+msgstr "match"
+
+msgid "min_height"
+msgstr "min_height"
+
+msgid "min_size"
+msgstr "min_size"
+
+msgid "min_width"
+msgstr "min_width"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "missing GStreamer base plugins"
+msgstr "missing GStreamer base plugins"
+
+msgid "missing_arg"
+msgstr "missing_arg"
+
+msgid "month"
+msgstr "month"
+
+msgid "monthly_card close failed"
+msgstr "월정액 팝업 닫기 실패"
+
+msgid "monthly_card found click"
+msgstr "월정액 감지, 클릭하여 닫기"
+
+msgid "must use stamina"
+msgstr "must use stamina"
+
+msgid "mutually exclusive arguments must be optional"
+msgstr "mutually exclusive arguments must be optional"
+
+msgid "nit"
+msgstr "nit"
+
+msgid "niter"
+msgstr "niter"
+
+msgid "no audio streams found"
+msgstr "no audio streams found"
+
+msgid "no such option: %s"
+msgstr "no such option: %s"
+
+msgid "not allowed with argument %s"
+msgstr "not allowed with argument %s"
+
+msgid "ocr"
+msgstr "ocr"
+
+msgid "ok_tasks/assets (custom scripts)"
+msgstr "ok_tasks/assets (custom scripts)"
+
+msgid "omitted(default=%r)"
+msgstr "omitted(default=%r)"
+
+msgid "one of the arguments %s is required"
+msgstr "one of the arguments %s is required"
+
+msgid "onesided"
+msgstr "onesided"
+
+msgid "option %s: invalid %s value: %r"
+msgstr "option %s: invalid %s value: %r"
+
+msgid "option %s: invalid choice: %r (choose from %s)"
+msgstr "option %s: invalid choice: %r (choose from %s)"
+
+msgid "option -%s not recognized"
+msgstr "option -%s not recognized"
+
+msgid "option -%s requires argument"
+msgstr "option -%s requires argument"
+
+msgid "option --%s must not have an argument"
+msgstr "option --%s must not have an argument"
+
+msgid "option --%s not a unique prefix"
+msgstr "option --%s not a unique prefix"
+
+msgid "option --%s not recognized"
+msgstr "option --%s not recognized"
+
+msgid "option --%s requires argument"
+msgstr "option --%s requires argument"
+
+msgid "options"
+msgstr "options"
+
+msgid "os.path"
+msgstr "os.path"
+
+msgid "overflow"
+msgstr "overflow"
+
+msgid "packages"
+msgstr "packages"
+
+msgid "params"
+msgstr "params"
+
+msgid "paris"
+msgstr "paris"
+
+msgid "pdf(x, mu, loc=0, scale=1)"
+msgstr "pdf(x, mu, loc=0, scale=1)"
+
+msgid "pkgutil"
+msgstr "pkgutil"
+
+msgid "pmf(x,"
+msgstr "pmf(x,"
+
+msgid "positional arguments"
+msgstr "positional arguments"
+
+msgid "process"
+msgstr "process"
+
+msgid "pydoc"
+msgstr "pydoc"
+
+msgid "pythoncom"
+msgstr "pythoncom"
+
+msgid "pywintypes"
+msgstr "pywintypes"
+
+msgid "qq_channel"
+msgstr "qq_channel"
+
+msgid "qq_group"
+msgstr "qq_group"
+
+msgid "ratio"
+msgstr "ratio"
+
+msgid "rayleigh"
+msgstr "rayleigh"
+
+msgid "records"
+msgstr "records"
+
+msgid "require_bg"
+msgstr "require_bg"
+
+msgid "resize_to"
+msgstr "resize_to"
+
+msgid "scale"
+msgstr "scale"
+
+msgid "screenshot_processor"
+msgstr "screenshot_processor"
+
+msgid "second"
+msgstr "second"
+
+msgid "sell fish"
+msgstr "어획물 판매"
+
+msgid "setosa"
+msgstr "setosa"
+
+msgid "share"
+msgstr "share"
+
+msgid "show program"
+msgstr "show program"
+
+msgid "show this help message and exit"
+msgstr "show this help message and exit"
+
+msgid "sig"
+msgstr "sig"
+
+msgid "skimage.io._plugins."
+msgstr "skimage.io._plugins."
+
+msgid "skipped"
+msgstr "skipped"
+
+msgid "sponsor"
+msgstr "sponsor"
+
+msgid "start_exe"
+msgstr "start_exe"
+
+msgid "start_timeout"
+msgstr "start_timeout"
+
+msgid "step size is less"
+msgstr "step size is less"
+
+msgid "subcommands"
+msgstr "subcommands"
+
+msgid "success"
+msgstr "success"
+
+msgid "supported_resolution"
+msgstr "supported_resolution"
+
+msgid "tabnanny"
+msgstr "tabnanny"
+
+msgid "test"
+msgstr "test"
+
+msgid "the following arguments are required: %s"
+msgstr "the following arguments are required: %s"
+
+msgid "then_count"
+msgstr "then_count"
+
+msgid "tokyo"
+msgstr "tokyo"
+
+msgid "type(%s)"
+msgstr "type(%s)"
+
+msgid "typeref[{}]"
+msgstr "typeref[{}]"
+
+msgid "ufunc"
+msgstr "ufunc"
+
+msgid "underflow"
+msgstr "underflow"
+
+msgid "unexpected option string: %s"
+msgstr "unexpected option string: %s"
+
+msgid "unknown parser %(parser_name)r (choices: %(choices)s)"
+msgstr "unknown parser %(parser_name)r (choices: %(choices)s)"
+
+msgid "unrecognized arguments: %s"
+msgstr "unrecognized arguments: %s"
+
+msgid "unspecified dtype"
+msgstr "unspecified dtype"
+
+msgid "usage: "
+msgstr "usage: "
+
+msgid "use_gui"
+msgstr "use_gui"
+
+msgid "use_openvino"
+msgstr "use_openvino"
+
+msgid "used stamina"
+msgstr "used stamina"
+
+msgid "versicolor"
+msgstr "versicolor"
+
+msgid "virginica"
+msgstr "virginica"
+
+msgid "wait_until_before_delay"
+msgstr "wait_until_before_delay"
+
+msgid "wait_until_check_delay"
+msgstr "wait_until_check_delay"
+
+msgid "wait_until_settle_time"
+msgstr "wait_until_settle_time"
+
+msgid "width"
+msgstr "width"
+
+msgid "win32com.gen_py."
+msgstr "win32com.gen_py."
+
+msgid "window_size"
+msgstr "window_size"
+
+msgid "windows"
+msgstr "windows"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"
+
+msgid "year"
+msgstr "year"
+
+msgid "{generator.base_mod_name}.{ref.python_name}"
+msgstr "{generator.base_mod_name}.{ref.python_name}"
+
+msgid "{num} images selected"
+msgstr "{num} images selected"
+
+msgid "{vendor} {feature} is enabled and may cause malfunctions!"
+msgstr "{vendor} {feature} is enabled and may cause malfunctions!"
+
+msgid "{} is not connected, please select the game window."
+msgstr "{} is not connected, please select the game window."
+
+msgid "{}：点击开始演奏"
+msgstr "{}: 연주 시작 클릭"
+
+msgid "※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\\n"
+msgstr "※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\\n"
+
+msgid "一键出售未完成，可能当前鱼获不可出售，跳过出售"
+msgstr "일괄 판매 미완료, 판매 불가능할 수 있어 건너뜀"
+
+msgid "下一轮咬钩前未检测到成功面板"
+msgstr "다음 입질 전 성공 패널 미감지"
+
+msgid "下拉菜单选项"
+msgstr "드롭다운 옵션"
+
+msgid "不包含任何局内的制作食物或招待客人操作。\n\n"
+msgstr "스테이지 내 음식 제작이나 손님 응대 작업은 포함되지 않습니다.\n\n"
+
+msgid "不安全的压缩包路径"
+msgstr "안전하지 않은 압축 파일 경로"
+
+msgid "不扫描也可自动战斗，将使用通用脚本"
+msgstr "스캔 없이도 자동 전투가 가능하며, 공용 스크립트가 사용됩니다"
+
+msgid "不支持的导入格式"
+msgstr "지원하지 않는 가져오기 형식"
+
+msgid "九原"
+msgstr "지위안"
+
+msgid "买饵补货"
+msgstr "미끼 보충"
+
+msgid "交互检查"
+msgstr "交互检查"
+
+msgid "仅支持导入导出数据的 zip（custom_chars/db.json 无效）"
+msgstr "데이터 내보내기 ZIP만 지원(custom_chars/db.json 무효)"
+
+msgid "仅支持导入导出数据的 zip（缺少 custom_chars/db.json）"
+msgstr "데이터 내보내기 ZIP만 지원(custom_chars/db.json 누락)"
+
+msgid "价格表"
+msgstr "价格表"
+
+msgid "任务失败: {}"
+msgstr "태스크 실패: {}"
+
+msgid "任务完成: {}"
+msgstr "태스크 완료: {}"
+
+msgid "任务执行完毕"
+msgstr "태스크 실행 완료"
+
+msgid "任务结束"
+msgstr "작업 종료"
+
+msgid "休眠停顿等待指定时间"
+msgstr "지정 시간 동안 대기"
+
+msgid "优化商品"
+msgstr "优化商品"
+
+msgid "传送"
+msgstr "텔레포트"
+
+msgid "体力不足，退出任务"
+msgstr "스태미나 부족, 태스크 종료"
+
+msgid "体力消耗目标"
+msgstr "스태미나 소모 목표"
+
+msgid "使用方法：\n"
+msgstr "사용 방법:\n"
+
+msgid "先扫描或手动填写"
+msgstr "먼저 스캔하거나 수동으로 입력하세요"
+
+msgid "关联 <b style=\"color: #0078d7;\">角色特征</b> 后将自动判断当前角色。<br>如果不想管理 <b style=\"color: #0078d7;\">角色特征</b>，可以直接启用 <b style=\"color: #0078d7;\">{fixed_team}</b> 功能。"
+msgstr "<b style=\"color: #0078d7;\">캐릭터 특징</b>을 연결하면 현재 캐릭터를 자동으로 판별합니다.<br><b style=\"color: #0078d7;\">캐릭터 특징</b>을 관리하고 싶지 않다면 <b style=\"color: #0078d7;\">{fixed_team}</b> 기능을 직접 활성화할 수 있습니다."
+
+msgid "关闭"
+msgstr "꺼짐"
+
+msgid "关闭结算界面"
+msgstr "결산 화면 닫는 중"
+
+msgid "切换至任务页签: {}"
+msgstr "태스크 탭으로 전환: {}"
+
+msgid "功能说明：本功能仅负责『自动退出关卡』与『重新开启关卡』的点击循环，"
+msgstr "기능 설명: 이 기능은 '스테이지 자동 퇴장'과 '스테이지 재시작' 클릭 루프만 담당하며,"
+
+msgid "功能说明：本功能仅负责『自动退出关卡』与『重新开启关卡』的点击循环，不包含任何局内的制作食物或招待客人操作。\n\n使用方法：\n1. 确保您已配置好游戏内的挂机流派。\n2. 站在咖啡店可进行 F 交互的位置。\n3. 首次启动需录制目标, 点击[开始]后请跟随指示操作。"
+msgstr "기능 설명: 이 기능은 \"스테이지 자동 나가기\"와 \"스테이지 다시 시작\" 클릭 루프만 담당합니다. 스테이지 안에서 음식을 만들거나 손님을 응대하는 동작은 포함하지 않습니다.\n\n사용 방법:\n1. 게임 내 방치 빌드를 설정했는지 확인하세요.\n2. 카페에서 F 상호작용이 가능한 위치에 서세요.\n3. 처음 실행할 때는 대상을 기록해야 합니다. [시작]을 클릭한 뒤 안내에 따라 조작하세요."
+
+msgid "功能说明：本功能仅负责『自动退出关卡』与『重新开启关卡』的点击循环，不包含任何局内的制作食物或招待客人操作。\n\n使用方法：\n1. 确保您已配置好游戏内的挂机流派。\n2. 站在咖啡店可进行 F 交互的位置。\n3. （可选）若想指定特定关卡，请先手动进入该关卡一次后退出，再启动本脚本即可。"
+msgstr "기능 설명: 이 기능은 \"스테이지 자동 나가기\"와 \"스테이지 다시 시작\" 클릭 루프만 담당합니다. 스테이지 안에서 음식을 만들거나 손님을 응대하는 동작은 포함하지 않습니다.\n\n사용 방법:\n1. 게임 내 방치 빌드를 설정했는지 확인하세요.\n2. 카페에서 F 상호작용이 가능한 위치에 서세요.\n3. (선택) 특정 스테이지를 지정하려면 먼저 해당 스테이지에 수동으로 한 번 들어갔다가 나온 뒤 이 스크립트를 시작하세요."
+
+msgid "压缩包内没有可导入的数据"
+msgstr "압축 파일에 가져올 수 있는 데이터가 없습니다"
+
+msgid "双倍次数: {}, 单倍次数: {}"
+msgstr "2배 횟수: {}, 1배 횟수: {}"
+
+msgid "发帖内容模块提示词"
+msgstr "发帖内容模块提示词"
+
+msgid "发帖标题模块提示词"
+msgstr "发帖标题模块提示词"
+
+msgid "发现 {} 个领取奖励"
+msgstr "수령 가능한 보상 {}개 발견"
+
+msgid "可以在出招表中输入以下指令 (以英文逗号 [ , ] 分隔):\n\n"
+msgstr "기술표에 다음 명령을 입력할 수 있습니다(영문 쉼표 [ , ]로 구분):\n\n"
+
+msgid "商品位数量"
+msgstr "商品位数量"
+
+msgid "商城"
+msgstr "상점"
+
+msgid "回复模块提示词"
+msgstr "回复模块提示词"
+
+msgid "增加 <b style=\"color: #0078d7;\">角色特征</b> 后将自动判断当前角色。<br>"
+msgstr "<b style=\"color: #0078d7;\">캐릭터 특징</b>을 추가하면 현재 캐릭터를 자동으로 판별합니다.<br>"
+
+msgid "增加 <b style=\"color: #0078d7;\">角色特征</b> 后将自动判断当前角色。<br>如果不想管理 <b style=\"color: #0078d7;\">角色特征</b>，可以直接启用 <b style=\"color: #0078d7;\">{fixed_team}</b> 功能。"
+msgstr "캐릭터 특징을 추가하면 현재 캐릭터를 자동으로 판별합니다.<br>캐릭터 특징을 관리하고 싶지 않다면 {fixed_team} 기능을 직접 활성화할 수 있습니다."
+
+msgid "声音监听未找到严格匹配的系统声音回环设备，已使用兼容模式监听。"
+msgstr "사운드 리스너가 정확히 일치하는 시스템 루프백 장치를 찾지 못해 호환 모드로 수신합니다."
+
+msgid "失败原因"
+msgstr "실패 원인"
+
+msgid "失败次数"
+msgstr "실패 횟수"
+
+msgid "奖励目标"
+msgstr "보상 목표"
+
+msgid "如果不想管理 <b style=\"color: #0078d7;\">角色特征</b>，可以直接启用"
+msgstr "<b style=\"color: #0078d7;\">캐릭터 특징</b>을 관리하고 싶지 않다면 직접 활성화할 수 있습니다"
+
+msgid "如果你使用蓝牙耳机并发现音质变差，请在 Windows 声音设置中选择"
+msgstr "Bluetooth 헤드폰 사용 시 음질이 나빠지면 Windows 사운드 설정에서"
+
+msgid "娜娜莉"
+msgstr "나나리"
+
+msgid "子类必须实现 get_current_char 方法"
+msgstr "하위 클래스는 get_current_char 메서드를 구현해야 합니다"
+
+msgid "子类必须实现 load_chars 方法"
+msgstr "하위 클래스는 load_chars 메서드를 구현해야 합니다"
+
+msgid "寻找钓鱼交互点"
+msgstr "낚시 상호작용 지점 탐색"
+
+msgid "寻路至交互点并触发交互"
+msgstr "상호작용 지점까지 이동하여 상호작용 실행"
+
+msgid "将优先使用固定角色进行战斗，未启用或槽位为空时自动识别"
+msgstr "고정 캐릭터를 우선 사용하여 전투하며, 비활성화되거나 슬롯이 비어 있으면 자동으로 인식합니다"
+
+msgid "小吱"
+msgstr "치즈"
+
+msgid "已切换交互式方式: {}"
+msgstr "상호작용 방식 전환: {}"
+
+msgid "已回到钓鱼准备界面"
+msgstr "낚시 준비 화면으로 복귀"
+
+msgid "已绑定的特征图"
+msgstr "已绑定的特征图"
+
+msgid "店长特供结束，成功 {}/{}"
+msgstr "오너 셀렉션 종료, 성공 {}/{}"
+
+msgid "开启"
+msgstr "켜짐"
+
+msgid "开启后将跳过 [{}]"
+msgstr "활성화 시 [{}]을(를) 건너뜁니다"
+
+msgid "开启活跃度面板"
+msgstr "활동도 패널 여는 중"
+
+msgid "开始任务: {}"
+msgstr "태스크 시작: {}"
+
+msgid "开始任务: {}, 目标索引: {}"
+msgstr "태스크 시작: {}, 목표 인덱스: {}"
+
+msgid "开始店长特供，共 {} 轮"
+msgstr "오너 셀렉션 시작, 총 {}라운드"
+
+msgid "开始执行战斗流程"
+msgstr "전투 시퀀스 시작"
+
+msgid "开始执行日常任务"
+msgstr "일일 임무 시작"
+
+msgid "开始扫描当前队伍..."
+msgstr "현재 파티 스캔 중..."
+
+msgid "开始玩法"
+msgstr "플레이 시작"
+
+msgid "开始第 {}/{} 轮"
+msgstr "제 {}/{}라운드 시작"
+
+msgid "开始自动钓鱼，共 {} 轮"
+msgstr "자동 낚시 시작, 총 {}회"
+
+msgid "开始自动钓鱼，无限循环"
+msgstr "자동 낚시 시작, 무한 반복"
+
+msgid "开始营业循环"
+msgstr "영업 루프 시작"
+
+msgid "当前体力"
+msgstr "현재 스태미나"
+
+msgid "当前体力消耗或每日活跃度已达标，跳过每日活跃度任务"
+msgstr "스태미나 소모 또는 일일 활동도 목표 달성, 일일 활동도 태스크 건너뜀"
+
+msgid "当前失败任务"
+msgstr "현재 실패 태스크"
+
+msgid "当前阶段"
+msgstr "현재 단계"
+
+msgid "循环次数, 设置为0则一直运行"
+msgstr "루프 횟수 (0으로 설정 시 무한 실행)"
+
+msgid "总方斯获取数"
+msgstr "总方斯获取数"
+
+msgid "总粉爪币获取数"
+msgstr "总粉爪币获取数"
+
+msgid "恢复钓鱼准备界面超时"
+msgstr "낚시 준비 화면 복구 시간 초과"
+
+msgid "恢复钓鱼界面"
+msgstr "낚시 화면 복구"
+
+msgid "成功发帖次数"
+msgstr "成功发帖次数"
+
+msgid "成功回复次数"
+msgstr "成功回复次数"
+
+msgid "成功次数"
+msgstr "성공 횟수"
+
+msgid "成功进入钓鱼场景"
+msgstr "낚시 장면 진입 성공"
+
+msgid "战斗结束，正在前往领取奖励"
+msgstr "전투 종료, 보상 수령으로 이동 중"
+
+msgid "打开F1面板并选择对应功能"
+msgstr "F1 패널을 열고 해당 기능 선택"
+
+msgid "扫描完成！"
+msgstr "스캔 완료!"
+
+msgid "招"
+msgstr "모션"
+
+msgid "持续时间(s)，选填"
+msgstr "지속 시간(초), 선택"
+
+msgid "指针已锁定中心: pointer={}, target={}"
+msgstr "포인터 중앙 고정: pointer={}, target={}"
+
+msgid "按下并松开按键"
+msgstr "키를 누르고 뗌"
+
+msgid "按下按键"
+msgstr "키 누르기"
+
+msgid "按下秒数, 默认0.01秒"
+msgstr "누름 시간(초), 기본 0.01초"
+
+msgid "按住鼠标右键。带参数则指定秒数"
+msgstr "마우스 오른쪽 버튼을 누르고 있음. 인수가 있으면 지정 초 동안"
+
+msgid "按住鼠标左键。带参数则指定秒数"
+msgstr "마우스 왼쪽 버튼을 누르고 있음. 인수가 있으면 지정 초 동안"
+
+msgid "按键 {} ({})"
+msgstr "키 {} ({})"
+
+msgid "按键方向、持续时间(s)，必填"
+msgstr "키 방향 및 지속 시간(초), 필수"
+
+msgid "按键，必填"
+msgstr "키, 필수"
+
+msgid "按键，选填"
+msgstr "키, 선택"
+
+msgid "控制角色向指定方向行走"
+msgstr "캐릭터를 지정 방향으로 이동"
+
+msgid "播放中"
+msgstr "播放中"
+
+msgid "支持输入并创建，也支持选择已有项。"
+msgstr "입력하여 생성하거나 기존 항목을 선택할 수 있습니다."
+
+msgid "文件不存在"
+msgstr "파일이 존재하지 않습니다"
+
+msgid "文字框选项"
+msgstr "텍스트 필드 옵션"
+
+msgid "无"
+msgstr "없음"
+
+msgid "无参数"
+msgstr "매개변수 없음"
+
+msgid "无法找到一咖舍面板"
+msgstr "카페 패널을 찾을 수 없습니다"
+
+msgid "无法找到活跃度奖励领取框"
+msgstr "활동도 보상 수령 창을 찾을 수 없습니다"
+
+msgid "无法找到活跃度面板"
+msgstr "활동도 패널을 찾을 수 없습니다"
+
+msgid "无法找到环期任务面板"
+msgstr "주기 임무 패널을 찾을 수 없습니다"
+
+msgid "无法找到邮件面板"
+msgstr "메일 패널을 찾을 수 없습니다"
+
+msgid "无法设置交互方式：索引 {} 越界。当前可用选择有: {}"
+msgstr "상호작용 방식을 설정할 수 없음: 인덱스 {} 범위 초과. 사용 가능: {}"
+
+msgid "日常任务开始运行!"
+msgstr "일일 임무 실행 시작!"
+
+msgid "日常任务运行完成!"
+msgstr "일일 임무 실행 완료!"
+
+msgid "早雾"
+msgstr "사키리"
+
+msgid "是否选项默认支持"
+msgstr "예/아니오 옵션(기본 활성화)"
+
+msgid "未找到领取奖励按钮"
+msgstr "보상 수령 버튼을 찾을 수 없습니다"
+
+msgid "未检测到可用鱼饵，开始买饵补货"
+msgstr "사용 가능한 미끼 없음, 미끼 보충 시작"
+
+msgid "未检测到进入抛竿状态"
+msgstr "낚시대 던지기 상태 미감지"
+
+msgid "未识别，关联新特征"
+msgstr "인식 불가, 새로운 특징 연결"
+
+msgid "未进入购买鱼饵页面"
+msgstr "미끼 구매 화면 진입 실패"
+
+msgid "本轮完成"
+msgstr "이번 라운드 완료"
+
+msgid "条件命令、一个或多个目标命令"
+msgstr "조건 명령, 하나 이상의 대상 명령"
+
+msgid "条件执行：仅可使用标记为（可用于 if_ 条件）的命令作为条件命令"
+msgstr "조건 실행: (if_ 조건에 사용 가능)으로 표시된 명령만 조건 명령으로 사용할 수 있습니다"
+
+msgid "松开按键"
+msgstr "키 떼기"
+
+msgid "检测 |"
+msgstr "감지 |"
+
+msgid "检测到文字: {}"
+msgstr "텍스트 감지: {}"
+
+msgid "检测到结算界面"
+msgstr "결산 화면 감지"
+
+msgid "正在传送至目标地点"
+msgstr "목적지로 텔레포트 중"
+
+msgid "正在打开邮件面板"
+msgstr "메일 패널 여는 중"
+
+msgid "正在执行每日活跃度任务"
+msgstr "일일 활동도 태스크 실행 중"
+
+msgid "正在领取一咖舍奖励"
+msgstr "카페 보상 수령 중"
+
+msgid "正在领取活跃度奖励"
+msgstr "활동도 보상 수령 중"
+
+msgid "正在领取环期任务奖励"
+msgstr "주기 임무 보상 수령 중"
+
+msgid "正在领取邮件奖励"
+msgstr "메일 보상 수령 중"
+
+msgid "此为内建 Python 脚本，不可在此修改。\\n请在对应的源文件中直接修改代码。"
+msgstr "此为内建 Python 脚本，不可在此修改。\\n请在对应的源文件中直接修改代码。"
+
+msgid "没有可选择的音轨"
+msgstr "没有可选择的音轨"
+
+msgid "浔"
+msgstr "호토리"
+
+msgid "游戏更新成功, 游戏即将重启"
+msgstr "게임 업데이트 성공, 곧 재시작합니다"
+
+msgid "溜鱼状态超时"
+msgstr "힘 조절 상태 시간 초과"
+
+msgid "点击同意按钮!"
+msgstr "동의 버튼 클릭!"
+
+msgid "点击开始游戏! {start}"
+msgstr "게임 시작 클릭! {start}"
+
+msgid "点击登录按钮!"
+msgstr "로그인 버튼 클릭!"
+
+msgid "点击触发运行任务"
+msgstr "클릭하여 태스크 실행"
+
+msgid "状态机运行超时"
+msgstr "상태 머신 실행 시간 초과"
+
+msgid "状态轮询连续失败"
+msgstr "상태 폴링 연속 실패"
+
+msgid "环合反应"
+msgstr "环合反应"
+
+msgid "生成文档失败: {}"
+msgstr "문서 생성 실패: {}"
+
+msgid "用户点击时调用run方法"
+msgstr "사용자 클릭 시 run 메서드 호출"
+
+msgid "第 {} 个项目"
+msgstr "제 {}번 항목"
+
+msgid "第 {} 次"
+msgstr "제 {}회"
+
+msgid "第 {} 轮失败"
+msgstr "제 {}라운드 실패"
+
+msgid "第 {} 轮钓鱼失败：未检测到成功面板"
+msgstr "제 {}회 낚시 실패: 성공 패널 미감지"
+
+msgid "第 {} 轮钓鱼失败：状态轮询连续失败"
+msgstr "제 {}회 낚시 실패: 상태 폴링 연속 실패"
+
+msgid "第 {} 轮钓鱼成功"
+msgstr "제 {}회 낚시 성공"
+
+msgid "第1列"
+msgstr "1열"
+
+msgid "第2列"
+msgstr "2열"
+
+msgid "第3"
+msgstr "3번째"
+
+msgid "第3列"
+msgstr "3열"
+
+msgid "第4列"
+msgstr "4열"
+
+msgid "第一"
+msgstr "첫 번째"
+
+msgid "第二"
+msgstr "두 번째"
+
+msgid "等待回到选歌界面"
+msgstr "곡 선택 화면 복귀 대기"
+
+msgid "等待时间(s)，必填"
+msgstr "대기 시간(초), 필수"
+
+msgid "等待进入音游界面"
+msgstr "리듬 게임 화면 진입 대기"
+
+msgid "等待钓鱼准备界面"
+msgstr "낚시 준비 화면 대기"
+
+msgid "等待鱼儿咬钩超时"
+msgstr "입질 대기 시간 초과"
+
+msgid "结束执行日常任务"
+msgstr "일일 임무 실행 종료"
+
+msgid "结算确认"
+msgstr "결산 확인"
+
+msgid "自动钓鱼结束，成功 {}"
+msgstr "자동 낚시 종료, 성공 {}"
+
+msgid "自动钓鱼结束，成功 {}/{}"
+msgstr "자동 낚시 종료, 성공 {}/{}"
+
+msgid "自动银行差事出错"
+msgstr "자동 은행 심부름 오류"
+
+msgid "自动音游任务结束，共完成 {} 次"
+msgstr "자동 리듬 게임 태스크 종료, 총 {}회 완료"
+
+msgid "营业中"
+msgstr "영업 중"
+
+msgid "营业额已达标，退出营业循环"
+msgstr "매출 목표 달성, 영업 루프 종료"
+
+msgid "营业额未在超时内达标"
+msgstr "제한 시간 내 매출 목표 미달성"
+
+msgid "营业额检测超时"
+msgstr "매출 확인 시간 초과"
+
+msgid "薄荷"
+msgstr "민트"
+
+msgid "补货时长"
+msgstr "补货时长"
+
+msgid "补货货物"
+msgstr "补货货物"
+
+msgid "角色"
+msgstr "캐릭터"
+
+msgid "记录坐标"
+msgstr "记录坐标"
+
+msgid "记录新特征"
+msgstr "새 특징 기록"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 使用滚轮滚动至[目标关卡]可见 (若不需要则点击[目标关卡])\n2. 点击目标关卡\n\n※ 请勿点击[开始营业]"
+msgstr "대상 스테이지를 클릭하는 작업을 두 단계로 기록합니다:\n1. 마우스 휠로 [목표 스테이지]가 보일 때까지 스크롤합니다(필요 없으면 [목표 스테이지]를 클릭)\n2. 목표 스테이지를 클릭합니다\n\n※ [영업 시작]을 클릭하지 마세요"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 使用滚轮滚动至目标可见 (若不需要则点击目标)\n2. 点击目标"
+msgstr "대상 스테이지를 클릭하는 작업을 두 단계로 기록합니다:\n1. 마우스 휠로 대상이 보일 때까지 스크롤합니다(필요 없으면 대상을 클릭)\n2. 대상을 클릭합니다"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 点击滚动条至[目标活动]可见 (若不需要则点击[目标活动])\n2. 点击[目标活动]\n\n※ 请勿点击[开始比赛]"
+msgstr "대상 스테이지를 클릭하는 작업을 두 단계로 기록합니다:\n1. 스크롤바를 클릭해 [목표 이벤트]가 보일 때까지 이동합니다(필요 없으면 [목표 이벤트]를 클릭)\n2. [목표 이벤트]를 클릭합니다\n\n※ [경기 시작]을 클릭하지 마세요"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 点击滚动条至目标可见 (若不需要则点击目标)\n2. 点击目标"
+msgstr "대상 스테이지를 클릭하는 작업을 두 단계로 기록합니다:\n1. 스크롤바를 클릭해 대상이 보일 때까지 이동합니다(필요 없으면 대상을 클릭)\n2. 대상을 클릭합니다"
+
+msgid "购买货物送货上门"
+msgstr "购买货物送货上门"
+
+msgid "跳跃一下"
+msgstr "한 번 점프"
+
+msgid "轮次"
+msgstr "회차"
+
+msgid "运行一咖舍自动化"
+msgstr "카페 자동화 실행"
+
+msgid "进入副本并等待"
+msgstr "던전 입장 후 대기"
+
+msgid "进入店长特供"
+msgstr "오너 셀렉션 진입"
+
+msgid "进入溜鱼状态"
+msgstr "힘 조절 상태로 진입"
+
+msgid "选择或输入{combo}名"
+msgstr "{combo} 이름 선택 또는 입력"
+
+msgid "选择项目序号: {}"
+msgstr "항목 번호 선택: {}"
+
+msgid "释放弧盘技能"
+msgstr "아크 스킬 사용"
+
+msgid "释放技能"
+msgstr "스킬 사용"
+
+msgid "释放终结技"
+msgstr "궁극기 사용"
+
+msgid "钓鱼"
+msgstr "낚시"
+
+msgid "钓鱼状态轮询失败"
+msgstr "낚시 상태 폴링 실패"
+
+msgid "长文字框选项"
+msgstr "긴 텍스트 필드 옵션"
+
+msgid "队伍不存在, 扫描结束"
+msgstr "파티가 존재하지 않음, 스캔 종료"
+
+msgid "队伍人数少于2人, 扫描结束"
+msgstr "파티 인원 2명 미만, 스캔 종료"
+
+msgid "零"
+msgstr "제로"
+
+msgid "音游开始，按键 D/F/J/K"
+msgstr "리듬 게임 시작, 키 D/F/J/K"
+
+msgid "项目序号"
+msgstr "항목 번호"
+
+msgid "领取收益"
+msgstr "领取收益"
+
+msgid "鱼儿咬钩"
+msgstr "물고기가 입질했습니다"
+
+msgid "鱼舱内没有可出售鱼获，跳过出售"
+msgstr "어획함에 판매 가능한 물고기 없음, 판매 건너뜀"
+
+msgid "默认文字"
+msgstr "기본 텍스트"
+
+msgid "默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字"
+msgstr "기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트"
+
+msgid "默认鱼饵可用"
+msgstr "기본 미끼 사용 가능"
+
+msgid "鼠标右键。带参数则连点鼠标右键指定秒数，无参数为单次点按"
+msgstr "마우스 오른쪽 버튼. 인수가 있으면 지정 초 동안 연속 클릭, 없으면 한 번 클릭"
+
+msgid "鼠标左键。带参数则连点鼠标左键指定秒数，无参数为单次点按"
+msgstr "마우스 왼쪽 버튼. 인수가 있으면 지정 초 동안 연속 클릭, 없으면 한 번 클릭"
+
+msgid "鼠标按键left、right、middle, 不填默认left"
+msgstr "마우스 버튼 left, right, middle, 미입력 시 left"
+
+msgid "（可用于 if_ 条件）"
+msgstr "(if_ 조건에 사용 가능)"

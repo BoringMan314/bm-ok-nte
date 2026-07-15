@@ -1,0 +1,32 @@
+{
+  "en_US": {
+    "MainWindow": {
+      "Tasks": "Features"
+    }
+  },
+  "zh_CN": {
+    "MainWindow": {
+      "Tasks": "功能"
+    }
+  },
+  "zh_TW": {
+    "MainWindow": {
+      "Tasks": "功能"
+    }
+  },
+  "ja_JP": {
+    "MainWindow": {
+      "Tasks": "機能"
+    }
+  },
+  "ko_KR": {
+    "MainWindow": {
+      "Tasks": "기능"
+    }
+  },
+  "es_ES": {
+    "MainWindow": {
+      "Tasks": "Funciones"
+    }
+  }
+}

@@ -1,23 +1,9 @@
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: 1.0\n"
-"Report-Msgid-Bugs-To: you@example.com\n"
-"Last-Translator: you@example.com\n"
-"Language-Team: Portuguese (Brazil)\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: you@example.com\nLast-Translator: you@example.com\nLanguage-Team: Portuguese (Brazil)\nLanguage: pt_BR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid ""
-"<b style=\"color: #0078d7;\">角色</b> 和 <b style=\"color: "
-"#0078d7;\">{combo}</b> 支持输入并创建，也支持选择已有项。"
-msgstr ""
-"<b style=\"color: #0078d7;\">Personagem</b> e <b style=\"color: "
-"#0078d7;\">{combo}</b> suportam entrada e criação, e também suportam a "
-"seleção de itens existentes."
+msgid "<b style=\"color: #0078d7;\">角色</b> 和 <b style=\"color: #0078d7;\">{combo}</b> 支持输入并创建，也支持选择已有项。"
+msgstr "<b style=\"color: #0078d7;\">Personagem</b> e <b style=\"color: #0078d7;\">{combo}</b> suportam entrada e criação, e também suportam a seleção de itens existentes."
 
 msgid "Arc Key"
 msgstr "Tecla do Arco"
@@ -61,10 +47,8 @@ msgstr "Ative para evitar interrupção pelo passe mensal ao executar tarefas"
 msgid "Ultimate Key"
 msgstr "Tecla do Ultimate"
 
-msgid ""
-"Your computer's local time when the monthly card will popup, hour in (1-24)"
-msgstr ""
-"Horário local do computador para o pop-up do passe mensal, hora em (1-24)"
+msgid "Your computer's local time when the monthly card will popup, hour in (1-24)"
+msgstr "Horário local do computador para o pop-up do passe mensal, hora em (1-24)"
 
 msgid "[内置代码]"
 msgstr "[Código Interno]"
@@ -93,12 +77,8 @@ msgstr "Espaço {}"
 msgid "任务跳过对话"
 msgstr "Tarefa: Pular Diálogo"
 
-msgid ""
-"供非中/英语用户自定义传送文字, 逗号分隔\n"
-"例: Teleport, 传送"
-msgstr ""
-"Para usuários que não falam chinês/inglês personalizarem o texto de teletransporte, separado por vírgulas\n"
-"Ex: Teleport, 传送"
+msgid "供非中/英语用户自定义传送文字, 逗号分隔\n例: Teleport, 传送"
+msgstr "Para usuários que não falam chinês/inglês personalizarem o texto de teletransporte, separado por vírgulas\nEx: Teleport, 传送"
 
 msgid "保存成功"
 msgstr "Salvo com sucesso"
@@ -143,9 +123,7 @@ msgid "匹配文字"
 msgstr "Corresponder Texto"
 
 msgid "受《异环》UI的特殊性影响, 部分场景下存在识别稳定性波动"
-msgstr ""
-"Devido à singularidade da interface do Neverness-to-Everness, a estabilidade"
-" do reconhecimento pode variar em alguns cenários."
+msgstr "Devido à singularidade da interface do Neverness-to-Everness, a estabilidade do reconhecimento pode variar em alguns cenários."
 
 msgid "可用指令"
 msgstr "Comandos Disponíveis"
@@ -202,8 +180,7 @@ msgid "已恢复自动识别"
 msgstr "Reconhecimento automático restaurado"
 
 msgid "已成功删除角色: {} 以及关联的特征图"
-msgstr ""
-"Personagem excluído com sucesso: {} e mapas de características associados"
+msgstr "Personagem excluído com sucesso: {} e mapas de características associados"
 
 msgid "已清空槽位"
 msgstr "Espaços limpos"
@@ -214,12 +191,8 @@ msgstr "{combo} desvinculado de {}"
 msgid "应用更改"
 msgstr "Aplicar Alterações"
 
-msgid ""
-"当前未绑定任何{combo}。\n"
-"遇到此角色将默认使用基础通用脚本(BaseChar)。"
-msgstr ""
-"Nenhum {combo} vinculado atualmente.\n"
-"Este personagem usará o script genérico básico (BaseChar) por padrão."
+msgid "当前未绑定任何{combo}。\n遇到此角色将默认使用基础通用脚本(BaseChar)。"
+msgstr "Nenhum {combo} vinculado atualmente.\nEste personagem usará o script genérico básico (BaseChar) por padrão."
 
 msgid "循环次数"
 msgstr "Contagem de Ciclos"
@@ -263,12 +236,8 @@ msgstr "Característica não obtida"
 msgid "关联特征"
 msgstr "Vincular característica"
 
-msgid ""
-"此为内建 Python 脚本，不可在此修改。\n"
-"请在对应的源文件中直接修改代码。"
-msgstr ""
-"Este é um script Python interno e não pode ser modificado aqui.\n"
-"Modifique o código diretamente no arquivo de origem correspondente."
+msgid "此为内建 Python 脚本，不可在此修改。\n请在对应的源文件中直接修改代码。"
+msgstr "Este é um script Python interno e não pode ser modificado aqui.\nModifique o código diretamente no arquivo de origem correspondente."
 
 msgid "没有可用扫描结果"
 msgstr "Nenhum resultado de escaneamento disponível"
@@ -292,9 +261,7 @@ msgid "点按时长倍率"
 msgstr "Multiplicador de Duração do Toque"
 
 msgid "点按模式专用。用于微调每次按键的持续时间"
-msgstr ""
-"Apenas para o modo Toque. Usado para ajustar a duração de cada "
-"pressionamento de tecla."
+msgstr "Apenas para o modo Toque. Usado para ajustar a duração de cada pressionamento de tecla."
 
 msgid "编辑名称"
 msgstr "Editar Nome"
@@ -330,8 +297,7 @@ msgid "解除绑定"
 msgstr "Desvincular"
 
 msgid "请在左侧选择一个角色以管理特征和{combo}"
-msgstr ""
-"Selecione um personagem à esquerda para gerenciar características e {combo}"
+msgstr "Selecione um personagem à esquerda para gerenciar características e {combo}"
 
 msgid "跳过剧情"
 msgstr "Pular História"
@@ -348,12 +314,8 @@ msgstr "Falha ao renomear"
 msgid "长按"
 msgstr "Pressionar e Segurar"
 
-msgid ""
-"长按：平滑流畅, 易过冲\n"
-"点按: 安全较慢, 防过冲"
-msgstr ""
-"Pressionar e Segurar: Suave e fluido, propenso a excesso\n"
-"Toque: Mais seguro e lento, previne excesso"
+msgid "长按：平滑流畅, 易过冲\n点按: 安全较慢, 防过冲"
+msgstr "Pressionar e Segurar: Suave e fluido, propenso a excesso\nToque: Mais seguro e lento, previne excesso"
 
 msgid "队伍不存在"
 msgstr "Equipe não existe"
@@ -377,41 +339,28 @@ msgid "使用ESC"
 msgstr "Usar ESC"
 
 msgid "关闭时仅在中键选中敌人且画面识别到 'Lv' 文字时开启战斗"
-msgstr ""
-"Quando desativado, o combate só inicia se um inimigo for selecionado com o "
-"botão do meio e 'Lv' for detectado na tela"
+msgstr "Quando desativado, o combate só inicia se um inimigo for selecionado com o botão do meio e 'Lv' for detectado na tela"
 
-msgid ""
-"开启后优先通过 ESC 键关闭成功界面，避免后台抢占鼠标。\n"
-"若游戏运行不流畅，可能因按键响应延迟导致误退出钓鱼场景"
-msgstr ""
-"Quando ativado, prioriza fechar telas de sucesso com ESC para evitar que o fundo roube o foco do mouse.\n"
-"Se o jogo estiver lento, o atraso na resposta das teclas pode causar saída acidental da cena de pesca."
+msgid "开启后优先通过 ESC 键关闭成功界面，避免后台抢占鼠标。\n若游戏运行不流畅，可能因按键响应延迟导致误退出钓鱼场景"
+msgstr "Quando ativado, prioriza fechar telas de sucesso com ESC para evitar que o fundo roube o foco do mouse.\nSe o jogo estiver lento, o atraso na resposta das teclas pode causar saída acidental da cena de pesca."
 
 msgid "Counter Attack Threshold"
 msgstr "Limiar de Contra-ataque"
 
-msgid ""
-"Counter attack sound recognition threshold (0.0-1.0, lower is more "
-"sensitive)"
-msgstr ""
-"Limiar de reconhecimento de som de contra-ataque (0,0-1,0, quanto menor, "
-"mais sensível)"
+msgid "Counter attack sound recognition threshold (0.0-1.0, lower is more sensitive)"
+msgstr "Limiar de reconhecimento de som de contra-ataque (0,0-1,0, quanto menor, mais sensível)"
 
 msgid "Dodge Threshold"
 msgstr "Limiar de Esquiva"
 
 msgid "Dodge sound recognition threshold (0.0-1.0, lower is more sensitive)"
-msgstr ""
-"Limiar de reconhecimento de som de esquiva (0,0-1,0, quanto menor, mais "
-"sensível)"
+msgstr "Limiar de reconhecimento de som de esquiva (0,0-1,0, quanto menor, mais sensível)"
 
 msgid "Enable Sound Trigger"
 msgstr "Ativar Gatilho de Som"
 
 msgid "Enable sound recognition for automatic dodge and counter attacks"
-msgstr ""
-"Ativar reconhecimento de som para esquivas e contra-ataques automáticos"
+msgstr "Ativar reconhecimento de som para esquivas e contra-ataques automáticos"
 
 msgid "Sound Trigger Config"
 msgstr "Configuração do Gatilho de Som"
@@ -429,8 +378,7 @@ msgid "不支持从OK启动游戏"
 msgstr "Não é suportado iniciar o jogo pelo OK"
 
 msgid "任务完成后自动切换至下一个项目"
-msgstr ""
-"Alternar automaticamente para o próximo item após a conclusão da tarefa"
+msgstr "Alternar automaticamente para o próximo item após a conclusão da tarefa"
 
 msgid "任务类型"
 msgstr "Tipo de Tarefa"
@@ -478,9 +426,7 @@ msgid "角色经验"
 msgstr "Experiência do Personagem"
 
 msgid "选择经验与甲硬币任务的具体奖励目标"
-msgstr ""
-"Selecionar o objetivo de recompensa específico para tarefas de EXP e Moedas "
-"Besouro"
+msgstr "Selecionar o objetivo de recompensa específico para tarefas de EXP e Moedas Besouro"
 
 msgid "选择要进行的任务类型"
 msgstr "Selecionar o tipo de tarefa a ser realizada"
@@ -522,9 +468,7 @@ msgid "自动补饵卖鱼"
 msgstr "Recarga Automática de Isca e Venda de Peixes"
 
 msgid "抛竿失败时，补充默认鱼饵并出售鱼获后重试"
-msgstr ""
-"Se a arremessada falhar, reabastece a isca padrão, vende a captura e tenta "
-"novamente"
+msgstr "Se a arremessada falhar, reabastece a isca padrão, vende a captura e tenta novamente"
 
 msgid "4列对应的键盘按键"
 msgstr "Teclas do teclado para 4 colunas"
@@ -559,6 +503,12 @@ msgstr "Digite ou selecione o nome do personagem associado"
 msgid "键位"
 msgstr "Teclas"
 
+msgid "Start Game"
+msgstr "Iniciar jogo"
+
+msgid "Launcher Path"
+msgstr "Caminho do launcher"
+
 msgid "目标消耗体力"
 msgstr "Consumo de vigor alvo"
 
@@ -566,16 +516,10 @@ msgid "声音闪避反击"
 msgstr "Esquiva e contra-ataque por som"
 
 msgid "未处于自动战斗时, 响应声音闪避或反击"
-msgstr ""
-"Quando o combate automático não está ativo, responde a esquivas ou contra-"
-"ataques por som"
+msgstr "Quando o combate automático não está ativo, responde a esquivas ou contra-ataques por som"
 
-msgid ""
-"All letter/number keys, including every hotkey above, are replaced by US QWERTY\n"
-"physical positions, not your current layout's printed keys."
-msgstr ""
-"Todas as teclas de letras/números, incluindo todas as teclas de atalho acima, são substituídas pelas posições físicas do QWERTY dos EUA,\n"
-"não pelas teclas impressas no layout atual."
+msgid "All letter/number keys, including every hotkey above, are replaced by US QWERTY\nphysical positions, not your current layout's printed keys."
+msgstr "Todas as teclas de letras/números, incluindo todas as teclas de atalho acima, são substituídas pelas posições físicas do QWERTY dos EUA,\nnão pelas teclas impressas no layout atual."
 
 msgid "Use QWERTY Physical Keys"
 msgstr "Usar teclas físicas QWERTY"
@@ -590,9 +534,7 @@ msgid "游戏启动后自动登录游戏"
 msgstr "Entrar automaticamente após iniciar o jogo"
 
 msgid "自动循环进出关卡（需配合游戏内挂机流派使用）"
-msgstr ""
-"Repetir automaticamente a entrada e saída de fases (requer uma build AFK "
-"dentro do jogo)"
+msgstr "Repetir automaticamente a entrada e saída de fases (requer uma build AFK dentro do jogo)"
 
 msgid "自动登录游戏"
 msgstr "Login automático"
@@ -608,12 +550,6 @@ msgstr "Escolha como lidar com as tarefas diárias do café"
 
 msgid "不执行"
 msgstr "Não executar"
-
-msgid "Launcher Path"
-msgstr "Caminho do launcher"
-
-msgid "Start Game"
-msgstr "Iniciar jogo"
 
 msgid "循环次数(0为无限次)"
 msgstr "Número de repetições (0 para ilimitado)"
@@ -651,32 +587,20 @@ msgstr "Digite ou selecione um personagem"
 msgid "自动战斗任务不可用"
 msgstr "A tarefa de combate automático não está disponível"
 
-msgid ""
-"※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\n"
-"游戏内换人/换队自动适配，无需手动调整"
-msgstr ""
-"※ Depois de vincular recursos do personagem, o software poderá identificar personagens automaticamente e usar a tabela de combos vinculada; sem vínculo, usará o script genérico.\n"
-"Trocas de personagem/equipe no jogo se adaptam automaticamente, sem ajuste manual"
+msgid "※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\n游戏内换人/换队自动适配，无需手动调整"
+msgstr "※ Depois de vincular recursos do personagem, o software poderá identificar personagens automaticamente e usar a tabela de combos vinculada; sem vínculo, usará o script genérico.\nTrocas de personagem/equipe no jogo se adaptam automaticamente, sem ajuste manual"
 
-msgid ""
-"※ {fixed_team}会优先使用已填写槽位；未填写的槽位仍会自动识别。\n"
-"如果游戏内切换队伍，已填写槽位需要在软件里手动修改。"
-msgstr ""
-"※ {fixed_team} prioriza os espaços preenchidos; espaços vazios ainda usarão o reconhecimento automático.\n"
-"Se você trocar de equipe no jogo, atualize manualmente os espaços preenchidos no software."
+msgid "※ {fixed_team}会优先使用已填写槽位；未填写的槽位仍会自动识别。\n如果游戏内切换队伍，已填写槽位需要在软件里手动修改。"
+msgstr "※ {fixed_team} prioriza os espaços preenchidos; espaços vazios ainda usarão o reconhecimento automático.\nSe você trocar de equipe no jogo, atualize manualmente os espaços preenchidos no software."
 
 msgid "<span style=\"color: #2ecc71;\">● 自动识别：已启用</span>"
-msgstr ""
-"<span style=\"color: #2ecc71;\">● Reconhecimento automático: ativado</span>"
+msgstr "<span style=\"color: #2ecc71;\">● Reconhecimento automático: ativado</span>"
 
 msgid "<span style=\"color: #95a5a6;\">○ 自动识别：仅空槽启用</span>"
-msgstr ""
-"<span style=\"color: #95a5a6;\">○ Reconhecimento automático: apenas espaços "
-"vazios</span>"
+msgstr "<span style=\"color: #95a5a6;\">○ Reconhecimento automático: apenas espaços vazios</span>"
 
 msgid "<span style=\"color: #2ecc71;\">● {fixed_team}：已启用 ({count}/4)</span>"
-msgstr ""
-"<span style=\"color: #2ecc71;\">● {fixed_team}: ativada ({count}/4)</span>"
+msgstr "<span style=\"color: #2ecc71;\">● {fixed_team}: ativada ({count}/4)</span>"
 
 msgid "<span style=\"color: #95a5a6;\">○ {fixed_team}：已停用</span>"
 msgstr "<span style=\"color: #95a5a6;\">○ {fixed_team}: desativada</span>"
@@ -684,20 +608,314 @@ msgstr "<span style=\"color: #95a5a6;\">○ {fixed_team}: desativada</span>"
 msgid "启动失败"
 msgstr "Falha ao iniciar"
 
+msgid "21键自然音布局 (已禁用)"
+msgstr "Layout diatônico de 21 teclas (desativado)"
+
+msgid "36键半音布局 (12x3)"
+msgstr "Layout cromático de 36 teclas (12x3)"
+
+msgid "中音"
+msgstr "Médio"
+
+msgid "低音"
+msgstr "Grave"
+
+msgid "全部歌曲"
+msgstr "Todas as músicas"
+
+msgid "单曲循环"
+msgstr "Repetir uma música"
+
+msgid "可以弹奏"
+msgstr "Pode tocar"
+
+msgid "右下按键中心: "
+msgstr "Centro do botão inferior direito:"
+
+msgid "定时关闭"
+msgstr "Desligamento programado"
+
+msgid "导入 MIDI"
+msgstr "Importar MIDI"
+
+msgid "尚未载入音轨"
+msgstr "Nenhuma faixa carregada"
+
+msgid "左上按键中心: "
+msgstr "Centro do botão superior esquerdo:"
+
+msgid "已收藏"
+msgstr "Favoritado"
+
+msgid "当前游戏钢琴使用 36 键半音布局"
+msgstr "O piano do jogo usa um layout cromático de 36 teclas"
+
+msgid "打印键位映射"
+msgstr "Imprimir mapeamento de teclas"
+
+msgid "打开 mid_lib"
+msgstr "Abrir mid_lib"
+
+msgid "按键坐标配置"
+msgstr "Configuração de coordenadas das teclas"
+
+msgid "搜索歌曲"
+msgstr "Buscar músicas"
+
+msgid "播放"
+msgstr "Reproduzir"
+
+msgid "播放模式"
+msgstr "Modo de reprodução"
+
+msgid "播放设置"
+msgstr "Configurações de reprodução"
+
+msgid "播放速度"
+msgstr "Velocidade de reprodução"
+
+msgid "收藏歌曲"
+msgstr "Favoritar música"
+
+msgid "无法弹奏"
+msgstr "Não pode tocar"
+
+msgid "智能音域压缩"
+msgstr "Compressão inteligente de faixa"
+
+msgid "未选择歌曲"
+msgstr "Nenhuma música selecionada"
+
+msgid "每个测试音间隔约 1 秒，请用调音器确认实际发音。"
+msgstr "Cada tono de prueba dura ~1s. Usa un afinador para confirmar el tono."
+
+msgid "测试中音行"
+msgstr "Testar fileira central"
+
+msgid "测试全部键"
+msgstr "Testar todas as teclas"
+
+msgid "自动弹琴"
+msgstr "Piano automático"
+
+msgid "自动音高"
+msgstr "Tono automático"
+
+msgid "试听选中音轨"
+msgstr "Ouvir faixa selecionada"
+
+msgid "调试校准"
+msgstr "Calibração de depuração"
+
+msgid "选中歌曲后可选择参与分析与播放的 MIDI 音轨。"
+msgstr "Após selecionar uma música, escolha quais faixas MIDI analisar e reproduzir."
+
+msgid "选择 MIDI 档案"
+msgstr "Selecionar arquivo MIDI"
+
+msgid "随机播放"
+msgstr "Reprodução aleatória"
+
+msgid "音轨选择"
+msgstr "Seleção de faixas"
+
+msgid "音高与音域分析"
+msgstr "Análise de tom e faixa"
+
+msgid "音高调整 (半音):"
+msgstr "Ajuste de tom (semitons):"
+
+msgid "顺序播放"
+msgstr "Reprodução sequencial"
+
+msgid "高音"
+msgstr "Agudo"
+
 msgid "MIDI 分析失败"
 msgstr "Falha na análise MIDI"
 
 msgid "MIDI 播放失败"
 msgstr "Falha na reprodução MIDI"
 
-msgid ""
-"No recorded operations were found. Please wait for the recording prompt, then follow the instructions carefully to record your actions.\n"
-"DO NOT manually switch windows!\n"
-"Wait patiently for the software to bring the game window to the foreground."
-msgstr ""
-"Nenhuma operação gravada foi encontrada. Aguarde o aviso de gravação e siga as instruções com atenção para gravar suas ações.\n"
-"NÃO altere as janelas manualmente!\n"
-"Aguarde pacientemente até que o software traga a janela do jogo para o primeiro plano."
+msgid "键盘布局"
+msgstr "Layout do teclado"
+
+msgid "de_DE"
+msgstr "de_DE"
+
+msgid "en_US"
+msgstr "en_US"
+
+msgid "es_ES"
+msgstr "es_ES"
+
+msgid "fr_FR"
+msgstr "fr_FR"
+
+msgid "ja_JP"
+msgstr "ja_JP"
+
+msgid "ru_RU"
+msgstr "ru_RU"
+
+msgid "zh_CN"
+msgstr "zh_CN"
+
+msgid "zh_TW"
+msgstr "zh_TW"
+
+msgid "文案生成模型调用地址, 需兼容OpenAI接口请求格式"
+msgstr "URL da API do modelo, deve ser compatível com o formato OpenAI"
+
+msgid "模型调用超时时间(s)"
+msgstr "Tempo limite de chamada ao modelo (s)"
+
+msgid "文案生成调用模型的超时时间, 超时将回退使用本地词库, 留空使用30s"
+msgstr "Tempo limite para chamadas ao modelo de geração de texto. Em caso de tempo esgotado, usa o banco de palavras local. Deixe vazio para 30s."
+
+msgid "关闭后将降级使用本地词库抽取发帖回复文案"
+msgstr "Desativado, usará o banco de palavras local"
+
+msgid "发帖内容生成提示词"
+msgstr "Prompt de geração de conteúdo"
+
+msgid "发帖内容生成提示词, 请先调试好提示词再使用"
+msgstr "Prompt de contenido de publicación, por favor ajústelo antes de usar"
+
+msgid "发帖标题生成提示词"
+msgstr "Prompt de geração de título"
+
+msgid "发帖标题生成提示词, 请先调试好提示词再使用"
+msgstr "Prompt de título de publicación, por favor ajústelo antes de usar"
+
+msgid "呗果智能体"
+msgstr "Agente Bagel"
+
+msgid "回复生成提示词"
+msgstr "Prompt de geração de resposta"
+
+msgid "回复生成提示词, 请先调试好提示词再使用"
+msgstr "Prompt de respuesta, por favor ajústelo antes de usar"
+
+msgid "开启助手模式后, 将只会辅助生成文案"
+msgstr "Al activar el modo asistente, solo ayudará a generar el texto"
+
+msgid "所调用模型名称"
+msgstr "Nome do modelo"
+
+msgid "文案助手模式"
+msgstr "Modo assistente"
+
+msgid "智能体模式选项"
+msgstr "Opções do modo agente"
+
+msgid "自动回帖会同时点赞"
+msgstr "Respostas automáticas também incluirão curtidas"
+
+msgid "未设置请留空, 请勿泄露API_Key!"
+msgstr "Deixe em branco se não definido. Não vaze sua API_Key!"
+
+msgid "需要支持视觉输入的视觉语言模型"
+msgstr "Requer um modelo VL com suporte a entrada visual"
+
+msgid "模型调用API_Key"
+msgstr "API_Key do modelo"
+
+msgid "模型调用地址"
+msgstr "URL da API do modelo"
+
+msgid "次数"
+msgstr "Número de vezes"
+
+msgid "游戏语言"
+msgstr "Idioma do jogo"
+
+msgid "请选择游戏所设置的语言"
+msgstr "Selecione o idioma configurado no jogo"
+
+msgid "留言"
+msgstr "Comentário"
+
+msgid "自动发帖"
+msgstr "Publicar automaticamente"
+
+msgid "自动呗果"
+msgstr "Bagel automático"
+
+msgid "自动回帖"
+msgstr "Responder automaticamente"
+
+msgid "自动按赞"
+msgstr "Curtir automaticamente"
+
+msgid "请详阅使用说明"
+msgstr "Leia as instruções com atenção"
+
+msgid "调用模型"
+msgstr "Usar modelo"
+
+msgid "过滤水贴"
+msgstr "Filtrar spam"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "4"
+msgstr "4"
+
+msgid "使用任何路径前请先阅读使用说明"
+msgstr "Leia as instruções antes de usar qualquer rota"
+
+msgid "设置为0则一直运行"
+msgstr "Definir como 0 para executar indefinidamente"
+
+msgid "战斗角色"
+msgstr "Personagens de combate"
+
+msgid "自动粉爪大劫案"
+msgstr "Assalto Pink Paws automático"
+
+msgid "跑图角色"
+msgstr "Personagem de exploração"
+
+msgid "路径"
+msgstr "Rota"
+
+msgid "路径1(路线参考自B站UP: 早柚大魔王丶)"
+msgstr "Ruta 1 (Route 1) (Ruta de Bilibili UP: 早柚大魔王丶)"
+
+msgid "路径2(在路径1基础上优化了大厅到办公层的路线)"
+msgstr "Ruta 2 (Route 2) (Ruta optimizada de Vestíbulo a Oficina basada en la Ruta 1)"
+
+msgid "选0~1个"
+msgstr "Selecionar 0 a 1"
+
+msgid "选1~2个"
+msgstr "Selecionar 1 a 2"
+
+msgid "选1个"
+msgstr "Selecionar 1"
+
+msgid "避战方法"
+msgstr "Método para evitar combate"
+
+msgid "避战角色"
+msgstr "Personagem furtivo"
+
+msgid "长按shift"
+msgstr "Manter Shift"
+
+msgid "长按攻击"
+msgstr "Manter ataque"
+
+msgid "No recorded operations were found. Please wait for the recording prompt, then follow the instructions carefully to record your actions.\nDO NOT manually switch windows!\nWait patiently for the software to bring the game window to the foreground."
+msgstr "Nenhuma operação gravada foi encontrada. Aguarde o aviso de gravação e siga as instruções com atenção para gravar suas ações.\nNÃO altere as janelas manualmente!\nAguarde pacientemente até que o software traga a janela do jogo para o primeiro plano."
 
 msgid "影院约会"
 msgstr "Encontro no Cinema"
@@ -720,7 +938,6 @@ msgstr "Móveis de Anomalia"
 msgid "每2小时重新登入"
 msgstr "Fazer login novamente a cada 2 horas"
 
-
 msgid "除了选择内建存在的<b style=\"color: #0078d7;\">{combo}</b>外，您也可以自己输入名称来建立自己的<b style=\"color: #0078d7;\">{combo}</b>。"
 msgstr "Além de selecionar um <b style=\"color: #0078d7;\">{combo}</b> integrado, você também pode inserir um nome para criar seu próprio <b style=\"color: #0078d7;\">{combo}</b>."
 
@@ -741,9 +958,6 @@ msgstr "Castelo do Dragão Vermelho - Fogueira externa da Torre do Dragão"
 
 msgid "使用终结技"
 msgstr "Usar Ultimate"
-
-msgid "设置为0则一直运行"
-msgstr "Definir como 0 para executar indefinidamente"
 
 msgid "Background Audio Routing"
 msgstr "Roteamento de áudio em segundo plano"
@@ -877,11 +1091,2684 @@ msgstr "Não é possível iniciar"
 msgid "赠礼任务未注册"
 msgstr "Tarefa de presentes não registrada"
 
-msgid "no_screen"
-msgstr "Nenhuma tela do jogo disponível"
-
 msgid "没有可用的游戏画面"
 msgstr "Nenhuma tela do jogo disponível"
 
 msgid "请先捕获、选择礼物并启用至少一个角色。"
 msgstr "Por favor, capture, selecione presentes e ative pelo menos um personagem primeiro."
+
+msgid "no_screen"
+msgstr "Nenhuma tela do jogo disponível"
+
+msgid "首次抛竿失败时，补充默认鱼饵并出售鱼获"
+msgstr "Se a primeira arremessada falhar, reabastece a isca padrão e vende a captura"
+
+msgid "    • 参数: {}\n"
+msgstr "    • Parâmetros: {}\n"
+
+msgid "    • 示例: {}\n\n"
+msgstr "    • Exemplo: {}\n\n"
+
+msgid "    • 说明: {}\n"
+msgstr "    • Descrição: {}\n"
+
+msgid " (default: %(default)s)"
+msgstr " (default: %(default)s)"
+
+msgid " folder and remove it from the list, the folder will no "
+msgstr " folder and remove it from the list, the folder will no "
+
+msgid "\""
+msgstr "\""
+
+msgid "%(heading)s:"
+msgstr "%(heading)s:"
+
+msgid "%(prog)s: error: %(message)s\\n"
+msgstr "%(prog)s: error: %(message)s\\n"
+
+msgid "%prog [options]"
+msgstr "%prog [options]"
+
+msgid "%r is not callable"
+msgstr "%r is not callable"
+
+msgid "%s option does not take a value"
+msgstr "%s option does not take a value"
+
+msgid "%s/%s"
+msgstr "%s/%s"
+
+msgid "&"
+msgstr "&"
+
+msgid "'required"
+msgstr "'required"
+
+msgid "(0 = disabled)"
+msgstr "(0 = disabled)"
+
+msgid "*%s"
+msgstr "*%s"
+
+msgid ", the supported min resolution is {min_size}"
+msgstr ", the supported min resolution is {min_size}"
+
+msgid ", the supported ratio is {supported_ratio}"
+msgstr ", the supported ratio is {supported_ratio}"
+
+msgid ".__call__() not defined"
+msgstr ".__call__() not defined"
+
+msgid "1. 确保您已配置好游戏内的挂机流派。\n"
+msgstr "1. Certifique-se de ter configurado a build idle no jogo.\n"
+
+msgid "10 秒内未返回选歌界面，停止任务"
+msgstr "Não retornou à seleção de músicas em 10 s; tarefa interrompida"
+
+msgid "15 秒内未进入音游界面，停止任务"
+msgstr "Não entrou no jogo de ritmo em 15 s; tarefa interrompida"
+
+msgid "2. 站在咖啡店可进行 F 交互的位置。\n"
+msgstr "2. Fique no café em um local onde a interação F esteja disponível.\n"
+
+msgid "2020-10-10"
+msgstr "2020-10-10"
+
+msgid "2345"
+msgstr "2345"
+
+msgid "24h"
+msgstr "24h"
+
+msgid "3. （可选）若想指定特定关卡，请先手动进入该关卡一次后退出，再启动本脚本即可。"
+msgstr "3. (Opcional) Para um estágio específico, entre e saia manualmente uma vez antes de iniciar este script."
+
+msgid "6"
+msgstr "6"
+
+msgid "7.0"
+msgstr "7.0"
+
+msgid ":/qframelesswindow/close.svg"
+msgstr ":/qframelesswindow/close.svg"
+
+msgid "<b style=\"color: #0078d7;\">{fixed_team}</b> 功能。"
+msgstr "o recurso <b style=\"color: #0078d7;\">{fixed_team}</b>."
+
+msgid "<b style=\"color: #0078d7;\">角色</b> 和 "
+msgstr "<b style=\"color: #0078d7;\">Personagem</b> e "
+
+msgid "<span style="
+msgstr "<span style="
+
+msgid "ADB"
+msgstr "ADB"
+
+msgid "ADB(Supports Background, Slow, High Compatibility, High Latency)"
+msgstr "ADB(Supports Background, Slow, High Compatibility, High Latency)"
+
+msgid "ADBInteraction"
+msgstr "ADBInteraction"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "About"
+msgstr "About"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add Start Menu Shortcut"
+msgstr "Add Start Menu Shortcut"
+
+msgid "Add folder"
+msgstr "Add folder"
+
+msgid "AddressFamily"
+msgstr "AddressFamily"
+
+msgid "AddressInfo"
+msgstr "AddressInfo"
+
+msgid "Alert"
+msgstr "Alert"
+
+msgid "AlertDescription"
+msgstr "AlertDescription"
+
+msgid "All Files (*)"
+msgstr "All Files (*)"
+
+msgid "All Levels"
+msgstr "All Levels"
+
+msgid "Already exists in "
+msgstr "Already exists in "
+
+msgid "Android"
+msgstr "Android"
+
+msgid "App Config"
+msgstr "App Config"
+
+msgid "AppShow"
+msgstr "AppShow"
+
+msgid "Application Theme"
+msgstr "Application Theme"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "April"
+msgstr "April"
+
+msgid "Are you sure you want to delete "
+msgstr "Are you sure you want to delete "
+
+msgid "Are you sure you want to delete task"
+msgstr "Are you sure you want to delete task"
+
+msgid "Are you sure you want to delete the folder?"
+msgstr "Are you sure you want to delete the folder?"
+
+msgid "Are you sure you want to delete the script "
+msgstr "Are you sure you want to delete the script "
+
+msgid "Are you sure you want to delete {}"
+msgstr "Are you sure you want to delete {}"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "August"
+msgstr "August"
+
+msgid "Auto exit after task done (-e)"
+msgstr "Auto exit after task done (-e)"
+
+msgid "Auto exit because game exited"
+msgstr "Fechamento automático porque o jogo foi encerrado"
+
+msgid "Available Options"
+msgstr "Available Options"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Bounding Box"
+msgstr "Bounding Box"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Browse"
+msgstr "Browse"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Browser Capture"
+msgstr "Browser Capture"
+
+msgid "BrowserInteraction"
+msgstr "BrowserInteraction"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Can"
+msgstr "Can"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Caption"
+msgstr "Caption"
+
+msgid "Capture"
+msgstr "Capture"
+
+msgid "Capture Error"
+msgstr "Capture Error"
+
+msgid "Capture Method"
+msgstr "Capture Method"
+
+msgid "Capture Screenshot"
+msgstr "Capture Screenshot"
+
+msgid "Capture failed, please check game window"
+msgstr "Capture failed, please check game window"
+
+msgid "Category name"
+msgstr "Category name"
+
+msgid "Category:"
+msgstr "Category:"
+
+msgid "Change the appearance of the application"
+msgstr "Change the appearance of the application"
+
+msgid "Check for Update"
+msgstr "Check for Update"
+
+msgid "Check for updates"
+msgstr "Check for updates"
+
+msgid "Checking for Update..."
+msgstr "Checking for Update..."
+
+msgid "Checking for Updates..."
+msgstr "Checking for Updates..."
+
+msgid "Choose "
+msgstr "Choose "
+
+msgid "Choose Interaction"
+msgstr "Choose Interaction"
+
+msgid "Choose Profile:"
+msgstr "Choose Profile:"
+
+msgid "Choose Task:"
+msgstr "Choose Task:"
+
+msgid "Choose Window"
+msgstr "Choose Window"
+
+msgid "Choose color"
+msgstr "Choose color"
+
+msgid "Choose folder"
+msgstr "Choose folder"
+
+msgid "Class Name (English only)"
+msgstr "Class Name (English only)"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Click an option to add it."
+msgstr "Click an option to add it."
+
+msgid "Close Navigation"
+msgstr "Close Navigation"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Configuration takes effect after restart"
+msgstr "Configuration takes effect after restart"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Confirm Delete"
+msgstr "Confirm Delete"
+
+msgid "Connected"
+msgstr "Connected"
+
+msgid "ContextManager({})"
+msgstr "ContextManager({})"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Convert i18n files"
+msgstr "Convert i18n files"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Copy Task"
+msgstr "Copy Task"
+
+msgid "Count"
+msgstr "Count"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Create New Task"
+msgstr "Create New Task"
+
+msgid "Create Schedule Task"
+msgstr "Create Schedule Task"
+
+msgid "Create Task"
+msgstr "Create Task"
+
+msgid "Current Version:"
+msgstr "Current Version:"
+
+msgid "Custom Interval"
+msgstr "Custom Interval"
+
+msgid "Custom color"
+msgstr "Custom color"
+
+msgid "Cut"
+msgstr "Cut"
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Days"
+msgstr "Days"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Debug Overlay"
+msgstr "Debug Overlay"
+
+msgid "Debug Task Function"
+msgstr "Debug Task Function"
+
+msgid "Debug Tool"
+msgstr "Debug Tool"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "December"
+msgstr "December"
+
+msgid "Default Interaction"
+msgstr "Default Interaction"
+
+msgid "Default color"
+msgstr "Default color"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete (D)"
+msgstr "Delete (D)"
+
+msgid "Delete Script"
+msgstr "Delete Script"
+
+msgid "Delete Task"
+msgstr "Delete Task"
+
+msgid "Delete failed: {e}"
+msgstr "Delete failed: {e}"
+
+msgid "Description (Optional)"
+msgstr "Description (Optional)"
+
+msgid "Different persons"
+msgstr "Different persons"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Disable Boxes"
+msgstr "Disable Boxes"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Disconnected"
+msgstr "Disconnected"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Display name for the script"
+msgstr "Display name for the script"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Downgrade"
+msgstr "Downgrade"
+
+msgid "Downgrade success {from_version} -> {to_version}"
+msgstr "Downgrade success {from_version} -> {to_version}"
+
+msgid "Download Dependencies and Start"
+msgstr "Download Dependencies and Start"
+
+msgid "Download update"
+msgstr "Download update"
+
+msgid "Draw (R)"
+msgstr "Draw (R)"
+
+msgid "Drop or Select Screenshot"
+msgstr "Drop or Select Screenshot"
+
+msgid "Dump Threads(HotKey:Ctrl+Alt+D)"
+msgstr "Dump Threads(HotKey:Ctrl+Alt+D)"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit Color"
+msgstr "Edit Color"
+
+msgid "Emulator"
+msgstr "Emulator"
+
+msgid "Emulator is not connected, start the emulator first!"
+msgstr "Emulator is not connected, start the emulator first!"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Enable Boxes"
+msgstr "Enable Boxes"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "English, numbers and valid filename chars only"
+msgstr "English, numbers and valid filename chars only"
+
+msgid "Enter Python code here..."
+msgstr "Enter Python code here..."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Exit After Task"
+msgstr "Exit After Task"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Export Logs"
+msgstr "Export Logs"
+
+msgid "Export Script"
+msgstr "Export Script"
+
+msgid "Export failed"
+msgstr "Export failed"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to capture frame."
+msgstr "Failed to capture frame."
+
+msgid "Failed to create task"
+msgstr "Failed to create task"
+
+msgid "Failed to delete task"
+msgstr "Failed to delete task"
+
+msgid "Failed to load tasks"
+msgstr "Failed to load tasks"
+
+msgid "Failed to modify task"
+msgstr "Failed to modify task"
+
+msgid "Failed to modify task: cannot delete old task"
+msgstr "Failed to modify task: cannot delete old task"
+
+msgid "Failed to open modify dialog"
+msgstr "Failed to open modify dialog"
+
+msgid "Failed to save"
+msgstr "Failed to save"
+
+msgid "Failed to toggle task"
+msgstr "Failed to toggle task"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "February"
+
+msgid "File"
+msgstr "File"
+
+msgid "File Changed Externally"
+msgstr "File Changed Externally"
+
+msgid "File Name:"
+msgstr "File Name:"
+
+msgid "Filter logs..."
+msgstr "Filter logs..."
+
+msgid "FishingTask error"
+msgstr "Erro na tarefa de pesca"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "GPU Driver Warning"
+msgstr "GPU Driver Warning"
+
+msgid "Game Exited"
+msgstr "Jogo encerrado"
+
+msgid "Game Window"
+msgstr "Game Window"
+
+msgid "Game Window Disconnected"
+msgstr "Game Window Disconnected"
+
+msgid "Game path does not exist, Please open game manually!"
+msgstr "Game path does not exist, Please open game manually!"
+
+msgid "Generate i18n files"
+msgstr "Generate i18n files"
+
+msgid "Generate label enum file"
+msgstr "Generate label enum file"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "Go to Config"
+msgstr "Go to Config"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Guide"
+msgstr "Guide"
+
+msgid "Handlers"
+msgstr "Handlers"
+
+msgid "Height:"
+msgstr "Height:"
+
+msgid "Hello World"
+msgstr "Hello World"
+
+msgid "Hide Log on Overlay"
+msgstr "Hide Log on Overlay"
+
+msgid "Hide Overlay"
+msgstr "Hide Overlay"
+
+msgid "Hour"
+msgstr "Hour"
+
+msgid "Hours"
+msgstr "Hours"
+
+msgid "I understand the risks and want to import this script."
+msgstr "I understand the risks and want to import this script."
+
+msgid "If you delete the "
+msgstr "If you delete the "
+
+msgid "Image deleted."
+msgstr "Image deleted."
+
+msgid "Image resource load failed, please try install again.(Don\\"
+msgstr "Image resource load failed, please try install again.(Don\\"
+
+msgid "Import Script"
+msgstr "Import Script"
+
+msgid "Import failed"
+msgstr "Import failed"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Install Folder"
+msgstr "Install Folder"
+
+msgid "Installing {progress} {percent}%"
+msgstr "Installing {progress} {percent}%"
+
+msgid "Instructions"
+msgstr "Instructions"
+
+msgid "Invalid Class Name. Must be English characters only."
+msgstr "Invalid Class Name. Must be English characters only."
+
+msgid "Invalid file name. Use English letters, numbers, underscores, hyphens only."
+msgstr "Invalid file name. Use English letters, numbers, underscores, hyphens only."
+
+msgid "Invalid relative path. Example: ok_tasks/LabelEnum.py"
+msgstr "Invalid relative path. Example: ok_tasks/LabelEnum.py"
+
+msgid "Ipc (MuMuPlayer12 version >= 4.0)"
+msgstr "Ipc (MuMuPlayer12 version >= 4.0)"
+
+msgid "Item"
+msgstr "Item"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "January"
+msgstr "January"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "July"
+msgstr "July"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "June"
+msgstr "June"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Launcher "
+msgstr "Launcher "
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Loading"
+msgstr "Loading"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Log Folder"
+msgstr "Log Folder"
+
+msgid "Logging"
+msgstr "Logging"
+
+msgid "Loop infinitely"
+msgstr "Loop infinitely"
+
+msgid "Loop x times"
+msgstr "Loop x times"
+
+msgid "Make sure that you trust the script publisher, unverified script can and not limited to steal your account/ data money, destroy your data, harm/ controlling your computer."
+msgstr "Make sure that you trust the script publisher, unverified script can and not limited to steal your account/ data money, destroy your data, harm/ controlling your computer."
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "March"
+msgstr "March"
+
+msgid "Markup"
+msgstr "Markup"
+
+msgid "Markup Editor"
+msgstr "Markup Editor"
+
+msgid "Max residual"
+msgstr "Max residual"
+
+msgid "May"
+msgstr "May"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "Mismatched elements: 1 / 1 (100%)\\n"
+msgstr "Mismatched elements: 1 / 1 (100%)\\n"
+
+msgid "Missing required value"
+msgstr "Missing required value"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "Modify (Double Click)"
+msgstr "Modify (Double Click)"
+
+msgid "Modify Schedule Task"
+msgstr "Modify Schedule Task"
+
+msgid "Module(%s)"
+msgstr "Module(%s)"
+
+msgid "Mouse"
+msgstr "Mouse"
+
+msgid "Move Down"
+msgstr "Move Down"
+
+msgid "Move Up"
+msgstr "Move Up"
+
+msgid "MsgFlag"
+msgstr "MsgFlag"
+
+msgid "Mute"
+msgstr "Mute"
+
+msgid "Name required"
+msgstr "Name required"
+
+msgid "New version available: {version}."
+msgstr "New version available: {version}."
+
+msgid "Next Page"
+msgstr "Next Page"
+
+msgid "Next Run"
+msgstr "Next Run"
+
+msgid "No"
+msgstr "No"
+
+msgid "No annotations to save."
+msgstr "No annotations to save."
+
+msgid "No capture method available. Please start capture first."
+msgstr "No capture method available. Please start capture first."
+
+msgid "No game selected!"
+msgstr "No game selected!"
+
+msgid "No loop"
+msgstr "No loop"
+
+msgid "No recorded operations were found. Please wait for the recording prompt, then follow the instructions carefully to record your actions."
+msgstr "Nenhuma operação gravada foi encontrada. Aguarde o aviso de gravação e siga as instruções com atenção para gravar suas ações."
+
+msgid "No tasks available"
+msgstr "No tasks available"
+
+msgid "No tasks to export."
+msgstr "No tasks to export."
+
+msgid "No templates yet"
+msgstr "No templates yet"
+
+msgid "NoUniqueNameType"
+msgstr "NoUniqueNameType"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "November"
+msgstr "November"
+
+msgid "OCR"
+msgstr "OCR"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OKScript Files (*.okscript);;All Files (*)"
+msgstr "OKScript Files (*.okscript);;All Files (*)"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "October"
+msgstr "October"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "On"
+msgstr "On"
+
+msgid "Opacity"
+msgstr "Opacity"
+
+msgid "Open Navigation"
+msgstr "Open Navigation"
+
+msgid "Operation"
+msgstr "Operation"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Other Projects"
+msgstr "Other Projects"
+
+msgid "Output will be shown here..."
+msgstr "Output will be shown here..."
+
+msgid "PATH_INFO"
+msgstr "PATH_INFO"
+
+msgid "PC"
+msgstr "PC"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "ParametrizedType"
+msgstr "ParametrizedType"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Path is relative to the workspace root."
+msgstr "Path is relative to the workspace root."
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Pause All"
+msgstr "Pause All"
+
+msgid "Pause Success."
+msgstr "Pause Success."
+
+msgid "Paused because browser exited"
+msgstr "Pausado porque o navegador foi encerrado"
+
+msgid "Paused because game exited"
+msgstr "Pausado porque o jogo foi encerrado"
+
+msgid "Paused because game window is minimized or out of screen!"
+msgstr "Pausado porque a janela do jogo está minimizada ou fora da tela!"
+
+msgid "Paused: PC Game Window Must Be in Front!"
+msgstr "Paused: PC Game Window Must Be in Front!"
+
+msgid "Pick a date"
+msgstr "Pick a date"
+
+msgid "Pin"
+msgstr "Pin"
+
+msgid "Play"
+msgstr "Play"
+
+msgid "Please Start First"
+msgstr "Please Start First"
+
+msgid "Please check whether the game window is selected correctly!"
+msgstr "Please check whether the game window is selected correctly!"
+
+msgid "Please select at least one task to export."
+msgstr "Please select at least one task to export."
+
+msgid "Previous Page"
+msgstr "Previous Page"
+
+msgid "Pseudo-exception to force literal arguments in the dispatcher"
+msgstr "Pseudo-exception to force literal arguments in the dispatcher"
+
+msgid "Record"
+msgstr "Record"
+
+msgid "Record will override the current script logic. Continue?"
+msgstr "Record will override the current script logic. Continue?"
+
+msgid "Recording will start when window "
+msgstr "Recording will start when window "
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Refresh failed"
+msgstr "Refresh failed"
+
+msgid "Refreshing"
+msgstr "Refreshing"
+
+msgid "Relative path, e.g. ok_tasks/LabelEnum.py"
+msgstr "Relative path, e.g. ok_tasks/LabelEnum.py"
+
+msgid "Release"
+msgstr "Release"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Reset Config"
+msgstr "Reset Config"
+
+msgid "Resolution {resolution} check failed, some tasks might not work correctly!"
+msgstr "Resolution {resolution} check failed, some tasks might not work correctly!"
+
+msgid "Resume"
+msgstr "Resume"
+
+msgid "RhythmTask error"
+msgstr "Erro na tarefa de ritmo"
+
+msgid "Right click to copy color"
+msgstr "Right click to copy color"
+
+msgid "Run"
+msgstr "Run"
+
+msgid "Run Code"
+msgstr "Run Code"
+
+msgid "Run Python Code"
+msgstr "Run Python Code"
+
+msgid "Running"
+msgstr "Running"
+
+msgid "Running: {}"
+msgstr "Em execução: {}"
+
+msgid "SSLErrorNumber"
+msgstr "SSLErrorNumber"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Same person"
+msgstr "Same person"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Save To"
+msgstr "Save To"
+
+msgid "Save completed successfully to: {}"
+msgstr "Save completed successfully to: {}"
+
+msgid "Save failed: {e}"
+msgstr "Save failed: {e}"
+
+msgid "Schedule"
+msgstr "Schedule"
+
+msgid "Schedule Tasks"
+msgstr "Schedule Tasks"
+
+msgid "Screenshot"
+msgstr "Screenshot"
+
+msgid "Screenshot Folder"
+msgstr "Screenshot Folder"
+
+msgid "Screenshot failed: {e}"
+msgstr "Screenshot failed: {e}"
+
+msgid "Screenshot saved: {}"
+msgstr "Screenshot saved: {}"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Script Name:"
+msgstr "Script Name:"
+
+msgid "Script exported successfully to Downloads folder."
+msgstr "Script exported successfully to Downloads folder."
+
+msgid "Script name is required."
+msgstr "Script name is required."
+
+msgid "Search by name or category..."
+msgstr "Search by name or category..."
+
+msgid "Search templates..."
+msgstr "Search templates..."
+
+msgid "Search title or exe..."
+msgstr "Search title or exe..."
+
+msgid "Select Screenshots"
+msgstr "Select Screenshots"
+
+msgid "Select Script File"
+msgstr "Select Script File"
+
+msgid "Select Task"
+msgstr "Select Task"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Select task to copy..."
+msgstr "Select task to copy..."
+
+msgid "Select tasks to export:"
+msgstr "Select tasks to export:"
+
+msgid "Selected Options"
+msgstr "Selected Options"
+
+msgid "Selected capture method is not supported by the game or your system!"
+msgstr "Selected capture method is not supported by the game or your system!"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "September"
+msgstr "September"
+
+msgid "Set your preferred language"
+msgstr "Set your preferred language"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Share Link copied to clipboard"
+msgstr "Share Link copied to clipboard"
+
+msgid "Show Log on Overlay"
+msgstr "Show Log on Overlay"
+
+msgid "Show Overlay"
+msgstr "Show Overlay"
+
+msgid "Sigmasks"
+msgstr "Sigmasks"
+
+msgid "Signals"
+msgstr "Signals"
+
+msgid "SocketKind"
+msgstr "SocketKind"
+
+msgid "Solved in"
+msgstr "Solved in"
+
+msgid "Sponsor"
+msgstr "Sponsor"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start All"
+msgstr "Start All"
+
+msgid "Start Success."
+msgstr "Start Success."
+
+msgid "Start Time"
+msgstr "Start Time"
+
+msgid "Start game failed, please start game first"
+msgstr "Start game failed, please start game first"
+
+msgid "Start game timeout!"
+msgstr "Start game timeout!"
+
+msgid "Start/Stop"
+msgstr "Start/Stop"
+
+msgid "Starting, timeout after {seconds_left} seconds."
+msgstr "Starting, timeout after {seconds_left} seconds."
+
+msgid "Startup Options"
+msgstr "Startup Options"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stereo/Headphones 输出，避免使用 Hands-Free/AG Audio。"
+msgstr "Saída estéreo/fones de ouvido; evite Hands-Free/AG Audio."
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Stopped"
+msgstr "Parado"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Take Screenshot"
+msgstr "Take Screenshot"
+
+msgid "TargetVersion:"
+msgstr "TargetVersion:"
+
+msgid "Task Index (-t)"
+msgstr "Task Index (-t)"
+
+msgid "Task Name"
+msgstr "Task Name"
+
+msgid "Task Name is required."
+msgstr "Task Name is required."
+
+msgid "Task Schedule"
+msgstr "Task Schedule"
+
+msgid "Task copied successfully."
+msgstr "Task copied successfully."
+
+msgid "Task created successfully"
+msgstr "Task created successfully"
+
+msgid "Task created successfully."
+msgstr "Task created successfully."
+
+msgid "Task deleted successfully"
+msgstr "Task deleted successfully"
+
+msgid "Task deleted successfully."
+msgstr "Task deleted successfully."
+
+msgid "Task disabled"
+msgstr "Task disabled"
+
+msgid "Task enabled"
+msgstr "Task enabled"
+
+msgid "Task file already exists."
+msgstr "Task file already exists."
+
+msgid "Task modified successfully"
+msgstr "Task modified successfully"
+
+msgid "Task not found in cache"
+msgstr "Task not found in cache"
+
+msgid "Task rebuilt successfully."
+msgstr "Task rebuilt successfully."
+
+msgid "Tasks"
+msgstr "Tasks"
+
+msgid "Tasks refreshed"
+msgstr "Tasks refreshed"
+
+msgid "Template Matching"
+msgstr "Template Matching"
+
+msgid "Templates"
+msgstr "Templates"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "The current task has unsaved changes. Do you want to save them?"
+msgstr "The current task has unsaved changes. Do you want to save them?"
+
+msgid "The file was modified externally. Do you want to overwrite your unsaved changes?"
+msgstr "The file was modified externally. Do you want to overwrite your unsaved changes?"
+
+msgid "This is a free software. If you purchased this anywhere, request a refund from the seller."
+msgstr "This is a free software. If you purchased this anywhere, request a refund from the seller."
+
+msgid "This is the newest version"
+msgstr "This is the newest version"
+
+msgid "Time Elapsed"
+msgstr "Time Elapsed"
+
+msgid "Timeout"
+msgstr "Timeout"
+
+msgid "Trigger Interval"
+msgstr "Trigger Interval"
+
+msgid "Trigger Tasks"
+msgstr "Trigger Tasks"
+
+msgid "Trigger Type"
+msgstr "Trigger Type"
+
+msgid "Triggers"
+msgstr "Triggers"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "Type a function or property"
+msgstr "Type a function or property"
+
+msgid "Unmute"
+msgstr "Unmute"
+
+msgid "Unpin"
+msgstr "Unpin"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update Source:"
+msgstr "Update Source:"
+
+msgid "Update success {from_version} -> {to_version}"
+msgstr "Update success {from_version} -> {to_version}"
+
+msgid "Updating"
+msgstr "Updating"
+
+msgid "Usage"
+msgstr "Usage"
+
+msgid "Usage: %s\\n"
+msgstr "Usage: %s\\n"
+
+msgid "Use DirectML"
+msgstr "Use DirectML"
+
+msgid "Use system setting"
+msgstr "Use system setting"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "VerifyFlags"
+msgstr "VerifyFlags"
+
+msgid "VerifyMode"
+msgstr "VerifyMode"
+
+msgid "Version:"
+msgstr "Version:"
+
+msgid "View Log"
+msgstr "View Log"
+
+msgid "Waiting for ok-script.log"
+msgstr "Waiting for ok-script.log"
+
+msgid "Waiting for task to be enabled"
+msgstr "Waiting for task to be enabled"
+
+msgid "Waiting for {task_name} task to be completed"
+msgstr "Waiting for {task_name} task to be completed"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "We"
+msgstr "We"
+
+msgid "Width:"
+msgstr "Width:"
+
+msgid "Window"
+msgstr "Window"
+
+msgid "WindowsInteraction"
+msgstr "WindowsInteraction"
+
+msgid "X"
+msgstr "X"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "[LV-Init] 模板切割失败，仅找到 {} 个轮廓"
+msgstr "[LV-Init] Falha na segmentação do modelo; apenas {} contornos encontrados"
+
+msgid "[{}]流程等待超时，执行恢复操作"
+msgstr "[{}] fluxo expirou, executando recuperação"
+
+msgid "\\n"
+msgstr "\\n"
+
+msgid "\\u6bd2"
+msgstr "\\u6bd2"
+
+msgid "\\u6f2c"
+msgstr "\\u6f2c"
+
+msgid "_CallbackFileWrapper__fp"
+msgstr "_CallbackFileWrapper__fp"
+
+msgid "_EmptyImplementationEntry({!r})"
+msgstr "_EmptyImplementationEntry({!r})"
+
+msgid "_SSLMethod"
+msgstr "_SSLMethod"
+
+msgid "__all__"
+msgstr "__all__"
+
+msgid "_distutils_hack"
+msgstr "_distutils_hack"
+
+msgid "_first_run_alert"
+msgstr "_first_run_alert"
+
+msgid "a"
+msgstr "a"
+
+msgid "abc"
+msgstr "abc"
+
+msgid "abc\\x00"
+msgstr "abc\\x00"
+
+msgid "about"
+msgstr "about"
+
+msgid "adb"
+msgstr "adb"
+
+msgid "ambiguous option: %(option)s could match %(matches)s"
+msgstr "ambiguous option: %(option)s could match %(matches)s"
+
+msgid "ambiguous option: %s (%s?)"
+msgstr "ambiguous option: %s (%s?)"
+
+msgid "amsterdam"
+msgstr "amsterdam"
+
+msgid "app"
+msgstr "app"
+
+msgid "arg2"
+msgstr "arg2"
+
+msgid "argument "
+msgstr "argument "
+
+msgid "argument %(argument_name)s: %(message)s"
+msgstr "argument %(argument_name)s: %(message)s"
+
+msgid "asdfg"
+msgstr "asdfg"
+
+msgid "assets (standalone app)"
+msgstr "assets (standalone app)"
+
+msgid "auto_simplify"
+msgstr "auto_simplify"
+
+msgid "axis"
+msgstr "axis"
+
+msgid "benign"
+msgstr "benign"
+
+msgid "bernoulli"
+msgstr "bernoulli"
+
+msgid "bg_onnx_ocr"
+msgstr "bg_onnx_ocr"
+
+msgid "blur_area"
+msgstr "blur_area"
+
+msgid "branch"
+msgstr "branch"
+
+msgid "buy bait"
+msgstr "Comprar isca"
+
+msgid "c"
+msgstr "c"
+
+msgid "callable_type_ref"
+msgstr "callable_type_ref"
+
+msgid "callback"
+msgstr "callback"
+
+msgid "can"
+msgstr "can"
+
+msgid "cannot have multiple subparser arguments"
+msgstr "cannot have multiple subparser arguments"
+
+msgid "cannot merge actions - two groups are named %r"
+msgstr "cannot merge actions - two groups are named %r"
+
+msgid "capture_method"
+msgstr "capture_method"
+
+msgid "cast rod"
+msgstr "Arremessar vara"
+
+msgid "cc"
+msgstr "cc"
+
+msgid "char elements"
+msgstr "char elements"
+
+msgid "chars"
+msgstr "chars"
+
+msgid "check monthly card"
+msgstr "Verificar passe mensal"
+
+msgid "check_hdr"
+msgstr "check_hdr"
+
+msgid "class_0"
+msgstr "class_0"
+
+msgid "class_1"
+msgstr "class_1"
+
+msgid "class_2"
+msgstr "class_2"
+
+msgid "coef_"
+msgstr "coef_"
+
+msgid "complex"
+msgstr "complex"
+
+msgid "comtypes.client"
+msgstr "comtypes.client"
+
+msgid "comtypes.server.inprocserver"
+msgstr "comtypes.server.inprocserver"
+
+msgid "config_folder"
+msgstr "config_folder"
+
+msgid "conflicting subparser alias: %s"
+msgstr "conflicting subparser alias: %s"
+
+msgid "conflicting subparser: %s"
+msgstr "conflicting subparser: %s"
+
+msgid "control bar"
+msgstr "Barra de tensão"
+
+msgid "current char"
+msgstr "current char"
+
+msgid "current task"
+msgstr "current task"
+
+msgid "custom_tasks"
+msgstr "custom_tasks"
+
+msgid "daily activity"
+msgstr "daily activity"
+
+msgid "day"
+msgstr "day"
+
+msgid "debug"
+msgstr "debug"
+
+msgid "default"
+msgstr "default"
+
+msgid "dest= is required for options like %r"
+msgstr "dest= is required for options like %r"
+
+msgid "discord"
+msgstr "discord"
+
+msgid "divide by zero"
+msgstr "divide by zero"
+
+msgid "double (double, double, int *, void *)"
+msgstr "double (double, double, int *, void *)"
+
+msgid "encodings."
+msgstr "encodings."
+
+msgid "exe"
+msgstr "exe"
+
+msgid "expected at least one argument"
+msgstr "expected at least one argument"
+
+msgid "expected at most one argument"
+msgstr "expected at most one argument"
+
+msgid "expected one argument"
+msgstr "expected one argument"
+
+msgid "f"
+msgstr "f"
+
+msgid "failed"
+msgstr "failed"
+
+msgid "faq"
+msgstr "faq"
+
+msgid "first"
+msgstr "first"
+
+msgid "floating-point"
+msgstr "floating-point"
+
+msgid "foo"
+msgstr "foo"
+
+msgid "force_no_hdr"
+msgstr "force_no_hdr"
+
+msgid "from_scipy_sparse_array"
+msgstr "from_scipy_sparse_array"
+
+msgid "github"
+msgstr "github"
+
+msgid "global_configs"
+msgstr "global_configs"
+
+msgid "gui_icon"
+msgstr "gui_icon"
+
+msgid "height"
+msgstr "height"
+
+msgid "hello"
+msgstr "hello"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "hours (0 = unlimited)"
+msgstr "hours (0 = unlimited)"
+
+msgid "hwnd_class"
+msgstr "hwnd_class"
+
+msgid "idlelib.run"
+msgstr "idlelib.run"
+
+msgid "ignored explicit argument %r"
+msgstr "ignored explicit argument %r"
+
+msgid "ii->i"
+msgstr "ii->i"
+
+msgid "in _DeleteMemberByDispID_ with"
+msgstr "in _DeleteMemberByDispID_ with"
+
+msgid "in _DeleteMemberByName_ with"
+msgstr "in _DeleteMemberByName_ with"
+
+msgid "in _GetDispID_ with"
+msgstr "in _GetDispID_ with"
+
+msgid "in _GetIDsOfNames_ with "
+msgstr "in _GetIDsOfNames_ with "
+
+msgid "in _GetMemberName_ with"
+msgstr "in _GetMemberName_ with"
+
+msgid "in _GetMemberProperties_ with"
+msgstr "in _GetMemberProperties_ with"
+
+msgid "in _GetNameSpaceParent_"
+msgstr "in _GetNameSpaceParent_"
+
+msgid "in _GetNextDispID_ with"
+msgstr "in _GetNextDispID_ with"
+
+msgid "in _GetTypeInfoCount_\\n"
+msgstr "in _GetTypeInfoCount_\\n"
+
+msgid "in _GetTypeInfo_ with index=%d, lcid=%d\\n"
+msgstr "in _GetTypeInfo_ with index=%d, lcid=%d\\n"
+
+msgid "in _Invoke_ with"
+msgstr "in _Invoke_ with"
+
+msgid "in {!r}._InvokeEx_-{}{!r} [{:x},{},{!r}]"
+msgstr "in {!r}._InvokeEx_-{}{!r} [{:x},{},{!r}]"
+
+msgid "in {!r}._QueryInterface_ with unsupported IID {} ({})"
+msgstr "in {!r}._QueryInterface_ with unsupported IID {} ({})"
+
+msgid "index"
+msgstr "index"
+
+msgid "info"
+msgstr "info"
+
+msgid "info_set"
+msgstr "info_set"
+
+msgid "int64"
+msgstr "int64"
+
+msgid "integer"
+msgstr "integer"
+
+msgid "interaction"
+msgstr "interaction"
+
+msgid "int选项"
+msgstr "Opção inteira"
+
+msgid "invalid %(type)s value: %(value)r"
+msgstr "invalid %(type)s value: %(value)r"
+
+msgid "invalid choice: %(value)r (choose from %(choices)s)"
+msgstr "invalid choice: %(value)r (choose from %(choices)s)"
+
+msgid "invalid conflict_resolution value: %r"
+msgstr "invalid conflict_resolution value: %r"
+
+msgid "invalid option string %(option)r: "
+msgstr "invalid option string %(option)r: "
+
+msgid "invalid value"
+msgstr "invalid value"
+
+msgid "is bite"
+msgstr "Peixe mordendo"
+
+msgid "is success"
+msgstr "Pesca bem-sucedida"
+
+msgid "j"
+msgstr "j"
+
+msgid "k-means++"
+msgstr "k-means++"
+
+msgid "ko_KR"
+msgstr "ko_KR"
+
+msgid "lib"
+msgstr "lib"
+
+msgid "links"
+msgstr "links"
+
+msgid "list选项"
+msgstr "Opção de lista"
+
+msgid "malignant"
+msgstr "malignant"
+
+msgid "mat"
+msgstr "mat"
+
+msgid "match"
+msgstr "match"
+
+msgid "min_height"
+msgstr "min_height"
+
+msgid "min_size"
+msgstr "min_size"
+
+msgid "min_width"
+msgstr "min_width"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "missing GStreamer base plugins"
+msgstr "missing GStreamer base plugins"
+
+msgid "missing_arg"
+msgstr "missing_arg"
+
+msgid "month"
+msgstr "month"
+
+msgid "monthly_card close failed"
+msgstr "Falha ao fechar o passe mensal"
+
+msgid "monthly_card found click"
+msgstr "Passe mensal detectado, clicando para fechar"
+
+msgid "must use stamina"
+msgstr "must use stamina"
+
+msgid "mutually exclusive arguments must be optional"
+msgstr "mutually exclusive arguments must be optional"
+
+msgid "nit"
+msgstr "nit"
+
+msgid "niter"
+msgstr "niter"
+
+msgid "no audio streams found"
+msgstr "no audio streams found"
+
+msgid "no such option: %s"
+msgstr "no such option: %s"
+
+msgid "not allowed with argument %s"
+msgstr "not allowed with argument %s"
+
+msgid "ocr"
+msgstr "ocr"
+
+msgid "ok_tasks/assets (custom scripts)"
+msgstr "ok_tasks/assets (custom scripts)"
+
+msgid "omitted(default=%r)"
+msgstr "omitted(default=%r)"
+
+msgid "one of the arguments %s is required"
+msgstr "one of the arguments %s is required"
+
+msgid "onesided"
+msgstr "onesided"
+
+msgid "option %s: invalid %s value: %r"
+msgstr "option %s: invalid %s value: %r"
+
+msgid "option %s: invalid choice: %r (choose from %s)"
+msgstr "option %s: invalid choice: %r (choose from %s)"
+
+msgid "option -%s not recognized"
+msgstr "option -%s not recognized"
+
+msgid "option -%s requires argument"
+msgstr "option -%s requires argument"
+
+msgid "option --%s must not have an argument"
+msgstr "option --%s must not have an argument"
+
+msgid "option --%s not a unique prefix"
+msgstr "option --%s not a unique prefix"
+
+msgid "option --%s not recognized"
+msgstr "option --%s not recognized"
+
+msgid "option --%s requires argument"
+msgstr "option --%s requires argument"
+
+msgid "options"
+msgstr "options"
+
+msgid "os.path"
+msgstr "os.path"
+
+msgid "overflow"
+msgstr "overflow"
+
+msgid "packages"
+msgstr "packages"
+
+msgid "params"
+msgstr "params"
+
+msgid "paris"
+msgstr "paris"
+
+msgid "pdf(x, mu, loc=0, scale=1)"
+msgstr "pdf(x, mu, loc=0, scale=1)"
+
+msgid "pkgutil"
+msgstr "pkgutil"
+
+msgid "pmf(x,"
+msgstr "pmf(x,"
+
+msgid "positional arguments"
+msgstr "positional arguments"
+
+msgid "process"
+msgstr "process"
+
+msgid "pydoc"
+msgstr "pydoc"
+
+msgid "pythoncom"
+msgstr "pythoncom"
+
+msgid "pywintypes"
+msgstr "pywintypes"
+
+msgid "qq_channel"
+msgstr "qq_channel"
+
+msgid "qq_group"
+msgstr "qq_group"
+
+msgid "ratio"
+msgstr "ratio"
+
+msgid "rayleigh"
+msgstr "rayleigh"
+
+msgid "records"
+msgstr "records"
+
+msgid "require_bg"
+msgstr "require_bg"
+
+msgid "resize_to"
+msgstr "resize_to"
+
+msgid "scale"
+msgstr "scale"
+
+msgid "screenshot_processor"
+msgstr "screenshot_processor"
+
+msgid "second"
+msgstr "second"
+
+msgid "sell fish"
+msgstr "Vender peixes"
+
+msgid "setosa"
+msgstr "setosa"
+
+msgid "share"
+msgstr "share"
+
+msgid "show program"
+msgstr "show program"
+
+msgid "show this help message and exit"
+msgstr "show this help message and exit"
+
+msgid "sig"
+msgstr "sig"
+
+msgid "skimage.io._plugins."
+msgstr "skimage.io._plugins."
+
+msgid "skipped"
+msgstr "skipped"
+
+msgid "sponsor"
+msgstr "sponsor"
+
+msgid "start_exe"
+msgstr "start_exe"
+
+msgid "start_timeout"
+msgstr "start_timeout"
+
+msgid "step size is less"
+msgstr "step size is less"
+
+msgid "subcommands"
+msgstr "subcommands"
+
+msgid "success"
+msgstr "success"
+
+msgid "supported_resolution"
+msgstr "supported_resolution"
+
+msgid "tabnanny"
+msgstr "tabnanny"
+
+msgid "test"
+msgstr "test"
+
+msgid "the following arguments are required: %s"
+msgstr "the following arguments are required: %s"
+
+msgid "then_count"
+msgstr "then_count"
+
+msgid "tokyo"
+msgstr "tokyo"
+
+msgid "type(%s)"
+msgstr "type(%s)"
+
+msgid "typeref[{}]"
+msgstr "typeref[{}]"
+
+msgid "ufunc"
+msgstr "ufunc"
+
+msgid "underflow"
+msgstr "underflow"
+
+msgid "unexpected option string: %s"
+msgstr "unexpected option string: %s"
+
+msgid "unknown parser %(parser_name)r (choices: %(choices)s)"
+msgstr "unknown parser %(parser_name)r (choices: %(choices)s)"
+
+msgid "unrecognized arguments: %s"
+msgstr "unrecognized arguments: %s"
+
+msgid "unspecified dtype"
+msgstr "unspecified dtype"
+
+msgid "usage: "
+msgstr "usage: "
+
+msgid "use_gui"
+msgstr "use_gui"
+
+msgid "use_openvino"
+msgstr "use_openvino"
+
+msgid "used stamina"
+msgstr "used stamina"
+
+msgid "versicolor"
+msgstr "versicolor"
+
+msgid "virginica"
+msgstr "virginica"
+
+msgid "wait_until_before_delay"
+msgstr "wait_until_before_delay"
+
+msgid "wait_until_check_delay"
+msgstr "wait_until_check_delay"
+
+msgid "wait_until_settle_time"
+msgstr "wait_until_settle_time"
+
+msgid "width"
+msgstr "width"
+
+msgid "win32com.gen_py."
+msgstr "win32com.gen_py."
+
+msgid "window_size"
+msgstr "window_size"
+
+msgid "windows"
+msgstr "windows"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"
+
+msgid "year"
+msgstr "year"
+
+msgid "{generator.base_mod_name}.{ref.python_name}"
+msgstr "{generator.base_mod_name}.{ref.python_name}"
+
+msgid "{num} images selected"
+msgstr "{num} images selected"
+
+msgid "{vendor} {feature} is enabled and may cause malfunctions!"
+msgstr "{vendor} {feature} is enabled and may cause malfunctions!"
+
+msgid "{} is not connected, please select the game window."
+msgstr "{} is not connected, please select the game window."
+
+msgid "{}：点击开始演奏"
+msgstr "{}: clique para iniciar a execução"
+
+msgid "※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\\n"
+msgstr "※ 关联角色特征后，软件将能自动识别角色并使用绑定的出招表；未关联时，将使用通用脚本。\\n"
+
+msgid "一键出售未完成，可能当前鱼获不可出售，跳过出售"
+msgstr "Venda rápida incompleta; captura pode ser invendável, ignorando"
+
+msgid "下一轮咬钩前未检测到成功面板"
+msgstr "Painel de sucesso não detectado antes da próxima mordida"
+
+msgid "下拉菜单选项"
+msgstr "Opção de menu suspenso"
+
+msgid "不包含任何局内的制作食物或招待客人操作。\n\n"
+msgstr "e não inclui preparo de comida nem atendimento a clientes dentro do estágio.\n\n"
+
+msgid "不安全的压缩包路径"
+msgstr "Caminho de arquivo compactado inseguro"
+
+msgid "不扫描也可自动战斗，将使用通用脚本"
+msgstr "O combate automático é possível sem escanear; um script genérico será usado."
+
+msgid "不支持的导入格式"
+msgstr "Formato de importação não suportado"
+
+msgid "九原"
+msgstr "Jiuyuan"
+
+msgid "买饵补货"
+msgstr "reabastecimento de isca"
+
+msgid "交互检查"
+msgstr "交互检查"
+
+msgid "仅支持导入导出数据的 zip（custom_chars/db.json 无效）"
+msgstr "Somente ZIP de exportação de dados é suportado (custom_chars/db.json inválido)"
+
+msgid "仅支持导入导出数据的 zip（缺少 custom_chars/db.json）"
+msgstr "Somente ZIP de exportação de dados é suportado (falta custom_chars/db.json)"
+
+msgid "价格表"
+msgstr "价格表"
+
+msgid "任务失败: {}"
+msgstr "Tarefa falhou: {}"
+
+msgid "任务完成: {}"
+msgstr "Tarefa concluída: {}"
+
+msgid "任务执行完毕"
+msgstr "Execução da tarefa concluída"
+
+msgid "任务结束"
+msgstr "Tarefa concluída"
+
+msgid "休眠停顿等待指定时间"
+msgstr "Pausa pelo tempo especificado"
+
+msgid "优化商品"
+msgstr "优化商品"
+
+msgid "传送"
+msgstr "Teletransporte"
+
+msgid "体力不足，退出任务"
+msgstr "Stamina insuficiente; saindo da tarefa"
+
+msgid "体力消耗目标"
+msgstr "Meta de consumo de stamina"
+
+msgid "使用方法：\n"
+msgstr "Uso:\n"
+
+msgid "先扫描或手动填写"
+msgstr "Escanear primeiro ou preencher manualmente"
+
+msgid "关联 <b style=\"color: #0078d7;\">角色特征</b> 后将自动判断当前角色。<br>如果不想管理 <b style=\"color: #0078d7;\">角色特征</b>，可以直接启用 <b style=\"color: #0078d7;\">{fixed_team}</b> 功能。"
+msgstr "Vincular <b style=\"color: #0078d7;\">Características do Personagem</b> identificará automaticamente o personagem atual.<br>Se não quiser gerenciar as <b style=\"color: #0078d7;\">Características do Personagem</b>, ative diretamente a função <b style=\"color: #0078d7;\">{fixed_team}</b>."
+
+msgid "关闭"
+msgstr "Desativado"
+
+msgid "关闭结算界面"
+msgstr "Fechando tela de resultados"
+
+msgid "切换至任务页签: {}"
+msgstr "Alternando para a aba de tarefa: {}"
+
+msgid "功能说明：本功能仅负责『自动退出关卡』与『重新开启关卡』的点击循环，"
+msgstr "Sobre: este recurso cuida apenas do loop de cliques para 'sair automaticamente do estágio' e 'reiniciar estágio',"
+
+msgid "功能说明：本功能仅负责『自动退出关卡』与『重新开启关卡』的点击循环，不包含任何局内的制作食物或招待客人操作。\n\n使用方法：\n1. 确保您已配置好游戏内的挂机流派。\n2. 站在咖啡店可进行 F 交互的位置。\n3. 首次启动需录制目标, 点击[开始]后请跟随指示操作。"
+msgstr "Notas da função: esta função cuida apenas do ciclo de cliques para \"sair automaticamente da fase\" e \"reiniciar a fase\". Ela não inclui ações dentro da fase, como preparar comida ou atender clientes.\n\nComo usar:\n1. Certifique-se de que sua build AFK dentro do jogo já está configurada.\n2. Fique em uma posição no café onde seja possível interagir com F.\n3. Na primeira execução, é necessário gravar o alvo. Clique em [Iniciar] e siga as instruções."
+
+msgid "功能说明：本功能仅负责『自动退出关卡』与『重新开启关卡』的点击循环，不包含任何局内的制作食物或招待客人操作。\n\n使用方法：\n1. 确保您已配置好游戏内的挂机流派。\n2. 站在咖啡店可进行 F 交互的位置。\n3. （可选）若想指定特定关卡，请先手动进入该关卡一次后退出，再启动本脚本即可。"
+msgstr "Notas da função: esta função cuida apenas do ciclo de cliques para \"sair automaticamente da fase\" e \"reiniciar a fase\". Ela não inclui ações dentro da fase, como preparar comida ou atender clientes.\n\nComo usar:\n1. Certifique-se de que sua build AFK dentro do jogo já está configurada.\n2. Fique em uma posição no café onde seja possível interagir com F.\n3. (Opcional) Para escolher uma fase específica, entre manualmente nessa fase uma vez, saia dela e então inicie este script."
+
+msgid "压缩包内没有可导入的数据"
+msgstr "O arquivo não contém dados importáveis"
+
+msgid "双倍次数: {}, 单倍次数: {}"
+msgstr "Execuções em dobro: {}, Execuções simples: {}"
+
+msgid "发帖内容模块提示词"
+msgstr "发帖内容模块提示词"
+
+msgid "发帖标题模块提示词"
+msgstr "发帖标题模块提示词"
+
+msgid "发现 {} 个领取奖励"
+msgstr "Encontrada(s) {} recompensa(s) para resgatar"
+
+msgid "可以在出招表中输入以下指令 (以英文逗号 [ , ] 分隔):\n\n"
+msgstr "Você pode inserir os seguintes comandos na lista de golpes (separados por vírgulas [ , ]):\n\n"
+
+msgid "商品位数量"
+msgstr "商品位数量"
+
+msgid "商城"
+msgstr "Loja"
+
+msgid "回复模块提示词"
+msgstr "回复模块提示词"
+
+msgid "增加 <b style=\"color: #0078d7;\">角色特征</b> 后将自动判断当前角色。<br>"
+msgstr "Após adicionar <b style=\"color: #0078d7;\">traços de personagem</b>, o personagem atual será detectado automaticamente.<br>"
+
+msgid "增加 <b style=\"color: #0078d7;\">角色特征</b> 后将自动判断当前角色。<br>如果不想管理 <b style=\"color: #0078d7;\">角色特征</b>，可以直接启用 <b style=\"color: #0078d7;\">{fixed_team}</b> 功能。"
+msgstr "Adicionar <b style=\"color: #0078d7;\">Características do Personagem</b> identificará automaticamente o personagem atual.<br>Se não quiser gerenciar as <b style=\"color: #0078d7;\">Características do Personagem</b>, ative diretamente a função <b style=\"color: #0078d7;\">{fixed_team}</b>."
+
+msgid "声音监听未找到严格匹配的系统声音回环设备，已使用兼容模式监听。"
+msgstr "O listener de áudio não encontrou um dispositivo de loopback do sistema com correspondência exata; usando modo de compatibilidade."
+
+msgid "失败原因"
+msgstr "Motivo da falha"
+
+msgid "失败次数"
+msgstr "Falhas"
+
+msgid "奖励目标"
+msgstr "Meta de recompensa"
+
+msgid "如果不想管理 <b style=\"color: #0078d7;\">角色特征</b>，可以直接启用"
+msgstr "Se não quiser gerenciar <b style=\"color: #0078d7;\">traços de personagem</b>, você pode ativar diretamente"
+
+msgid "如果你使用蓝牙耳机并发现音质变差，请在 Windows 声音设置中选择"
+msgstr "Se você usa fones Bluetooth e nota queda na qualidade do áudio, selecione nas configurações de som do Windows"
+
+msgid "娜娜莉"
+msgstr "Nanally"
+
+msgid "子类必须实现 get_current_char 方法"
+msgstr "Subclasses devem implementar get_current_char"
+
+msgid "子类必须实现 load_chars 方法"
+msgstr "Subclasses devem implementar load_chars"
+
+msgid "寻找钓鱼交互点"
+msgstr "Procurar ponto de interação"
+
+msgid "寻路至交互点并触发交互"
+msgstr "Indo até o ponto de interação e acionando-o"
+
+msgid "将优先使用固定角色进行战斗，未启用或槽位为空时自动识别"
+msgstr "Priorizará o uso de personagens fixos no combate; identificará automaticamente quando não ativado ou quando os espaços estiverem vazios."
+
+msgid "小吱"
+msgstr "Chiz"
+
+msgid "已切换交互式方式: {}"
+msgstr "Método de interação alterado: {}"
+
+msgid "已回到钓鱼准备界面"
+msgstr "Retornou à tela de preparação de pesca"
+
+msgid "已绑定的特征图"
+msgstr "已绑定的特征图"
+
+msgid "店长特供结束，成功 {}/{}"
+msgstr "Seleção do dono concluída, {}/{} bem-sucedidas"
+
+msgid "开启"
+msgstr "Ativado"
+
+msgid "开启后将跳过 [{}]"
+msgstr "Quando ativado, [{}] será ignorado"
+
+msgid "开启活跃度面板"
+msgstr "Abrindo painel de atividade"
+
+msgid "开始任务: {}"
+msgstr "Iniciando tarefa: {}"
+
+msgid "开始任务: {}, 目标索引: {}"
+msgstr "Iniciando tarefa: {}, índice alvo: {}"
+
+msgid "开始店长特供，共 {} 轮"
+msgstr "Iniciando Seleção do dono por {} rodada(s)"
+
+msgid "开始执行战斗流程"
+msgstr "Iniciando sequência de combate"
+
+msgid "开始执行日常任务"
+msgstr "Iniciando tarefas diárias"
+
+msgid "开始扫描当前队伍..."
+msgstr "Escaneando equipe atual..."
+
+msgid "开始玩法"
+msgstr "Iniciando jogabilidade"
+
+msgid "开始第 {}/{} 轮"
+msgstr "Iniciando rodada {}/{}"
+
+msgid "开始自动钓鱼，共 {} 轮"
+msgstr "Iniciando pesca automática, {} rodada(s) no total"
+
+msgid "开始自动钓鱼，无限循环"
+msgstr "Iniciando pesca automática, loop infinito"
+
+msgid "开始营业循环"
+msgstr "Iniciando loop de operação"
+
+msgid "当前体力"
+msgstr "Stamina atual"
+
+msgid "当前体力消耗或每日活跃度已达标，跳过每日活跃度任务"
+msgstr "Consumo de stamina ou meta de atividade diária atingida; ignorando tarefa de atividade diária"
+
+msgid "当前失败任务"
+msgstr "Tarefa com falha atual"
+
+msgid "当前阶段"
+msgstr "Estágio atual"
+
+msgid "循环次数, 设置为0则一直运行"
+msgstr "Contagem de ciclos; defina 0 para executar indefinidamente"
+
+msgid "总方斯获取数"
+msgstr "总方斯获取数"
+
+msgid "总粉爪币获取数"
+msgstr "总粉爪币获取数"
+
+msgid "恢复钓鱼准备界面超时"
+msgstr "Tempo esgotado ao restaurar tela de preparação"
+
+msgid "恢复钓鱼界面"
+msgstr "Restaurar tela de pesca"
+
+msgid "成功发帖次数"
+msgstr "成功发帖次数"
+
+msgid "成功回复次数"
+msgstr "成功回复次数"
+
+msgid "成功次数"
+msgstr "Sucessos"
+
+msgid "成功进入钓鱼场景"
+msgstr "Entrou na cena de pesca com sucesso"
+
+msgid "战斗结束，正在前往领取奖励"
+msgstr "Combate concluído; indo resgatar recompensas"
+
+msgid "打开F1面板并选择对应功能"
+msgstr "Abrindo painel F1 e selecionando função"
+
+msgid "扫描完成！"
+msgstr "Varredura concluída!"
+
+msgid "招"
+msgstr "Movimento"
+
+msgid "持续时间(s)，选填"
+msgstr "Duração em segundos (opcional)"
+
+msgid "指针已锁定中心: pointer={}, target={}"
+msgstr "Ponteiro bloqueado no centro: pointer={}, target={}"
+
+msgid "按下并松开按键"
+msgstr "Pressionar e soltar uma tecla"
+
+msgid "按下按键"
+msgstr "Pressionar uma tecla"
+
+msgid "按下秒数, 默认0.01秒"
+msgstr "Duração do pressionamento em segundos (padrão 0,01 s)"
+
+msgid "按住鼠标右键。带参数则指定秒数"
+msgstr "Manter botão direito do mouse. Com argumento, manter pelos segundos indicados"
+
+msgid "按住鼠标左键。带参数则指定秒数"
+msgstr "Manter botão esquerdo do mouse. Com argumento, manter pelos segundos indicados"
+
+msgid "按键 {} ({})"
+msgstr "Tecla {} ({})"
+
+msgid "按键方向、持续时间(s)，必填"
+msgstr "Direção da tecla e duração em segundos (obrigatório)"
+
+msgid "按键，必填"
+msgstr "Tecla (obrigatório)"
+
+msgid "按键，选填"
+msgstr "Tecla (opcional)"
+
+msgid "控制角色向指定方向行走"
+msgstr "Mover personagem na direção indicada"
+
+msgid "播放中"
+msgstr "播放中"
+
+msgid "支持输入并创建，也支持选择已有项。"
+msgstr "Permite inserir um valor novo ou selecionar um existente."
+
+msgid "文件不存在"
+msgstr "O arquivo não existe"
+
+msgid "文字框选项"
+msgstr "Opção de campo de texto"
+
+msgid "无"
+msgstr "Nenhum"
+
+msgid "无参数"
+msgstr "Sem parâmetros"
+
+msgid "无法找到一咖舍面板"
+msgstr "Painel do café não encontrado"
+
+msgid "无法找到活跃度奖励领取框"
+msgstr "Caixa de resgate de recompensa de atividade não encontrada"
+
+msgid "无法找到活跃度面板"
+msgstr "Painel de atividade não encontrado"
+
+msgid "无法找到环期任务面板"
+msgstr "Painel de tarefas periódicas não encontrado"
+
+msgid "无法找到邮件面板"
+msgstr "Painel de correio não encontrado"
+
+msgid "无法设置交互方式：索引 {} 越界。当前可用选择有: {}"
+msgstr "Não é possível definir o método de interação: índice {} fora do intervalo. Opções disponíveis: {}"
+
+msgid "日常任务开始运行!"
+msgstr "Tarefa diária iniciada!"
+
+msgid "日常任务运行完成!"
+msgstr "Tarefa diária concluída!"
+
+msgid "早雾"
+msgstr "Sakiri"
+
+msgid "是否选项默认支持"
+msgstr "Opção Sim/Não (ativada por padrão)"
+
+msgid "未找到领取奖励按钮"
+msgstr "Botão de resgatar recompensa não encontrado"
+
+msgid "未检测到可用鱼饵，开始买饵补货"
+msgstr "Sem isca disponível, iniciando reabastecimento"
+
+msgid "未检测到进入抛竿状态"
+msgstr "Estado de arremesso não detectado"
+
+msgid "未识别，关联新特征"
+msgstr "Não identificado, associando nova característica"
+
+msgid "未进入购买鱼饵页面"
+msgstr "Não entrou na tela de compra de isca"
+
+msgid "本轮完成"
+msgstr "Rodada concluída"
+
+msgid "条件命令、一个或多个目标命令"
+msgstr "Comando de condição seguido de um ou mais comandos alvo"
+
+msgid "条件执行：仅可使用标记为（可用于 if_ 条件）的命令作为条件命令"
+msgstr "Execução condicional: apenas comandos marcados como (utilizável em condição if_) podem ser a condição"
+
+msgid "松开按键"
+msgstr "Soltar uma tecla"
+
+msgid "检测 |"
+msgstr "Detectar |"
+
+msgid "检测到文字: {}"
+msgstr "Texto detectado: {}"
+
+msgid "检测到结算界面"
+msgstr "Tela de resultados detectada"
+
+msgid "正在传送至目标地点"
+msgstr "Teletransportando para o destino"
+
+msgid "正在打开邮件面板"
+msgstr "Abrindo painel de correio"
+
+msgid "正在执行每日活跃度任务"
+msgstr "Executando tarefa de atividade diária"
+
+msgid "正在领取一咖舍奖励"
+msgstr "Resgatando recompensas do café"
+
+msgid "正在领取活跃度奖励"
+msgstr "Resgatando recompensas de atividade"
+
+msgid "正在领取环期任务奖励"
+msgstr "Resgatando recompensas de tarefas periódicas"
+
+msgid "正在领取邮件奖励"
+msgstr "Resgatando recompensas de correio"
+
+msgid "此为内建 Python 脚本，不可在此修改。\\n请在对应的源文件中直接修改代码。"
+msgstr "此为内建 Python 脚本，不可在此修改。\\n请在对应的源文件中直接修改代码。"
+
+msgid "没有可选择的音轨"
+msgstr "没有可选择的音轨"
+
+msgid "浔"
+msgstr "Hotori"
+
+msgid "游戏更新成功, 游戏即将重启"
+msgstr "Jogo atualizado com sucesso; reiniciando"
+
+msgid "溜鱼状态超时"
+msgstr "Estado de tensionar expirou"
+
+msgid "点击同意按钮!"
+msgstr "Clicando no botão Concordar!"
+
+msgid "点击开始游戏! {start}"
+msgstr "Clicando em Iniciar jogo! {start}"
+
+msgid "点击登录按钮!"
+msgstr "Clicando no botão Entrar!"
+
+msgid "点击触发运行任务"
+msgstr "Clique para executar tarefa"
+
+msgid "状态机运行超时"
+msgstr "Máquina de estados expirou"
+
+msgid "状态轮询连续失败"
+msgstr "Polling de estado falhou repetidamente"
+
+msgid "环合反应"
+msgstr "环合反应"
+
+msgid "生成文档失败: {}"
+msgstr "Falha ao gerar documentação: {}"
+
+msgid "用户点击时调用run方法"
+msgstr "Chama o método run quando o usuário clica"
+
+msgid "第 {} 个项目"
+msgstr "Item n.º {}"
+
+msgid "第 {} 次"
+msgstr "Rodada {}"
+
+msgid "第 {} 轮失败"
+msgstr "Rodada {} falhou"
+
+msgid "第 {} 轮钓鱼失败：未检测到成功面板"
+msgstr "Rodada {} falhou: painel de sucesso não detectado"
+
+msgid "第 {} 轮钓鱼失败：状态轮询连续失败"
+msgstr "Rodada {} falhou: polling de estado falhou repetidamente"
+
+msgid "第 {} 轮钓鱼成功"
+msgstr "Rodada {} de pesca concluída com sucesso"
+
+msgid "第1列"
+msgstr "Coluna 1"
+
+msgid "第2列"
+msgstr "Coluna 2"
+
+msgid "第3"
+msgstr "Terceiro"
+
+msgid "第3列"
+msgstr "Coluna 3"
+
+msgid "第4列"
+msgstr "Coluna 4"
+
+msgid "第一"
+msgstr "Primeiro"
+
+msgid "第二"
+msgstr "Segundo"
+
+msgid "等待回到选歌界面"
+msgstr "Aguardando retorno à seleção de músicas"
+
+msgid "等待时间(s)，必填"
+msgstr "Tempo de espera em segundos (obrigatório)"
+
+msgid "等待进入音游界面"
+msgstr "Aguardando entrar no jogo de ritmo"
+
+msgid "等待钓鱼准备界面"
+msgstr "Aguardando tela de preparação"
+
+msgid "等待鱼儿咬钩超时"
+msgstr "Tempo esgotado aguardando mordida"
+
+msgid "结束执行日常任务"
+msgstr "Execução de tarefas diárias concluída"
+
+msgid "结算确认"
+msgstr "Confirmar resumo"
+
+msgid "自动钓鱼结束，成功 {}"
+msgstr "Pesca automática concluída, sucesso {}"
+
+msgid "自动钓鱼结束，成功 {}/{}"
+msgstr "Pesca automática concluída, sucesso {}/{}"
+
+msgid "自动银行差事出错"
+msgstr "Erro de recado bancário automático"
+
+msgid "自动音游任务结束，共完成 {} 次"
+msgstr "Jogo de ritmo automático concluído, completado {} vezes"
+
+msgid "营业中"
+msgstr "Em operação"
+
+msgid "营业额已达标，退出营业循环"
+msgstr "Meta de receita atingida; saindo do loop de operação"
+
+msgid "营业额未在超时内达标"
+msgstr "A receita não atingiu a meta antes do tempo limite"
+
+msgid "营业额检测超时"
+msgstr "Verificação de receita expirou"
+
+msgid "薄荷"
+msgstr "Mint"
+
+msgid "补货时长"
+msgstr "补货时长"
+
+msgid "补货货物"
+msgstr "补货货物"
+
+msgid "角色"
+msgstr "Personagem"
+
+msgid "记录坐标"
+msgstr "记录坐标"
+
+msgid "记录新特征"
+msgstr "Registrar nova característica"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 使用滚轮滚动至[目标关卡]可见 (若不需要则点击[目标关卡])\n2. 点击目标关卡\n\n※ 请勿点击[开始营业]"
+msgstr "Grave as operações para clicar na fase alvo em duas etapas:\n1. Use a roda do mouse para rolar até que a [Fase Alvo] fique visível (se não for necessário, clique na [Fase Alvo])\n2. Clique na fase alvo\n\n※ NÃO clique em [Abrir Negócio]"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 使用滚轮滚动至目标可见 (若不需要则点击目标)\n2. 点击目标"
+msgstr "Grave as operações para clicar na fase alvo em duas etapas:\n1. Use a roda do mouse para rolar até que o alvo fique visível (se não for necessário, clique no alvo)\n2. Clique no alvo"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 点击滚动条至[目标活动]可见 (若不需要则点击[目标活动])\n2. 点击[目标活动]\n\n※ 请勿点击[开始比赛]"
+msgstr "Grave as operações para clicar na fase alvo em duas etapas:\n1. Clique na barra de rolagem até que o [Evento Alvo] fique visível (se não for necessário, clique no [Evento Alvo])\n2. Clique no [Evento Alvo]\n\n※ NÃO clique em [Iniciar Partida]"
+
+msgid "记录点击目标关卡的操作，分为两个步骤：\n1. 点击滚动条至目标可见 (若不需要则点击目标)\n2. 点击目标"
+msgstr "Grave as operações para clicar na fase alvo em duas etapas:\n1. Clique na barra de rolagem até que o alvo fique visível (se não for necessário, clique no alvo)\n2. Clique no alvo"
+
+msgid "购买货物送货上门"
+msgstr "购买货物送货上门"
+
+msgid "跳跃一下"
+msgstr "Pular uma vez"
+
+msgid "轮次"
+msgstr "Rodada"
+
+msgid "运行一咖舍自动化"
+msgstr "Executar automação do café"
+
+msgid "进入副本并等待"
+msgstr "Entrando na instância e aguardando"
+
+msgid "进入店长特供"
+msgstr "Entrar na Seleção do dono"
+
+msgid "进入溜鱼状态"
+msgstr "Entrando no estado de tensionar o peixe"
+
+msgid "选择或输入{combo}名"
+msgstr "Selecionar ou digitar nome do {combo}"
+
+msgid "选择项目序号: {}"
+msgstr "Selecionando índice do item: {}"
+
+msgid "释放弧盘技能"
+msgstr "Usar habilidade Arc"
+
+msgid "释放技能"
+msgstr "Usar habilidade"
+
+msgid "释放终结技"
+msgstr "Usar golpe final"
+
+msgid "钓鱼"
+msgstr "pesca"
+
+msgid "钓鱼状态轮询失败"
+msgstr "Falha no polling de estado de pesca"
+
+msgid "长文字框选项"
+msgstr "Opção de campo de texto longo"
+
+msgid "队伍不存在, 扫描结束"
+msgstr "A equipe não existe; varredura encerrada"
+
+msgid "队伍人数少于2人, 扫描结束"
+msgstr "Equipe com menos de 2 membros; varredura encerrada"
+
+msgid "零"
+msgstr "Zero"
+
+msgid "音游开始，按键 D/F/J/K"
+msgstr "Jogo de ritmo iniciado, teclas D/F/J/K"
+
+msgid "项目序号"
+msgstr "Índice do item"
+
+msgid "领取收益"
+msgstr "领取收益"
+
+msgid "鱼儿咬钩"
+msgstr "O peixe mordeu a isca"
+
+msgid "鱼舱内没有可出售鱼获，跳过出售"
+msgstr "Sem peixes vendáveis no compartimento, ignorando venda"
+
+msgid "默认文字"
+msgstr "Texto padrão"
+
+msgid "默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字"
+msgstr "texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão"
+
+msgid "默认鱼饵可用"
+msgstr "Isca padrão disponível"
+
+msgid "鼠标右键。带参数则连点鼠标右键指定秒数，无参数为单次点按"
+msgstr "Clique direito. Com argumento, cliques repetidos pelos segundos indicados; sem argumento, clique único"
+
+msgid "鼠标左键。带参数则连点鼠标左键指定秒数，无参数为单次点按"
+msgstr "Clique esquerdo. Com argumento, cliques repetidos pelos segundos indicados; sem argumento, clique único"
+
+msgid "鼠标按键left、right、middle, 不填默认left"
+msgstr "Botão do mouse: left, right, middle (padrão left)"
+
+msgid "（可用于 if_ 条件）"
+msgstr "(utilizável em condição if_)"

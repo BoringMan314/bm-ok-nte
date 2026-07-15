@@ -19,6 +19,7 @@ class RestockState(Enum):
 
 
 class FishingTask(NTEOneTimeTask, BaseNTETask):
+    CONF_ROUNDS = "循环次数"
     CONF_CONTROL_MODE = "控条模式"
     CONF_TAP_MULTIPLIER = "点按时长倍率"
     CONF_AUTO_BUY_BAIT = "自动补饵卖鱼"
@@ -41,9 +42,9 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
         self.icon = FluentIcon.SYNC
         self.group_name = "都市闲趣"
         self.group_icon = FluentIcon.GAME
-        self.add_rounds_config()
         self.default_config.update(
             {
+                self.CONF_ROUNDS: 0,
                 self.CONF_CONTROL_MODE: self.MODE_HOLD,
                 self.CONF_TAP_MULTIPLIER: 1.0,
                 self.CONF_AUTO_BUY_BAIT: True,
@@ -51,6 +52,7 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
         )
         self.config_description.update(
             {
+                self.CONF_ROUNDS: "循环次数, 设置为0则一直运行",
                 self.CONF_CONTROL_MODE: f"{self.MODE_HOLD}：平滑流畅, 易过冲\n"
                 f"{self.MODE_TAP}: 安全较慢, 防过冲",
                 self.CONF_TAP_MULTIPLIER: "点按模式专用。用于微调每次按键的持续时间",
@@ -69,6 +71,7 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
             }
         )
         self._morph_kernel = np.ones((3, 3), dtype=np.uint8)
+        self._last_bar_log_time = 0.0
         self._last_direction = None
         self._bar_active_key = None
         self.add_exit_after_config()
@@ -97,8 +100,8 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
                 return True
 
     def run_fishing_state_machine(self):
-        target_rounds = self.configured_rounds(default=0)
-        target_rounds_text = self.rounds_total_text(target_rounds)
+        total = int(self.config.get(self.CONF_ROUNDS, 0))
+        endless = total == 0
         round_index = 1
         success_count = 0
         failed_count = 0
@@ -106,10 +109,13 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
         retry_count = 0
         try_cast_count = 0
         machine_start = None
-        self.log_info(f"开始自动钓鱼，共 {target_rounds_text} 轮")
+        if endless:
+            self.log_info("开始自动钓鱼，无限循环")
+        else:
+            self.log_info(f"开始自动钓鱼，共 {total} 轮")
 
-        while self.should_run_round(success_count + failed_count + 1, target_rounds):
-            round_text = self.rounds_info_text(round_index, target_rounds)
+        while endless or success_count + failed_count < total:
+            round_text = self._round_display(round_index, total, endless)
             if self.info_get("轮次") != round_text:
                 self.info_set("轮次", round_text)
                 self.info_set("成功次数", success_count)
@@ -143,10 +149,7 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
                         self.log_error(f"第 {pending_success_round} 轮钓鱼失败：未检测到成功面板")
                         pending_success_round = None
                         round_index += 1
-                        if not self.should_run_round(
-                            success_count + failed_count + 1,
-                            target_rounds,
-                        ):
+                        if not endless and success_count + failed_count >= total:
                             continue
 
                     self.log_info("鱼儿咬钩")
@@ -208,10 +211,11 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
         self.info_set("当前阶段", "任务结束")
         self.info_set("成功次数", success_count)
         self.info_set("失败次数", failed_count)
-        self.log_info(
-            f"自动钓鱼结束，成功 {success_count}/{target_rounds_text}",
-            notify=True,
-        )
+        if endless:
+            summary = f"自动钓鱼结束，成功 {success_count}"
+        else:
+            summary = f"自动钓鱼结束，成功 {success_count}/{total}"
+        self.log_info(summary, notify=True)
 
     def enter_control_bar(self):
         self._set_stage("control bar")
@@ -256,7 +260,7 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
 
     def run_restock_state_machine(self):
         state_order = [RestockState.SELL_FISH, RestockState.BUY_BAIT]
-        retry_by_state = dict.fromkeys(state_order, 0)
+        retry_by_state = {state: 0 for state in state_order}
         state_index = 0
 
         while state_index < len(state_order):
@@ -400,15 +404,12 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
             return True
         return False
 
-    def wait_click_confirm(
-        self, action=None, range=None, time_out=10, settle_time=1.0, raise_if_not_found=True
-    ):
+    def wait_click_confirm(self, action=None, range=None, settle_time=1.0, raise_if_not_found=True):
         if range is None:
             range = (0.641, 0.610, 0.713, 0.698)
         return super().wait_click_confirm(
             action=action,
             range=range,
-            time_out=time_out,
             settle_time=settle_time,
             raise_if_not_found=raise_if_not_found,
         )
@@ -444,6 +445,7 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
             self.apply_bar_control_hold(state)
 
     def apply_bar_control_hold(self, state: dict):
+        now = time.time()
         pointer_center, pointer_width, zone_center, zone_width = self._bar_metrics(state)
         error = pointer_center - zone_center
         abs_error = abs(error)
@@ -451,25 +453,24 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
 
         if abs_error <= deadzone:
             self._set_bar_key(None)
-            self.log_debug_gated(
-                f"指针已锁定中心: pointer={pointer_center}, target={zone_center}",
-                interval=2,
-            )
+            if now - self._last_bar_log_time > 1:
+                self.log_debug(f"指针已锁定中心: pointer={pointer_center}, target={zone_center}")
+                self._last_bar_log_time = now
             return
 
         key = "d" if error < 0 else "a"
         self._set_bar_key(key)
 
     def apply_bar_control_discrete(self, state: dict):
+        now = time.time()
         pointer_center, _, zone_center, zone_width = self._bar_metrics(state)
         dist_from_center = pointer_center - zone_center
         abs_dist = abs(dist_from_center)
 
         if abs_dist <= max(2, int(zone_width * 0.08)):
-            self.log_debug_gated(
-                f"指针已锁定中心: pointer={pointer_center}, target={zone_center}",
-                interval=2,
-            )
+            if now - self._last_bar_log_time > 0.5:
+                self.log_debug(f"指针已锁定中心: pointer={pointer_center}, target={zone_center}")
+                self._last_bar_log_time = now
             return
 
         key = "d" if dist_from_center < 0 else "a"
@@ -670,8 +671,14 @@ class FishingTask(NTEOneTimeTask, BaseNTETask):
 
     def reset_runtime_state(self):
         self._set_bar_key(None)
+        self._last_bar_log_time = 0.0
         self._last_direction = None
         self._bar_active_key = None
+
+    @staticmethod
+    def _round_display(round_index, total, endless):
+        round_limit = "∞" if endless else str(total)
+        return f"{round_index} / {round_limit}"
 
     def _publish_config_info(self):
         self.info_set("控条模式", self.config.get(self.CONF_CONTROL_MODE, self.MODE_HOLD))

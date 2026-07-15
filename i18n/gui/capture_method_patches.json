@@ -1,0 +1,8 @@
+{
+  "SelectCaptureListView": {
+    "BitBlt_RenderFull": "BitBlt_RenderFull",
+    "WGC": "WGC",
+    "BitBlt": "BitBlt",
+    "DXGI": "DXGI"
+  }
+}

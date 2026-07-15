@@ -1,0 +1,959 @@
+{
+  "    • 参数: {}\n": {
+    "ja_JP": "    • パラメータ: {}\n",
+    "ko_KR": "    • 매개변수: {}\n",
+    "es_ES": "    • Parámetros: {}\n",
+    "pt_BR": "    • Parâmetros: {}\n"
+  },
+  "    • 示例: {}\n\n": {
+    "ja_JP": "    • 例: {}\n\n",
+    "ko_KR": "    • 예시: {}\n\n",
+    "es_ES": "    • Ejemplo: {}\n\n",
+    "pt_BR": "    • Exemplo: {}\n\n"
+  },
+  "    • 说明: {}\n": {
+    "ja_JP": "    • 説明: {}\n",
+    "ko_KR": "    • 설명: {}\n",
+    "es_ES": "    • Descripción: {}\n",
+    "pt_BR": "    • Descrição: {}\n"
+  },
+  "1. 确保您已配置好游戏内的挂机流派。\n": {
+    "ja_JP": "1. ゲーム内の放置編成を設定済みであることを確認してください。\n",
+    "ko_KR": "1. 게임 내 방치 빌드를 설정했는지 확인하세요.\n",
+    "es_ES": "1. Asegúrate de haber configurado la build idle en el juego.\n",
+    "pt_BR": "1. Certifique-se de ter configurado a build idle no jogo.\n"
+  },
+  "10 秒内未返回选歌界面，停止任务": {
+    "ja_JP": "10秒以内に曲選択画面に戻れなかったため、タスクを停止します",
+    "ko_KR": "10초 이내에 곡 선택 화면으로 돌아가지 못해 태스크를 중지합니다",
+    "es_ES": "No se volvió a la selección de canciones en 10 s; tarea detenida",
+    "pt_BR": "Não retornou à seleção de músicas em 10 s; tarefa interrompida"
+  },
+  "15 秒内未进入音游界面，停止任务": {
+    "ja_JP": "15秒以内にリズムゲーム画面に入れなかったため、タスクを停止します",
+    "ko_KR": "15초 이내에 리듬 게임 화면에 진입하지 못해 태스크를 중지합니다",
+    "es_ES": "No se entró al juego de ritmo en 15 s; tarea detenida",
+    "pt_BR": "Não entrou no jogo de ritmo em 15 s; tarefa interrompida"
+  },
+  "2. 站在咖啡店可进行 F 交互的位置。\n": {
+    "ja_JP": "2. カフェで F キー操作ができる位置に立ってください。\n",
+    "ko_KR": "2. 카페에서 F 상호작용이 가능한 위치에 서세요.\n",
+    "es_ES": "2. Colócate en el café en un punto donde esté disponible la interacción F.\n",
+    "pt_BR": "2. Fique no café em um local onde a interação F esteja disponível.\n"
+  },
+  "3. （可选）若想指定特定关卡，请先手动进入该关卡一次后退出，再启动本脚本即可。": {
+    "ja_JP": "3. （任意）特定ステージを指定する場合は、一度手動でそのステージに入って退出してから、このスクリプトを起動してください。",
+    "ko_KR": "3. (선택) 특정 스테이지를 지정하려면, 먼저 해당 스테이지에 수동으로 한 번 들어갔다 나온 뒤 이 스크립트를 시작하세요.",
+    "es_ES": "3. (Opcional) Para un escenario concreto, entra y sal manualmente una vez antes de iniciar este script.",
+    "pt_BR": "3. (Opcional) Para um estágio específico, entre e saia manualmente uma vez antes de iniciar este script."
+  },
+  "<b style=\"color: #0078d7;\">{fixed_team}</b> 功能。": {
+    "ja_JP": "<b style=\"color: #0078d7;\">{fixed_team}</b> 機能。",
+    "ko_KR": "<b style=\"color: #0078d7;\">{fixed_team}</b> 기능.",
+    "es_ES": "la función <b style=\"color: #0078d7;\">{fixed_team}</b>.",
+    "pt_BR": "o recurso <b style=\"color: #0078d7;\">{fixed_team}</b>."
+  },
+  "<b style=\"color: #0078d7;\">角色</b> 和 ": {
+    "ja_JP": "<b style=\"color: #0078d7;\">キャラクター</b> と ",
+    "ko_KR": "<b style=\"color: #0078d7;\">캐릭터</b> 및 ",
+    "es_ES": "<b style=\"color: #0078d7;\">Personaje</b> y ",
+    "pt_BR": "<b style=\"color: #0078d7;\">Personagem</b> e "
+  },
+  "Stereo/Headphones 输出，避免使用 Hands-Free/AG Audio。": {
+    "ja_JP": "ステレオ/ヘッドホン出力を使用し、Hands-Free/AG Audio は避けてください。",
+    "ko_KR": "스테레오/헤드폰 출력을 사용하고 Hands-Free/AG Audio는 피하세요.",
+    "es_ES": "Salida estéreo/auriculares; evita Hands-Free/AG Audio.",
+    "pt_BR": "Saída estéreo/fones de ouvido; evite Hands-Free/AG Audio."
+  },
+  "[LV-Init] 模板切割失败，仅找到 {} 个轮廓": {
+    "ja_JP": "[LV-Init] テンプレート分割に失敗、輪郭は {} 個のみ検出",
+    "ko_KR": "[LV-Init] 템플릿 분할 실패, 윤곽 {}개만 발견",
+    "es_ES": "[LV-Init] Falló la segmentación de plantilla; solo se encontraron {} contornos",
+    "pt_BR": "[LV-Init] Falha na segmentação do modelo; apenas {} contornos encontrados"
+  },
+  "int选项": {
+    "ja_JP": "整数オプション",
+    "ko_KR": "정수 옵션",
+    "es_ES": "Opción entera",
+    "pt_BR": "Opção inteira"
+  },
+  "list选项": {
+    "ja_JP": "リストオプション",
+    "ko_KR": "목록 옵션",
+    "es_ES": "Opción de lista",
+    "pt_BR": "Opção de lista"
+  },
+  "{}：点击开始演奏": {
+    "ja_JP": "{}：演奏開始をクリック",
+    "ko_KR": "{}: 연주 시작 클릭",
+    "es_ES": "{}: haz clic para empezar a tocar",
+    "pt_BR": "{}: clique para iniciar a execução"
+  },
+  "下拉菜单选项": {
+    "ja_JP": "ドロップダウンオプション",
+    "ko_KR": "드롭다운 옵션",
+    "es_ES": "Opción desplegable",
+    "pt_BR": "Opção de menu suspenso"
+  },
+  "不包含任何局内的制作食物或招待客人操作。\n\n": {
+    "ja_JP": "ステージ内での料理制作や接客操作は含まれません。\n\n",
+    "ko_KR": "스테이지 내 음식 제작이나 손님 응대 작업은 포함되지 않습니다.\n\n",
+    "es_ES": "y no incluye preparación de comida ni atención a clientes dentro del escenario.\n\n",
+    "pt_BR": "e não inclui preparo de comida nem atendimento a clientes dentro do estágio.\n\n"
+  },
+  "不安全的压缩包路径": {
+    "ja_JP": "安全でないアーカイブパス",
+    "ko_KR": "안전하지 않은 압축 파일 경로",
+    "es_ES": "Ruta de archivo comprimido no segura",
+    "pt_BR": "Caminho de arquivo compactado inseguro"
+  },
+  "不支持的导入格式": {
+    "ja_JP": "サポートされていないインポート形式",
+    "ko_KR": "지원하지 않는 가져오기 형식",
+    "es_ES": "Formato de importación no compatible",
+    "pt_BR": "Formato de importação não suportado"
+  },
+  "九原": {
+    "ja_JP": "キュウエン",
+    "ko_KR": "구원",
+    "es_ES": "Jiuyuan",
+    "pt_BR": "Jiuyuan"
+  },
+  "仅支持导入导出数据的 zip（custom_chars/db.json 无效）": {
+    "ja_JP": "データエクスポート用 ZIP のみサポート（custom_chars/db.json が無効）",
+    "ko_KR": "데이터 내보내기 ZIP만 지원(custom_chars/db.json 무효)",
+    "es_ES": "Solo se admiten ZIP de exportación de datos (custom_chars/db.json no válido)",
+    "pt_BR": "Somente ZIP de exportação de dados é suportado (custom_chars/db.json inválido)"
+  },
+  "仅支持导入导出数据的 zip（缺少 custom_chars/db.json）": {
+    "ja_JP": "データエクスポート用 ZIP のみサポート（custom_chars/db.json がありません）",
+    "ko_KR": "데이터 내보내기 ZIP만 지원(custom_chars/db.json 누락)",
+    "es_ES": "Solo se admiten ZIP de exportación de datos (falta custom_chars/db.json)",
+    "pt_BR": "Somente ZIP de exportação de dados é suportado (falta custom_chars/db.json)"
+  },
+  "任务失败: {}": {
+    "ja_JP": "タスク失敗: {}",
+    "ko_KR": "태스크 실패: {}",
+    "es_ES": "Tarea fallida: {}",
+    "pt_BR": "Tarefa falhou: {}"
+  },
+  "任务完成: {}": {
+    "ja_JP": "タスク完了: {}",
+    "ko_KR": "태스크 완료: {}",
+    "es_ES": "Tarea completada: {}",
+    "pt_BR": "Tarefa concluída: {}"
+  },
+  "任务执行完毕": {
+    "ja_JP": "タスク実行完了",
+    "ko_KR": "태스크 실행 완료",
+    "es_ES": "Ejecución de tarea completada",
+    "pt_BR": "Execução da tarefa concluída"
+  },
+  "休眠停顿等待指定时间": {
+    "ja_JP": "指定時間スリープ待機",
+    "ko_KR": "지정 시간 동안 대기",
+    "es_ES": "Pausa durante el tiempo especificado",
+    "pt_BR": "Pausa pelo tempo especificado"
+  },
+  "传送": {
+    "ja_JP": "テレポート",
+    "ko_KR": "텔레포트",
+    "es_ES": "Teletransporte",
+    "pt_BR": "Teletransporte"
+  },
+  "体力不足，退出任务": {
+    "ja_JP": "スタミナ不足のためタスクを終了します",
+    "ko_KR": "스태미나 부족, 태스크 종료",
+    "es_ES": "Stamina insuficiente; saliendo de la tarea",
+    "pt_BR": "Stamina insuficiente; saindo da tarefa"
+  },
+  "体力消耗目标": {
+    "ja_JP": "スタミナ消費目標",
+    "ko_KR": "스태미나 소모 목표",
+    "es_ES": "Objetivo de consumo de stamina",
+    "pt_BR": "Meta de consumo de stamina"
+  },
+  "使用方法：\n": {
+    "ja_JP": "使い方：\n",
+    "ko_KR": "사용 방법:\n",
+    "es_ES": "Uso:\n",
+    "pt_BR": "Uso:\n"
+  },
+  "关闭结算界面": {
+    "ja_JP": "結果画面を閉じています",
+    "ko_KR": "결산 화면 닫는 중",
+    "es_ES": "Cerrando pantalla de resultados",
+    "pt_BR": "Fechando tela de resultados"
+  },
+  "切换至任务页签: {}": {
+    "ja_JP": "タスクタブに切り替え: {}",
+    "ko_KR": "태스크 탭으로 전환: {}",
+    "es_ES": "Cambiando a la pestaña de tarea: {}",
+    "pt_BR": "Alternando para a aba de tarefa: {}"
+  },
+  "功能说明：本功能仅负责『自动退出关卡』与『重新开启关卡』的点击循环，": {
+    "ja_JP": "機能説明：この機能は『ステージ自動退出』と『ステージ再開』のクリックループのみを担当し、",
+    "ko_KR": "기능 설명: 이 기능은 '스테이지 자동 퇴장'과 '스테이지 재시작' 클릭 루프만 담당하며,",
+    "es_ES": "Acerca de: esta función solo gestiona el bucle de clics para 'salir automáticamente del escenario' y 'reiniciar escenario',",
+    "pt_BR": "Sobre: este recurso cuida apenas do loop de cliques para 'sair automaticamente do estágio' e 'reiniciar estágio',"
+  },
+  "压缩包内没有可导入的数据": {
+    "ja_JP": "アーカイブ内にインポート可能なデータがありません",
+    "ko_KR": "압축 파일에 가져올 수 있는 데이터가 없습니다",
+    "es_ES": "El archivo no contiene datos importables",
+    "pt_BR": "O arquivo não contém dados importáveis"
+  },
+  "双倍次数: {}, 单倍次数: {}": {
+    "ja_JP": "2倍回数: {}, 1倍回数: {}",
+    "ko_KR": "2배 횟수: {}, 1배 횟수: {}",
+    "es_ES": "Ejecuciones dobles: {}, Ejecuciones simples: {}",
+    "pt_BR": "Execuções em dobro: {}, Execuções simples: {}"
+  },
+  "发现 {} 个领取奖励": {
+    "ja_JP": "受け取り可能な報酬を {} 件発見",
+    "ko_KR": "수령 가능한 보상 {}개 발견",
+    "es_ES": "Se encontraron {} recompensa(s) para reclamar",
+    "pt_BR": "Encontrada(s) {} recompensa(s) para resgatar"
+  },
+  "可以在出招表中输入以下指令 (以英文逗号 [ , ] 分隔):\n\n": {
+    "ja_JP": "技表に以下のコマンドを入力できます（英語カンマ [ , ] で区切り）:\n\n",
+    "ko_KR": "기술표에 다음 명령을 입력할 수 있습니다(영문 쉼표 [ , ]로 구분):\n\n",
+    "es_ES": "Puedes introducir los siguientes comandos en la lista de movimientos (separados por comas [ , ]):\n\n",
+    "pt_BR": "Você pode inserir os seguintes comandos na lista de golpes (separados por vírgulas [ , ]):\n\n"
+  },
+  "商城": {
+    "ja_JP": "ショップ",
+    "ko_KR": "상점",
+    "es_ES": "Tienda",
+    "pt_BR": "Loja"
+  },
+  "增加 <b style=\"color: #0078d7;\">角色特征</b> 后将自动判断当前角色。<br>": {
+    "ja_JP": "<b style=\"color: #0078d7;\">キャラクター特徴</b> を追加すると、現在のキャラクターを自動判別します。<br>",
+    "ko_KR": "<b style=\"color: #0078d7;\">캐릭터 특징</b>을 추가하면 현재 캐릭터를 자동으로 판별합니다.<br>",
+    "es_ES": "Tras añadir <b style=\"color: #0078d7;\">rasgos de personaje</b>, el personaje actual se detectará automáticamente.<br>",
+    "pt_BR": "Após adicionar <b style=\"color: #0078d7;\">traços de personagem</b>, o personagem atual será detectado automaticamente.<br>"
+  },
+  "声音监听未找到严格匹配的系统声音回环设备，已使用兼容模式监听。": {
+    "ja_JP": "サウンドリスナーは厳密一致のシステムループバックデバイスを見つけられず、互換モードで監視しています。",
+    "ko_KR": "사운드 리스너가 정확히 일치하는 시스템 루프백 장치를 찾지 못해 호환 모드로 수신합니다.",
+    "es_ES": "El listener de audio no encontró un dispositivo de bucle del sistema con coincidencia estricta; usando modo de compatibilidad.",
+    "pt_BR": "O listener de áudio não encontrou um dispositivo de loopback do sistema com correspondência exata; usando modo de compatibilidade."
+  },
+  "奖励目标": {
+    "ja_JP": "報酬目標",
+    "ko_KR": "보상 목표",
+    "es_ES": "Objetivo de recompensa",
+    "pt_BR": "Meta de recompensa"
+  },
+  "如果不想管理 <b style=\"color: #0078d7;\">角色特征</b>，可以直接启用": {
+    "ja_JP": "<b style=\"color: #0078d7;\">キャラクター特徴</b> を管理したくない場合は、直接有効にできます",
+    "ko_KR": "<b style=\"color: #0078d7;\">캐릭터 특징</b>을 관리하고 싶지 않다면 직접 활성화할 수 있습니다",
+    "es_ES": "Si no quieres gestionar <b style=\"color: #0078d7;\">rasgos de personaje</b>, puedes activar directamente",
+    "pt_BR": "Se não quiser gerenciar <b style=\"color: #0078d7;\">traços de personagem</b>, você pode ativar diretamente"
+  },
+  "如果你使用蓝牙耳机并发现音质变差，请在 Windows 声音设置中选择": {
+    "ja_JP": "Bluetooth ヘッドホンを使用していて音質が低下する場合は、Windows のサウンド設定で",
+    "ko_KR": "Bluetooth 헤드폰 사용 시 음질이 나빠지면 Windows 사운드 설정에서",
+    "es_ES": "Si usas auriculares Bluetooth y notas peor calidad de audio, selecciona en la configuración de sonido de Windows",
+    "pt_BR": "Se você usa fones Bluetooth e nota queda na qualidade do áudio, selecione nas configurações de som do Windows"
+  },
+  "娜娜莉": {
+    "ja_JP": "ナナリ",
+    "ko_KR": "나날리",
+    "es_ES": "Nanali",
+    "pt_BR": "Nanali"
+  },
+  "子类必须实现 get_current_char 方法": {
+    "ja_JP": "サブクラスは get_current_char メソッドを実装する必要があります",
+    "ko_KR": "하위 클래스는 get_current_char 메서드를 구현해야 합니다",
+    "es_ES": "Las subclases deben implementar get_current_char",
+    "pt_BR": "Subclasses devem implementar get_current_char"
+  },
+  "子类必须实现 load_chars 方法": {
+    "ja_JP": "サブクラスは load_chars メソッドを実装する必要があります",
+    "ko_KR": "하위 클래스는 load_chars 메서드를 구현해야 합니다",
+    "es_ES": "Las subclases deben implementar load_chars",
+    "pt_BR": "Subclasses devem implementar load_chars"
+  },
+  "寻路至交互点并触发交互": {
+    "ja_JP": "インタラクション地点まで移動して操作を実行",
+    "ko_KR": "상호작용 지점까지 이동하여 상호작용 실행",
+    "es_ES": "Desplazándose al punto de interacción y activándola",
+    "pt_BR": "Indo até o ponto de interação e acionando-o"
+  },
+  "小吱": {
+    "ja_JP": "シャオジー",
+    "ko_KR": "샤오즈",
+    "es_ES": "Xiaozhi",
+    "pt_BR": "Xiaozhi"
+  },
+  "已切换交互式方式: {}": {
+    "ja_JP": "インタラクション方式を切り替えました: {}",
+    "ko_KR": "상호작용 방식 전환: {}",
+    "es_ES": "Método de interacción cambiado: {}",
+    "pt_BR": "Método de interação alterado: {}"
+  },
+  "店长特供结束，成功 {}/{}": {
+    "ja_JP": "オーナーセレクション終了、成功 {}/{}",
+    "ko_KR": "오너 셀렉션 종료, 성공 {}/{}",
+    "es_ES": "Selección del dueño finalizada, {}/{} correctas",
+    "pt_BR": "Seleção do dono concluída, {}/{} bem-sucedidas"
+  },
+  "开启后将跳过 [{}]": {
+    "ja_JP": "有効にすると [{}] をスキップします",
+    "ko_KR": "활성화 시 [{}]을(를) 건너뜁니다",
+    "es_ES": "Al activar, se omitirá [{}]",
+    "pt_BR": "Quando ativado, [{}] será ignorado"
+  },
+  "开启活跃度面板": {
+    "ja_JP": "アクティビティパネルを開いています",
+    "ko_KR": "활동도 패널 여는 중",
+    "es_ES": "Abriendo panel de actividad",
+    "pt_BR": "Abrindo painel de atividade"
+  },
+  "开始任务: {}": {
+    "ja_JP": "タスク開始: {}",
+    "ko_KR": "태스크 시작: {}",
+    "es_ES": "Iniciando tarea: {}",
+    "pt_BR": "Iniciando tarefa: {}"
+  },
+  "开始任务: {}, 目标索引: {}": {
+    "ja_JP": "タスク開始: {}、目標インデックス: {}",
+    "ko_KR": "태스크 시작: {}, 목표 인덱스: {}",
+    "es_ES": "Iniciando tarea: {}, índice objetivo: {}",
+    "pt_BR": "Iniciando tarefa: {}, índice alvo: {}"
+  },
+  "开始店长特供，共 {} 轮": {
+    "ja_JP": "オーナーセレクション開始、全 {} ラウンド",
+    "ko_KR": "오너 셀렉션 시작, 총 {}라운드",
+    "es_ES": "Iniciando Selección del dueño por {} ronda(s)",
+    "pt_BR": "Iniciando Seleção do dono por {} rodada(s)"
+  },
+  "开始执行战斗流程": {
+    "ja_JP": "戦闘シーケンスを開始",
+    "ko_KR": "전투 시퀀스 시작",
+    "es_ES": "Iniciando secuencia de combate",
+    "pt_BR": "Iniciando sequência de combate"
+  },
+  "开始执行日常任务": {
+    "ja_JP": "デイリータスクを開始",
+    "ko_KR": "일일 임무 시작",
+    "es_ES": "Iniciando tareas diarias",
+    "pt_BR": "Iniciando tarefas diárias"
+  },
+  "开始扫描当前队伍...": {
+    "ja_JP": "現在のパーティをスキャン中...",
+    "ko_KR": "현재 파티 스캔 중...",
+    "es_ES": "Escaneando equipo actual...",
+    "pt_BR": "Escaneando equipe atual..."
+  },
+  "开始玩法": {
+    "ja_JP": "プレイ開始",
+    "ko_KR": "플레이 시작",
+    "es_ES": "Iniciando partida",
+    "pt_BR": "Iniciando jogabilidade"
+  },
+  "开始第 {}/{} 轮": {
+    "ja_JP": "第 {}/{} ラウンド開始",
+    "ko_KR": "제 {}/{}라운드 시작",
+    "es_ES": "Iniciando ronda {}/{}",
+    "pt_BR": "Iniciando rodada {}/{}"
+  },
+  "开始营业循环": {
+    "ja_JP": "営業ループを開始",
+    "ko_KR": "영업 루프 시작",
+    "es_ES": "Iniciando bucle de operación",
+    "pt_BR": "Iniciando loop de operação"
+  },
+  "当前体力": {
+    "ja_JP": "現在のスタミナ",
+    "ko_KR": "현재 스태미나",
+    "es_ES": "Stamina actual",
+    "pt_BR": "Stamina atual"
+  },
+  "当前体力消耗或每日活跃度已达标，跳过每日活跃度任务": {
+    "ja_JP": "スタミナ消費またはデイリーアクティビティ目標を達成済みのため、デイリーアクティビティタスクをスキップします",
+    "ko_KR": "스태미나 소모 또는 일일 활동도 목표 달성, 일일 활동도 태스크 건너뜀",
+    "es_ES": "Consumo de stamina o actividad diaria cumplida; omitiendo tarea de actividad diaria",
+    "pt_BR": "Consumo de stamina ou meta de atividade diária atingida; ignorando tarefa de atividade diária"
+  },
+  "当前失败任务": {
+    "ja_JP": "現在の失敗タスク",
+    "ko_KR": "현재 실패 태스크",
+    "es_ES": "Tarea fallida actual",
+    "pt_BR": "Tarefa com falha atual"
+  },
+  "战斗结束，正在前往领取奖励": {
+    "ja_JP": "戦闘終了、報酬受け取りへ移動中",
+    "ko_KR": "전투 종료, 보상 수령으로 이동 중",
+    "es_ES": "Combate terminado; yendo a reclamar recompensas",
+    "pt_BR": "Combate concluído; indo resgatar recompensas"
+  },
+  "打开F1面板并选择对应功能": {
+    "ja_JP": "F1 パネルを開いて該当機能を選択",
+    "ko_KR": "F1 패널을 열고 해당 기능 선택",
+    "es_ES": "Abriendo panel F1 y seleccionando función",
+    "pt_BR": "Abrindo painel F1 e selecionando função"
+  },
+  "扫描完成！": {
+    "ja_JP": "スキャン完了！",
+    "ko_KR": "스캔 완료!",
+    "es_ES": "¡Escaneo completado!",
+    "pt_BR": "Varredura concluída!"
+  },
+  "招": {
+    "ja_JP": "技",
+    "ko_KR": "모션",
+    "es_ES": "Movimiento",
+    "pt_BR": "Movimento"
+  },
+  "持续时间(s)，选填": {
+    "ja_JP": "持続時間(秒)、任意",
+    "ko_KR": "지속 시간(초), 선택",
+    "es_ES": "Duración en segundos (opcional)",
+    "pt_BR": "Duração em segundos (opcional)"
+  },
+  "指针已锁定中心: pointer={}, target={}": {
+    "ja_JP": "ポインターを中心に固定: pointer={}, target={}",
+    "ko_KR": "포인터 중앙 고정: pointer={}, target={}",
+    "es_ES": "Puntero bloqueado al centro: pointer={}, target={}",
+    "pt_BR": "Ponteiro bloqueado no centro: pointer={}, target={}"
+  },
+  "按下并松开按键": {
+    "ja_JP": "キーを押して離す",
+    "ko_KR": "키를 누르고 뗌",
+    "es_ES": "Pulsar y soltar una tecla",
+    "pt_BR": "Pressionar e soltar uma tecla"
+  },
+  "按下按键": {
+    "ja_JP": "キーを押す",
+    "ko_KR": "키 누르기",
+    "es_ES": "Pulsar una tecla",
+    "pt_BR": "Pressionar uma tecla"
+  },
+  "按下秒数, 默认0.01秒": {
+    "ja_JP": "押下秒数、デフォルト 0.01 秒",
+    "ko_KR": "누름 시간(초), 기본 0.01초",
+    "es_ES": "Duración de pulsación en segundos (predeterminado 0,01 s)",
+    "pt_BR": "Duração do pressionamento em segundos (padrão 0,01 s)"
+  },
+  "按住鼠标右键。带参数则指定秒数": {
+    "ja_JP": "右クリックを押し続ける。引数ありで秒数指定",
+    "ko_KR": "마우스 오른쪽 버튼을 누르고 있음. 인수가 있으면 지정 초 동안",
+    "es_ES": "Mantener botón derecho del ratón. Con argumento, mantener los segundos indicados",
+    "pt_BR": "Manter botão direito do mouse. Com argumento, manter pelos segundos indicados"
+  },
+  "按住鼠标左键。带参数则指定秒数": {
+    "ja_JP": "左クリックを押し続ける。引数ありで秒数指定",
+    "ko_KR": "마우스 왼쪽 버튼을 누르고 있음. 인수가 있으면 지정 초 동안",
+    "es_ES": "Mantener botón izquierdo del ratón. Con argumento, mantener los segundos indicados",
+    "pt_BR": "Manter botão esquerdo do mouse. Com argumento, manter pelos segundos indicados"
+  },
+  "按键 {} ({})": {
+    "ja_JP": "キー {} ({})",
+    "ko_KR": "키 {} ({})",
+    "es_ES": "Tecla {} ({})",
+    "pt_BR": "Tecla {} ({})"
+  },
+  "按键方向、持续时间(s)，必填": {
+    "ja_JP": "キー方向・持続時間(秒)、必須",
+    "ko_KR": "키 방향 및 지속 시간(초), 필수",
+    "es_ES": "Dirección de tecla y duración en segundos (obligatorio)",
+    "pt_BR": "Direção da tecla e duração em segundos (obrigatório)"
+  },
+  "按键，必填": {
+    "ja_JP": "キー、必須",
+    "ko_KR": "키, 필수",
+    "es_ES": "Tecla (obligatorio)",
+    "pt_BR": "Tecla (obrigatório)"
+  },
+  "按键，选填": {
+    "ja_JP": "キー、任意",
+    "ko_KR": "키, 선택",
+    "es_ES": "Tecla (opcional)",
+    "pt_BR": "Tecla (opcional)"
+  },
+  "控制角色向指定方向行走": {
+    "ja_JP": "キャラクターを指定方向に移動",
+    "ko_KR": "캐릭터를 지정 방향으로 이동",
+    "es_ES": "Mover personaje en la dirección indicada",
+    "pt_BR": "Mover personagem na direção indicada"
+  },
+  "支持输入并创建，也支持选择已有项。": {
+    "ja_JP": "入力して新規作成、既存項目の選択にも対応。",
+    "ko_KR": "입력하여 생성하거나 기존 항목을 선택할 수 있습니다.",
+    "es_ES": "Permite introducir un valor nuevo o seleccionar uno existente.",
+    "pt_BR": "Permite inserir um valor novo ou selecionar um existente."
+  },
+  "文件不存在": {
+    "ja_JP": "ファイルが存在しません",
+    "ko_KR": "파일이 존재하지 않습니다",
+    "es_ES": "El archivo no existe",
+    "pt_BR": "O arquivo não existe"
+  },
+  "文字框选项": {
+    "ja_JP": "テキストフィールドオプション",
+    "ko_KR": "텍스트 필드 옵션",
+    "es_ES": "Opción de campo de texto",
+    "pt_BR": "Opção de campo de texto"
+  },
+  "无": {
+    "ja_JP": "なし",
+    "ko_KR": "없음",
+    "es_ES": "Ninguno",
+    "pt_BR": "Nenhum"
+  },
+  "无参数": {
+    "ja_JP": "パラメータなし",
+    "ko_KR": "매개변수 없음",
+    "es_ES": "Sin parámetros",
+    "pt_BR": "Sem parâmetros"
+  },
+  "无法找到一咖舍面板": {
+    "ja_JP": "カフェパネルが見つかりません",
+    "ko_KR": "카페 패널을 찾을 수 없습니다",
+    "es_ES": "No se encontró el panel del café",
+    "pt_BR": "Painel do café não encontrado"
+  },
+  "无法找到活跃度奖励领取框": {
+    "ja_JP": "アクティビティ報酬受け取りボックスが見つかりません",
+    "ko_KR": "활동도 보상 수령 창을 찾을 수 없습니다",
+    "es_ES": "No se encontró el cuadro de reclamar recompensa de actividad",
+    "pt_BR": "Caixa de resgate de recompensa de atividade não encontrada"
+  },
+  "无法找到活跃度面板": {
+    "ja_JP": "アクティビティパネルが見つかりません",
+    "ko_KR": "활동도 패널을 찾을 수 없습니다",
+    "es_ES": "No se encontró el panel de actividad",
+    "pt_BR": "Painel de atividade não encontrado"
+  },
+  "无法找到环期任务面板": {
+    "ja_JP": "周期タスクパネルが見つかりません",
+    "ko_KR": "주기 임무 패널을 찾을 수 없습니다",
+    "es_ES": "No se encontró el panel de tareas periódicas",
+    "pt_BR": "Painel de tarefas periódicas não encontrado"
+  },
+  "无法找到邮件面板": {
+    "ja_JP": "メールパネルが見つかりません",
+    "ko_KR": "메일 패널을 찾을 수 없습니다",
+    "es_ES": "No se encontró el panel de correo",
+    "pt_BR": "Painel de correio não encontrado"
+  },
+  "无法设置交互方式：索引 {} 越界。当前可用选择有: {}": {
+    "ja_JP": "インタラクション方式を設定できません：インデックス {} が範囲外。利用可能: {}",
+    "ko_KR": "상호작용 방식을 설정할 수 없음: 인덱스 {} 범위 초과. 사용 가능: {}",
+    "es_ES": "No se puede establecer el método de interacción: índice {} fuera de rango. Opciones disponibles: {}",
+    "pt_BR": "Não é possível definir o método de interação: índice {} fora do intervalo. Opções disponíveis: {}"
+  },
+  "日常任务开始运行!": {
+    "ja_JP": "デイリータスク実行開始!",
+    "ko_KR": "일일 임무 실행 시작!",
+    "es_ES": "¡Tarea diaria iniciada!",
+    "pt_BR": "Tarefa diária iniciada!"
+  },
+  "日常任务运行完成!": {
+    "ja_JP": "デイリータスク実行完了!",
+    "ko_KR": "일일 임무 실행 완료!",
+    "es_ES": "¡Tarea diaria finalizada!",
+    "pt_BR": "Tarefa diária concluída!"
+  },
+  "早雾": {
+    "ja_JP": "ザオウ",
+    "ko_KR": "자오우",
+    "es_ES": "Zaowu",
+    "pt_BR": "Zaowu"
+  },
+  "是否选项默认支持": {
+    "ja_JP": "はい/いいえオプション（デフォルト有効）",
+    "ko_KR": "예/아니오 옵션(기본 활성화)",
+    "es_ES": "Opción Sí/No (activada por defecto)",
+    "pt_BR": "Opção Sim/Não (ativada por padrão)"
+  },
+  "未找到领取奖励按钮": {
+    "ja_JP": "報酬受け取りボタンが見つかりません",
+    "ko_KR": "보상 수령 버튼을 찾을 수 없습니다",
+    "es_ES": "No se encontró el botón de reclamar recompensa",
+    "pt_BR": "Botão de resgatar recompensa não encontrado"
+  },
+  "本轮完成": {
+    "ja_JP": "今ラウンド完了",
+    "ko_KR": "이번 라운드 완료",
+    "es_ES": "Ronda completada",
+    "pt_BR": "Rodada concluída"
+  },
+  "条件命令、一个或多个目标命令": {
+    "ja_JP": "条件コマンド、1 つ以上の対象コマンド",
+    "ko_KR": "조건 명령, 하나 이상의 대상 명령",
+    "es_ES": "Comando de condición seguido de uno o más comandos objetivo",
+    "pt_BR": "Comando de condição seguido de um ou mais comandos alvo"
+  },
+  "条件执行：仅可使用标记为（可用于 if_ 条件）的命令作为条件命令": {
+    "ja_JP": "条件実行：（if_ 条件に使用可）とマークされたコマンドのみ条件コマンドに使用できます",
+    "ko_KR": "조건 실행: (if_ 조건에 사용 가능)으로 표시된 명령만 조건 명령으로 사용할 수 있습니다",
+    "es_ES": "Ejecución condicional: solo los comandos marcados como (usable en condición if_) pueden ser la condición",
+    "pt_BR": "Execução condicional: apenas comandos marcados como (utilizável em condição if_) podem ser a condição"
+  },
+  "松开按键": {
+    "ja_JP": "キーを離す",
+    "ko_KR": "키 떼기",
+    "es_ES": "Soltar una tecla",
+    "pt_BR": "Soltar uma tecla"
+  },
+  "检测 |": {
+    "ja_JP": "検出 |",
+    "ko_KR": "감지 |",
+    "es_ES": "Detectar |",
+    "pt_BR": "Detectar |"
+  },
+  "检测到结算界面": {
+    "ja_JP": "結果画面を検出",
+    "ko_KR": "결산 화면 감지",
+    "es_ES": "Pantalla de resultados detectada",
+    "pt_BR": "Tela de resultados detectada"
+  },
+  "正在传送至目标地点": {
+    "ja_JP": "目的地へテレポート中",
+    "ko_KR": "목적지로 텔레포트 중",
+    "es_ES": "Teletransportando al destino",
+    "pt_BR": "Teletransportando para o destino"
+  },
+  "正在打开邮件面板": {
+    "ja_JP": "メールパネルを開いています",
+    "ko_KR": "메일 패널 여는 중",
+    "es_ES": "Abriendo panel de correo",
+    "pt_BR": "Abrindo painel de correio"
+  },
+  "正在执行每日活跃度任务": {
+    "ja_JP": "デイリーアクティビティタスクを実行中",
+    "ko_KR": "일일 활동도 태스크 실행 중",
+    "es_ES": "Ejecutando tarea de actividad diaria",
+    "pt_BR": "Executando tarefa de atividade diária"
+  },
+  "正在领取一咖舍奖励": {
+    "ja_JP": "カフェ報酬を受け取り中",
+    "ko_KR": "카페 보상 수령 중",
+    "es_ES": "Reclamando recompensas del café",
+    "pt_BR": "Resgatando recompensas do café"
+  },
+  "正在领取活跃度奖励": {
+    "ja_JP": "アクティビティ報酬を受け取り中",
+    "ko_KR": "활동도 보상 수령 중",
+    "es_ES": "Reclamando recompensas de actividad",
+    "pt_BR": "Resgatando recompensas de atividade"
+  },
+  "正在领取环期任务奖励": {
+    "ja_JP": "周期タスク報酬を受け取り中",
+    "ko_KR": "주기 임무 보상 수령 중",
+    "es_ES": "Reclamando recompensas de tareas periódicas",
+    "pt_BR": "Resgatando recompensas de tarefas periódicas"
+  },
+  "正在领取邮件奖励": {
+    "ja_JP": "メール報酬を受け取り中",
+    "ko_KR": "메일 보상 수령 중",
+    "es_ES": "Reclamando recompensas de correo",
+    "pt_BR": "Resgatando recompensas de correio"
+  },
+  "浔": {
+    "ja_JP": "シュン",
+    "ko_KR": "순",
+    "es_ES": "Xun",
+    "pt_BR": "Xun"
+  },
+  "游戏更新成功, 游戏即将重启": {
+    "ja_JP": "ゲーム更新成功、まもなく再起動します",
+    "ko_KR": "게임 업데이트 성공, 곧 재시작합니다",
+    "es_ES": "Juego actualizado correctamente; reiniciando",
+    "pt_BR": "Jogo atualizado com sucesso; reiniciando"
+  },
+  "点击同意按钮!": {
+    "ja_JP": "同意ボタンをクリック!",
+    "ko_KR": "동의 버튼 클릭!",
+    "es_ES": "¡Haciendo clic en Aceptar!",
+    "pt_BR": "Clicando no botão Concordar!"
+  },
+  "点击开始游戏! {start}": {
+    "ja_JP": "ゲーム開始をクリック! {start}",
+    "ko_KR": "게임 시작 클릭! {start}",
+    "es_ES": "¡Haciendo clic en Iniciar juego! {start}",
+    "pt_BR": "Clicando em Iniciar jogo! {start}"
+  },
+  "点击登录按钮!": {
+    "ja_JP": "ログインボタンをクリック!",
+    "ko_KR": "로그인 버튼 클릭!",
+    "es_ES": "¡Haciendo clic en Iniciar sesión!",
+    "pt_BR": "Clicando no botão Entrar!"
+  },
+  "点击触发运行任务": {
+    "ja_JP": "クリックでタスク実行",
+    "ko_KR": "클릭하여 태스크 실행",
+    "es_ES": "Clic para ejecutar tarea",
+    "pt_BR": "Clique para executar tarefa"
+  },
+  "生成文档失败: {}": {
+    "ja_JP": "ドキュメント生成失敗: {}",
+    "ko_KR": "문서 생성 실패: {}",
+    "es_ES": "Error al generar documentación: {}",
+    "pt_BR": "Falha ao gerar documentação: {}"
+  },
+  "用户点击时调用run方法": {
+    "ja_JP": "ユーザーがクリックしたとき run メソッドを呼び出す",
+    "ko_KR": "사용자 클릭 시 run 메서드 호출",
+    "es_ES": "Llama al método run cuando el usuario hace clic",
+    "pt_BR": "Chama o método run quando o usuário clica"
+  },
+  "第 {} 个项目": {
+    "ja_JP": "第 {} 項目",
+    "ko_KR": "제 {}번 항목",
+    "es_ES": "Elemento n.º {}",
+    "pt_BR": "Item n.º {}"
+  },
+  "第 {} 次": {
+    "ja_JP": "第 {} 回",
+    "ko_KR": "제 {}회",
+    "es_ES": "Ronda {}",
+    "pt_BR": "Rodada {}"
+  },
+  "第 {} 轮失败": {
+    "ja_JP": "第 {} ラウンド失敗",
+    "ko_KR": "제 {}라운드 실패",
+    "es_ES": "Ronda {} fallida",
+    "pt_BR": "Rodada {} falhou"
+  },
+  "第1列": {
+    "ja_JP": "1列目",
+    "ko_KR": "1열",
+    "es_ES": "Columna 1",
+    "pt_BR": "Coluna 1"
+  },
+  "第2列": {
+    "ja_JP": "2列目",
+    "ko_KR": "2열",
+    "es_ES": "Columna 2",
+    "pt_BR": "Coluna 2"
+  },
+  "第3": {
+    "ja_JP": "3番目",
+    "ko_KR": "3번째",
+    "es_ES": "Tercero",
+    "pt_BR": "Terceiro"
+  },
+  "第3列": {
+    "ja_JP": "3列目",
+    "ko_KR": "3열",
+    "es_ES": "Columna 3",
+    "pt_BR": "Coluna 3"
+  },
+  "第4列": {
+    "ja_JP": "4列目",
+    "ko_KR": "4열",
+    "es_ES": "Columna 4",
+    "pt_BR": "Coluna 4"
+  },
+  "第一": {
+    "ja_JP": "1番目",
+    "ko_KR": "첫 번째",
+    "es_ES": "Primero",
+    "pt_BR": "Primeiro"
+  },
+  "第二": {
+    "ja_JP": "2番目",
+    "ko_KR": "두 번째",
+    "es_ES": "Segundo",
+    "pt_BR": "Segundo"
+  },
+  "等待回到选歌界面": {
+    "ja_JP": "曲選択画面への復帰を待機",
+    "ko_KR": "곡 선택 화면 복귀 대기",
+    "es_ES": "Esperando volver a la selección de canciones",
+    "pt_BR": "Aguardando retorno à seleção de músicas"
+  },
+  "等待时间(s)，必填": {
+    "ja_JP": "待機時間(秒)、必須",
+    "ko_KR": "대기 시간(초), 필수",
+    "es_ES": "Tiempo de espera en segundos (obligatorio)",
+    "pt_BR": "Tempo de espera em segundos (obrigatório)"
+  },
+  "等待进入音游界面": {
+    "ja_JP": "リズムゲーム画面への入室を待機",
+    "ko_KR": "리듬 게임 화면 진입 대기",
+    "es_ES": "Esperando entrar al juego de ritmo",
+    "pt_BR": "Aguardando entrar no jogo de ritmo"
+  },
+  "结束执行日常任务": {
+    "ja_JP": "デイリータスク実行終了",
+    "ko_KR": "일일 임무 실행 종료",
+    "es_ES": "Ejecución de tareas diarias finalizada",
+    "pt_BR": "Execução de tarefas diárias concluída"
+  },
+  "结算确认": {
+    "ja_JP": "結果確認",
+    "ko_KR": "결산 확인",
+    "es_ES": "Confirmar resumen",
+    "pt_BR": "Confirmar resumo"
+  },
+  "自动银行差事出错": {
+    "ja_JP": "自動銀行用事エラー",
+    "ko_KR": "자동 은행 심부름 오류",
+    "es_ES": "Error de recado bancario automático",
+    "pt_BR": "Erro de recado bancário automático"
+  },
+  "自动音游任务结束，共完成 {} 次": {
+    "ja_JP": "自動リズムゲームタスク終了、計 {} 回完了",
+    "ko_KR": "자동 리듬 게임 태스크 종료, 총 {}회 완료",
+    "es_ES": "Juego de ritmo automático finalizado, completado {} veces",
+    "pt_BR": "Jogo de ritmo automático concluído, completado {} vezes"
+  },
+  "营业中": {
+    "ja_JP": "営業中",
+    "ko_KR": "영업 중",
+    "es_ES": "En operación",
+    "pt_BR": "Em operação"
+  },
+  "营业额已达标，退出营业循环": {
+    "ja_JP": "売上目標達成、営業ループを終了",
+    "ko_KR": "매출 목표 달성, 영업 루프 종료",
+    "es_ES": "Objetivo de ingresos alcanzado; saliendo del bucle de operación",
+    "pt_BR": "Meta de receita atingida; saindo do loop de operação"
+  },
+  "营业额未在超时内达标": {
+    "ja_JP": "タイムアウト内に売上目標未達",
+    "ko_KR": "제한 시간 내 매출 목표 미달성",
+    "es_ES": "Los ingresos no alcanzaron el objetivo antes del tiempo límite",
+    "pt_BR": "A receita não atingiu a meta antes do tempo limite"
+  },
+  "营业额检测超时": {
+    "ja_JP": "売上検出タイムアウト",
+    "ko_KR": "매출 확인 시간 초과",
+    "es_ES": "Comprobación de ingresos agotó el tiempo",
+    "pt_BR": "Verificação de receita expirou"
+  },
+  "薄荷": {
+    "ja_JP": "ボヘ",
+    "ko_KR": "보허",
+    "es_ES": "Bohe",
+    "pt_BR": "Bohe"
+  },
+  "跳跃一下": {
+    "ja_JP": "ジャンプ1回",
+    "ko_KR": "한 번 점프",
+    "es_ES": "Saltar una vez",
+    "pt_BR": "Pular uma vez"
+  },
+  "运行一咖舍自动化": {
+    "ja_JP": "カフェ自動化を実行",
+    "ko_KR": "카페 자동화 실행",
+    "es_ES": "Ejecutar automatización del café",
+    "pt_BR": "Executar automação do café"
+  },
+  "进入副本并等待": {
+    "ja_JP": "インスタンスに入って待機",
+    "ko_KR": "던전 입장 후 대기",
+    "es_ES": "Entrando a la instancia y esperando",
+    "pt_BR": "Entrando na instância e aguardando"
+  },
+  "进入店长特供": {
+    "ja_JP": "オーナーセレクションに入る",
+    "ko_KR": "오너 셀렉션 진입",
+    "es_ES": "Entrar a Selección del dueño",
+    "pt_BR": "Entrar na Seleção do dono"
+  },
+  "选择项目序号: {}": {
+    "ja_JP": "項目番号を選択: {}",
+    "ko_KR": "항목 번호 선택: {}",
+    "es_ES": "Seleccionando índice de elemento: {}",
+    "pt_BR": "Selecionando índice do item: {}"
+  },
+  "释放弧盘技能": {
+    "ja_JP": "アークスキルを発動",
+    "ko_KR": "아크 스킬 사용",
+    "es_ES": "Usar habilidad Arc",
+    "pt_BR": "Usar habilidade Arc"
+  },
+  "释放技能": {
+    "ja_JP": "スキルを発動",
+    "ko_KR": "스킬 사용",
+    "es_ES": "Usar habilidad",
+    "pt_BR": "Usar habilidade"
+  },
+  "释放终结技": {
+    "ja_JP": "必殺技を発動",
+    "ko_KR": "궁극기 사용",
+    "es_ES": "Usar remate",
+    "pt_BR": "Usar golpe final"
+  },
+  "长文字框选项": {
+    "ja_JP": "長文テキストフィールドオプション",
+    "ko_KR": "긴 텍스트 필드 옵션",
+    "es_ES": "Opción de campo de texto largo",
+    "pt_BR": "Opção de campo de texto longo"
+  },
+  "队伍不存在, 扫描结束": {
+    "ja_JP": "パーティが存在しません、スキャン終了",
+    "ko_KR": "파티가 존재하지 않음, 스캔 종료",
+    "es_ES": "El equipo no existe; escaneo finalizado",
+    "pt_BR": "A equipe não existe; varredura encerrada"
+  },
+  "队伍人数少于2人, 扫描结束": {
+    "ja_JP": "パーティ人数が2人未満、スキャン終了",
+    "ko_KR": "파티 인원 2명 미만, 스캔 종료",
+    "es_ES": "Equipo con menos de 2 miembros; escaneo finalizado",
+    "pt_BR": "Equipe com menos de 2 membros; varredura encerrada"
+  },
+  "零": {
+    "ja_JP": "ゼロ",
+    "ko_KR": "제로",
+    "es_ES": "Zero",
+    "pt_BR": "Zero"
+  },
+  "音游开始，按键 D/F/J/K": {
+    "ja_JP": "リズムゲーム開始、キー D/F/J/K",
+    "ko_KR": "리듬 게임 시작, 키 D/F/J/K",
+    "es_ES": "Juego de ritmo iniciado, teclas D/F/J/K",
+    "pt_BR": "Jogo de ritmo iniciado, teclas D/F/J/K"
+  },
+  "项目序号": {
+    "ja_JP": "項目番号",
+    "ko_KR": "항목 번호",
+    "es_ES": "Índice de elemento",
+    "pt_BR": "Índice do item"
+  },
+  "默认文字": {
+    "ja_JP": "デフォルトテキスト",
+    "ko_KR": "기본 텍스트",
+    "es_ES": "Texto predeterminado",
+    "pt_BR": "Texto padrão"
+  },
+  "默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字默认文字": {
+    "ja_JP": "デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト デフォルトテキスト",
+    "ko_KR": "기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트 기본 텍스트",
+    "es_ES": "texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado texto predeterminado",
+    "pt_BR": "texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão texto padrão"
+  },
+  "鼠标右键。带参数则连点鼠标右键指定秒数，无参数为单次点按": {
+    "ja_JP": "右クリック。引数ありで指定秒数連打、引数なしで単発クリック",
+    "ko_KR": "마우스 오른쪽 버튼. 인수가 있으면 지정 초 동안 연속 클릭, 없으면 한 번 클릭",
+    "es_ES": "Clic derecho. Con argumento, clics repetidos durante los segundos indicados; sin argumento, un solo clic",
+    "pt_BR": "Clique direito. Com argumento, cliques repetidos pelos segundos indicados; sem argumento, clique único"
+  },
+  "鼠标左键。带参数则连点鼠标左键指定秒数，无参数为单次点按": {
+    "ja_JP": "左クリック。引数ありで指定秒数連打、引数なしで単発クリック",
+    "ko_KR": "마우스 왼쪽 버튼. 인수가 있으면 지정 초 동안 연속 클릭, 없으면 한 번 클릭",
+    "es_ES": "Clic izquierdo. Con argumento, clics repetidos durante los segundos indicados; sin argumento, un solo clic",
+    "pt_BR": "Clique esquerdo. Com argumento, cliques repetidos pelos segundos indicados; sem argumento, clique único"
+  },
+  "鼠标按键left、right、middle, 不填默认left": {
+    "ja_JP": "マウスボタン left、right、middle、未入力時は left",
+    "ko_KR": "마우스 버튼 left, right, middle, 미입력 시 left",
+    "es_ES": "Botón del ratón: left, right, middle (predeterminado left)",
+    "pt_BR": "Botão do mouse: left, right, middle (padrão left)"
+  },
+  "（可用于 if_ 条件）": {
+    "ja_JP": "（if_ 条件に使用可）",
+    "ko_KR": "(if_ 조건에 사용 가능)",
+    "es_ES": "(usable en condición if_)",
+    "pt_BR": "(utilizável em condição if_)"
+  },
+  "空幕": {
+    "pt_BR": "Consola"
+  }
+}

@@ -1,8 +1,9 @@
-if __name__ == "__main__":
-    import ok
+import ok
 
-    from src.config import config
-    
+from src.config import config
+
+if __name__ == "__main__":
+    config = config
     config["debug"] = True
-    ok_instance = ok.OK(config)
-    ok_instance.start()
+    ok = ok.OK(config)
+    ok.start()

@@ -1,0 +1,48 @@
+{
+  "StartTab": {
+    "Please Start First": "請先啟動",
+    "Search title or exe...": "搜尋標題或 exe...",
+    "Browser": "瀏覽器"
+  },
+  "OneTimeTaskTab": {
+    "Confirm Delete": "確認刪除",
+    "Delete Script": "刪除腳本",
+    "Are you sure you want to delete the script \"{}\"?": "您確定要刪除腳本「{}」嗎？"
+  },
+  "ConfigCard": {
+    "Operation": "操作"
+  },
+  "EditTaskTab": {
+    "Class Name (English only)": "類別名稱（僅限英文）",
+    "Confirm": "確認",
+    "Description (Optional)": "描述（選填）",
+    "I understand the risks and want to import this script.": "我了解風險，仍要匯入此腳本。",
+    "Make sure that you trust the script publisher, unverified script can and not limited to steal your account/ data money, destroy your data, harm/ controlling your computer.": "請確認您信任腳本發布者，未驗證腳本可能竊取帳號／資料／金錢、毀損資料、控制電腦等。",
+    "Select task to copy...": "選擇要複製的任務...",
+    "Task Name": "任務名稱"
+  },
+  "MainWindow": {
+    "Success": "成功"
+  },
+  "ProjectCard": {
+    "GitHub": "GitHub"
+  },
+  "RunCodeTab": {
+    "Enter Python code here...": "在此輸入 Python 程式碼...",
+    "Output will be shown here...": "輸出將顯示於此...",
+    "Run Code": "執行程式碼",
+    "Run Python Code": "執行 Python 程式碼"
+  },
+  "ScheduleTaskTab": {
+    "Task Schedule": "計劃任務"
+  },
+  "SelectInteractionListView": {
+    "Default Interaction": "預設互動",
+    "WindowsInteraction": "Windows 互動"
+  },
+  "TaskCard": {
+    "Alert": "提示",
+    "Cancel": "取消",
+    "Confirm": "確認"
+  }
+}

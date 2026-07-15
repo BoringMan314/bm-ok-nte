@@ -1,0 +1,72 @@
+{
+  "zh_TW": {
+    "app": {
+      "Game Exited": "遊戲已關閉",
+      "Paused because game window is minimized or out of screen!": "已暫停：遊戲視窗已最小化或部分超出螢幕範圍！",
+      "Auto exit because game exited": "因遊戲關閉而自動關閉",
+      "Paused because game exited": "已暫停：遊戲已關閉！",
+      "Stopped": "已停止",
+      "Paused because browser exited": "已暫停：瀏覽器已關閉！"
+    }
+  },
+  "zh_CN": {
+    "app": {
+      "Game Exited": "游戏已关闭",
+      "Paused because game window is minimized or out of screen!": "已暂停：游戏窗口最小化或者部分在屏幕外！",
+      "Auto exit because game exited": "由于游戏退出, 自动关闭",
+      "Paused because game exited": "已暂停：游戏已经退出！",
+      "Stopped": "已停止",
+      "Paused because browser exited": "已暂停：浏览器已关闭！"
+    }
+  },
+  "en_US": {
+    "app": {
+      "Game Exited": "Game Exited",
+      "Paused because game window is minimized or out of screen!": "Paused because game window is minimized or out of screen!",
+      "Auto exit because game exited": "Auto exit because game exited",
+      "Paused because game exited": "Paused because game exited",
+      "Stopped": "Stopped",
+      "Paused because browser exited": "Paused because browser exited"
+    }
+  },
+  "ja_JP": {
+    "app": {
+      "Game Exited": "ゲームが終了しました",
+      "Paused because game window is minimized or out of screen!": "ゲームウィンドウが最小化または画面外のため一時停止しました！",
+      "Auto exit because game exited": "ゲームが終了したため自動終了します",
+      "Paused because game exited": "ゲームが終了したため一時停止しました",
+      "Stopped": "停止",
+      "Paused because browser exited": "ブラウザが終了したため一時停止しました"
+    }
+  },
+  "ko_KR": {
+    "app": {
+      "Game Exited": "게임이 종료됨",
+      "Paused because game window is minimized or out of screen!": "게임 창이 최소화되었거나 화면 밖에 있어 일시 중지됨!",
+      "Auto exit because game exited": "게임이 종료되어 자동 종료됨",
+      "Paused because game exited": "게임이 종료되어 일시 중지됨",
+      "Stopped": "중지됨",
+      "Paused because browser exited": "브라우저가 종료되어 일시 중지됨"
+    }
+  },
+  "es_ES": {
+    "app": {
+      "Game Exited": "Juego cerrado",
+      "Paused because game window is minimized or out of screen!": "¡Pausado porque la ventana del juego está minimizada o fuera de la pantalla!",
+      "Auto exit because game exited": "Cierre automático porque el juego se cerró",
+      "Paused because game exited": "Pausado porque el juego se cerró",
+      "Stopped": "Detenido",
+      "Paused because browser exited": "Pausado porque el navegador se cerró"
+    }
+  },
+  "pt_BR": {
+    "app": {
+      "Game Exited": "Jogo encerrado",
+      "Paused because game window is minimized or out of screen!": "Pausado porque a janela do jogo está minimizada ou fora da tela!",
+      "Auto exit because game exited": "Fechamento automático porque o jogo foi encerrado",
+      "Paused because game exited": "Pausado porque o jogo foi encerrado",
+      "Stopped": "Parado",
+      "Paused because browser exited": "Pausado porque o navegador foi encerrado"
+    }
+  }
+}

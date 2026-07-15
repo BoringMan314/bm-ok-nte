@@ -1,0 +1,41 @@
+{
+  "zh_TW": {
+    "MainWindow": {
+      "Exit": "離開",
+      "Download update": "下載更新",
+      "New version available: {version}.": "有新版本：{version}。"
+    }
+  },
+  "zh_CN": {
+    "MainWindow": {
+      "Exit": "离开",
+      "Download update": "下载更新",
+      "New version available: {version}.": "有可用新版本：{version}。"
+    }
+  },
+  "ja_JP": {
+    "MainWindow": {
+      "About": "バージョン情報",
+      "Download update": "更新をダウンロード",
+      "New version available: {version}.": "新しいバージョンがあります：{version}。"
+    }
+  },
+  "en_US": {
+    "MainWindow": {
+      "Download update": "Download update",
+      "New version available: {version}.": "New version available: {version}."
+    }
+  },
+  "ko_KR": {
+    "MainWindow": {
+      "Download update": "Download update",
+      "New version available: {version}.": "New version available: {version}."
+    }
+  },
+  "es_ES": {
+    "MainWindow": {
+      "Download update": "Download update",
+      "New version available: {version}.": "New version available: {version}."
+    }
+  }
+}
