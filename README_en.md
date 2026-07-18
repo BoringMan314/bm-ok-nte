@@ -7,11 +7,13 @@
   <p>Developed based on the <a href="https://github.com/ok-oldking/ok-script">ok-script</a> framework.</p>
   
   <p>
-    <img src="https://img.shields.io/badge/platform-Windows-blue" alt="Platform">
-    <img src="https://img.shields.io/badge/python-3.12-skyblue" alt="Python Version">
-    <a href="https://github.com/BnanZ0/ok-nte/releases"><img src="https://img.shields.io/github/downloads/BnanZ0/ok-nte/total" alt="Total Downloads"></a>
-    <a href="https://github.com/BnanZ0/ok-nte/releases"><img src="https://img.shields.io/github/v/release/BnanZ0/ok-nte" alt="Latest Release"></a>
-    <a href="https://discord.gg/vVyCatEBgA"><img alt="Discord" src="https://img.shields.io/discord/296598043787132928?color=5865f2&label=%20Discord"></a>
+
+[![platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/BoringMan314/bm-ok-nte)
+[![Python](https://img.shields.io/badge/python-3.12-skyblue)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-bm--ok--nte-181717?logo=github)](https://github.com/BoringMan314/bm-ok-nte)
+[![GitHub all releases](https://img.shields.io/github/downloads/BoringMan314/bm-ok-nte/total)](https://github.com/BoringMan314/bm-ok-nte/releases)
+[![Discord](https://img.shields.io/discord/296598043787132928?color=5865f2&label=%20Discord)](https://discord.gg/vVyCatEBgA)
+
   </p>
 
   <p>
