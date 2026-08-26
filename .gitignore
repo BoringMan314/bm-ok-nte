@@ -75,3 +75,8 @@ temp_images/
 !mid_lib/
 mid_lib/*
 !mid_lib/public
+
+*.cul
+
+*.url
+*.zip
