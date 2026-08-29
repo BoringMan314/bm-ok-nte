@@ -6,7 +6,6 @@ tesseract
 models
 fonts
 data2
-# Byte-compiled / optimized / DLL files
 .idea/
 data_export
 data_import
@@ -25,10 +24,7 @@ click_screenshots/
 test_scripts/
 screenshots/
 thread_dumps.txt
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 test/
 logs/
@@ -52,13 +48,7 @@ MANIFEST
 venv/
 .venv/
 python/
-
-# PyInstaller
-# Usually these files are written by a python script from a template
-# before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
-
-# Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
 autohelper
@@ -70,13 +60,8 @@ ok_tasks/
 ok_import/
 temp_images/
 .ruff_cache
-
-#midi
 !mid_lib/
 mid_lib/*
 !mid_lib/public
-
-*.cul
-
-*.url
-*.zip
+/*.url
+/*.zip
